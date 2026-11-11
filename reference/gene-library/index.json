@@ -1,0 +1,7549 @@
+[
+ {
+  "symbol": "ABCB1",
+  "full_name": "ATP binding cassette subfamily B member 1",
+  "ncbi_gene_id": "5243",
+  "chromosome": "7",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "ABCB1.md"
+ },
+ {
+  "symbol": "ABCB11",
+  "full_name": "ATP binding cassette subfamily B member 11",
+  "ncbi_gene_id": "8647",
+  "chromosome": "2",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "ABCB11.md"
+ },
+ {
+  "symbol": "ABCB4",
+  "full_name": "ATP binding cassette subfamily B member 4",
+  "ncbi_gene_id": "5244",
+  "chromosome": "7",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "ABCB4.md"
+ },
+ {
+  "symbol": "ABCB5",
+  "full_name": "ATP binding cassette subfamily B member 5",
+  "ncbi_gene_id": "340273",
+  "chromosome": "7",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "ABCB5.md"
+ },
+ {
+  "symbol": "ABCB6",
+  "full_name": "ATP binding cassette subfamily B member 6 (LAN blood group)",
+  "ncbi_gene_id": "10058",
+  "chromosome": "2",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "ABCB6.md"
+ },
+ {
+  "symbol": "ABCB7",
+  "full_name": "ATP binding cassette subfamily B member 7",
+  "ncbi_gene_id": "22",
+  "chromosome": "X",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "ABCB7.md"
+ },
+ {
+  "symbol": "ABCB8",
+  "full_name": "ATP binding cassette subfamily B member 8",
+  "ncbi_gene_id": "11194",
+  "chromosome": "7",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "ABCB8.md"
+ },
+ {
+  "symbol": "ABCB9",
+  "full_name": "ATP binding cassette subfamily B member 9",
+  "ncbi_gene_id": "23457",
+  "chromosome": "12",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "ABCB9.md"
+ },
+ {
+  "symbol": "ABCC1",
+  "full_name": "ATP binding cassette subfamily C member 1 (ABCC1 blood group)",
+  "ncbi_gene_id": "4363",
+  "chromosome": "16",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "powers_family_named": true,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "ABCC1.md"
+ },
+ {
+  "symbol": "ABCC10",
+  "full_name": "ATP binding cassette subfamily C member 10",
+  "ncbi_gene_id": "89845",
+  "chromosome": "6",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "powers_family_named": true,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "ABCC10.md"
+ },
+ {
+  "symbol": "ABCC11",
+  "full_name": "ATP binding cassette subfamily C member 11",
+  "ncbi_gene_id": "85320",
+  "chromosome": "16",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "powers_family_named": true,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "ABCC11.md"
+ },
+ {
+  "symbol": "ABCC2",
+  "full_name": "ATP binding cassette subfamily C member 2",
+  "ncbi_gene_id": "1244",
+  "chromosome": "10",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": true,
+  "in_prior_library": true,
+  "verification_status": "verified",
+  "page": "ABCC2.md"
+ },
+ {
+  "symbol": "ABCC3",
+  "full_name": "ATP binding cassette subfamily C member 3",
+  "ncbi_gene_id": "8714",
+  "chromosome": "17",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "powers_family_named": true,
+  "in_prior_library": true,
+  "verification_status": "verified",
+  "page": "ABCC3.md"
+ },
+ {
+  "symbol": "ABCC4",
+  "full_name": "ATP binding cassette subfamily C member 4 (PEL blood group)",
+  "ncbi_gene_id": "10257",
+  "chromosome": "13",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "powers_family_named": true,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "ABCC4.md"
+ },
+ {
+  "symbol": "ABCC5",
+  "full_name": "ATP binding cassette subfamily C member 5",
+  "ncbi_gene_id": "10057",
+  "chromosome": "3",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": true,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "ABCC5.md"
+ },
+ {
+  "symbol": "ABCC6",
+  "full_name": "ATP binding cassette subfamily C member 6",
+  "ncbi_gene_id": "368",
+  "chromosome": "16",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "powers_family_named": true,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "ABCC6.md"
+ },
+ {
+  "symbol": "ABCC8",
+  "full_name": "ATP binding cassette subfamily C member 8",
+  "ncbi_gene_id": "6833",
+  "chromosome": "11",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "powers_family_named": true,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "ABCC8.md"
+ },
+ {
+  "symbol": "ABCC9",
+  "full_name": "ATP binding cassette subfamily C member 9",
+  "ncbi_gene_id": "10060",
+  "chromosome": "12",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "powers_family_named": true,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "ABCC9.md"
+ },
+ {
+  "symbol": "ABCG1",
+  "full_name": "ATP binding cassette subfamily G member 1",
+  "ncbi_gene_id": "9619",
+  "chromosome": "21",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "ABCG1.md"
+ },
+ {
+  "symbol": "ABCG2",
+  "full_name": "ATP binding cassette subfamily G member 2 (JR blood group)",
+  "ncbi_gene_id": "9429",
+  "chromosome": "4",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "ABCG2.md"
+ },
+ {
+  "symbol": "ABCG4",
+  "full_name": "ATP binding cassette subfamily G member 4",
+  "ncbi_gene_id": "64137",
+  "chromosome": "11",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "ABCG4.md"
+ },
+ {
+  "symbol": "ACE",
+  "full_name": "angiotensin I converting enzyme",
+  "ncbi_gene_id": "1636",
+  "chromosome": "17",
+  "families": [
+   "general-physiology"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "ACE.md"
+ },
+ {
+  "symbol": "AHCY",
+  "full_name": "adenosylhomocysteinase",
+  "ncbi_gene_id": "191",
+  "chromosome": "20",
+  "families": [
+   "methylation-one-carbon"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "AHCY.md"
+ },
+ {
+  "symbol": "AKR1B1",
+  "full_name": "aldo-keto reductase family 1 member B",
+  "ncbi_gene_id": "231",
+  "chromosome": "7",
+  "families": [
+   "drug-metabolism"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "AKR1B1.md"
+ },
+ {
+  "symbol": "AKR1B10",
+  "full_name": "aldo-keto reductase family 1 member B10",
+  "ncbi_gene_id": "57016",
+  "chromosome": "7",
+  "families": [
+   "drug-metabolism"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "AKR1B10.md"
+ },
+ {
+  "symbol": "AKR1C1",
+  "full_name": "aldo-keto reductase family 1 member C1",
+  "ncbi_gene_id": "1645",
+  "chromosome": "10",
+  "families": [
+   "steroid-synthesis",
+   "steroid-conjugation-clearance"
+  ],
+  "powers_named": true,
+  "in_prior_library": true,
+  "verification_status": "verified",
+  "page": "AKR1C1.md"
+ },
+ {
+  "symbol": "AKR1C2",
+  "full_name": "aldo-keto reductase family 1 member C2",
+  "ncbi_gene_id": "1646",
+  "chromosome": "10",
+  "families": [
+   "steroid-synthesis",
+   "steroid-conjugation-clearance"
+  ],
+  "powers_named": true,
+  "in_prior_library": true,
+  "verification_status": "verified",
+  "page": "AKR1C2.md"
+ },
+ {
+  "symbol": "AKR1C3",
+  "full_name": "aldo-keto reductase family 1 member C3",
+  "ncbi_gene_id": "8644",
+  "chromosome": "10",
+  "families": [
+   "steroid-synthesis",
+   "steroid-conjugation-clearance",
+   "retinoid-signaling"
+  ],
+  "powers_named": true,
+  "in_prior_library": true,
+  "verification_status": "verified",
+  "page": "AKR1C3.md"
+ },
+ {
+  "symbol": "AKR1C4",
+  "full_name": "aldo-keto reductase family 1 member C4",
+  "ncbi_gene_id": "1109",
+  "chromosome": "10",
+  "families": [
+   "steroid-synthesis",
+   "steroid-conjugation-clearance"
+  ],
+  "powers_named": true,
+  "in_prior_library": true,
+  "verification_status": "verified",
+  "page": "AKR1C4.md"
+ },
+ {
+  "symbol": "AKR1D1",
+  "full_name": "aldo-keto reductase family 1 member D1",
+  "ncbi_gene_id": "6718",
+  "chromosome": "7",
+  "families": [
+   "steroid-synthesis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "AKR1D1.md"
+ },
+ {
+  "symbol": "ALB",
+  "full_name": "albumin",
+  "ncbi_gene_id": "213",
+  "chromosome": "4",
+  "families": [
+   "hpg-gonadal-axis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "ALB.md"
+ },
+ {
+  "symbol": "ALDH1A1",
+  "full_name": "aldehyde dehydrogenase 1 family member A1",
+  "ncbi_gene_id": "216",
+  "chromosome": "9",
+  "families": [
+   "drug-metabolism",
+   "retinoid-signaling"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "ALDH1A1.md"
+ },
+ {
+  "symbol": "ALDH1A2",
+  "full_name": "aldehyde dehydrogenase 1 family member A2",
+  "ncbi_gene_id": "8854",
+  "chromosome": "15",
+  "families": [
+   "drug-metabolism",
+   "retinoid-signaling"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "ALDH1A2.md"
+ },
+ {
+  "symbol": "ALDH1A3",
+  "full_name": "aldehyde dehydrogenase 1 family member A3",
+  "ncbi_gene_id": "220",
+  "chromosome": "15",
+  "families": [
+   "retinoid-signaling"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "ALDH1A3.md"
+ },
+ {
+  "symbol": "ALDH2",
+  "full_name": "aldehyde dehydrogenase 2 family member",
+  "ncbi_gene_id": "217",
+  "chromosome": "12",
+  "families": [
+   "drug-metabolism"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "ALDH2.md"
+ },
+ {
+  "symbol": "APOA1",
+  "full_name": "apolipoprotein A1",
+  "ncbi_gene_id": "335",
+  "chromosome": "11",
+  "families": [
+   "lipid-steroid-homeostasis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "APOA1.md"
+ },
+ {
+  "symbol": "APOB",
+  "full_name": "apolipoprotein B",
+  "ncbi_gene_id": "338",
+  "chromosome": "2",
+  "families": [
+   "lipid-steroid-homeostasis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "APOB.md"
+ },
+ {
+  "symbol": "AR",
+  "full_name": "androgen receptor",
+  "ncbi_gene_id": "367",
+  "chromosome": "X",
+  "families": [
+   "steroid-nuclear-receptors"
+  ],
+  "powers_named": true,
+  "in_prior_library": true,
+  "verification_status": "verified",
+  "page": "AR.md"
+ },
+ {
+  "symbol": "ARID1A",
+  "full_name": "AT-rich interaction domain 1A",
+  "ncbi_gene_id": "8289",
+  "chromosome": "1",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": true,
+  "in_prior_library": true,
+  "verification_status": "verified",
+  "page": "ARID1A.md"
+ },
+ {
+  "symbol": "ARID1B",
+  "full_name": "AT-rich interaction domain 1B",
+  "ncbi_gene_id": "57492",
+  "chromosome": "6",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "ARID1B.md"
+ },
+ {
+  "symbol": "ARID2",
+  "full_name": "AT-rich interaction domain 2",
+  "ncbi_gene_id": "196528",
+  "chromosome": "12",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "ARID2.md"
+ },
+ {
+  "symbol": "ARSA",
+  "full_name": "arylsulfatase A",
+  "ncbi_gene_id": "410",
+  "chromosome": "22",
+  "families": [
+   "steroid-conjugation-clearance"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "ARSA.md"
+ },
+ {
+  "symbol": "ARSG",
+  "full_name": "arylsulfatase G",
+  "ncbi_gene_id": "22901",
+  "chromosome": "17",
+  "families": [
+   "steroid-conjugation-clearance"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "ARSG.md"
+ },
+ {
+  "symbol": "ATP5F1A",
+  "full_name": "ATP synthase F1 subunit alpha",
+  "ncbi_gene_id": "498",
+  "chromosome": "18",
+  "families": [
+   "mitochondrial-energy"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "ATP5F1A.md"
+ },
+ {
+  "symbol": "ATP5F1B",
+  "full_name": "ATP synthase F1 subunit beta",
+  "ncbi_gene_id": "506",
+  "chromosome": "12",
+  "families": [
+   "mitochondrial-energy"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "ATP5F1B.md"
+ },
+ {
+  "symbol": "AVPR1A",
+  "full_name": "arginine vasopressin receptor 1A",
+  "ncbi_gene_id": "552",
+  "chromosome": "12",
+  "families": [
+   "neuroendocrine-signaling"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "AVPR1A.md"
+ },
+ {
+  "symbol": "AVPR1B",
+  "full_name": "arginine vasopressin receptor 1B",
+  "ncbi_gene_id": "553",
+  "chromosome": "1",
+  "families": [
+   "neuroendocrine-signaling"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "AVPR1B.md"
+ },
+ {
+  "symbol": "AVPR2",
+  "full_name": "arginine vasopressin receptor 2",
+  "ncbi_gene_id": "554",
+  "chromosome": "X",
+  "families": [
+   "neuroendocrine-signaling"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "AVPR2.md"
+ },
+ {
+  "symbol": "BAG1",
+  "full_name": "BAG cochaperone 1",
+  "ncbi_gene_id": "573",
+  "chromosome": "9",
+  "families": [
+   "steroid-receptor-chaperones"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "BAG1.md"
+ },
+ {
+  "symbol": "BAG3",
+  "full_name": "BAG cochaperone 3",
+  "ncbi_gene_id": "9531",
+  "chromosome": "10",
+  "families": [
+   "steroid-receptor-chaperones"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "BAG3.md"
+ },
+ {
+  "symbol": "BCL2L1",
+  "full_name": "BCL2 like 1",
+  "ncbi_gene_id": "598",
+  "chromosome": "20",
+  "families": [
+   "general-physiology"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "BCL2L1.md"
+ },
+ {
+  "symbol": "BCL7A",
+  "full_name": "BAF chromatin remodeling complex subunit BCL7A",
+  "ncbi_gene_id": "605",
+  "chromosome": "12",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "BCL7A.md"
+ },
+ {
+  "symbol": "BCL7B",
+  "full_name": "BAF chromatin remodeling complex subunit BCL7B",
+  "ncbi_gene_id": "9275",
+  "chromosome": "7",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "BCL7B.md"
+ },
+ {
+  "symbol": "BCL7C",
+  "full_name": "BAF chromatin remodeling complex subunit BCL7C",
+  "ncbi_gene_id": "9274",
+  "chromosome": "16",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "BCL7C.md"
+ },
+ {
+  "symbol": "BDNF",
+  "full_name": "brain derived neurotrophic factor",
+  "ncbi_gene_id": "627",
+  "chromosome": "11",
+  "families": [
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "BDNF.md"
+ },
+ {
+  "symbol": "BHMT",
+  "full_name": "betaine--homocysteine S-methyltransferase",
+  "ncbi_gene_id": "635",
+  "chromosome": "5",
+  "families": [
+   "methylation-one-carbon"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "BHMT.md"
+ },
+ {
+  "symbol": "BPTF",
+  "full_name": "bromodomain PHD finger transcription factor",
+  "ncbi_gene_id": "2186",
+  "chromosome": "17",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "BPTF.md"
+ },
+ {
+  "symbol": "BRD2",
+  "full_name": "bromodomain containing 2",
+  "ncbi_gene_id": "6046",
+  "chromosome": "6",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "BRD2.md"
+ },
+ {
+  "symbol": "BRD3",
+  "full_name": "bromodomain containing 3",
+  "ncbi_gene_id": "8019",
+  "chromosome": "9",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "BRD3.md"
+ },
+ {
+  "symbol": "BRD4",
+  "full_name": "bromodomain containing 4",
+  "ncbi_gene_id": "23476",
+  "chromosome": "19",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "BRD4.md"
+ },
+ {
+  "symbol": "BRD7",
+  "full_name": "bromodomain containing 7",
+  "ncbi_gene_id": "29117",
+  "chromosome": "16",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "BRD7.md"
+ },
+ {
+  "symbol": "BRD9",
+  "full_name": "bromodomain containing 9",
+  "ncbi_gene_id": "65980",
+  "chromosome": "5",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "BRD9.md"
+ },
+ {
+  "symbol": "BRDT",
+  "full_name": "bromodomain testis associated",
+  "ncbi_gene_id": "676",
+  "chromosome": "1",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "BRDT.md"
+ },
+ {
+  "symbol": "BRPF1",
+  "full_name": "bromodomain and PHD finger containing 1",
+  "ncbi_gene_id": "7862",
+  "chromosome": "3",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "BRPF1.md"
+ },
+ {
+  "symbol": "BRPF3",
+  "full_name": "bromodomain and PHD finger containing 3",
+  "ncbi_gene_id": "27154",
+  "chromosome": "6",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "BRPF3.md"
+ },
+ {
+  "symbol": "CAT",
+  "full_name": "catalase",
+  "ncbi_gene_id": "847",
+  "chromosome": "11",
+  "families": [
+   "mitochondrial-energy"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "CAT.md"
+ },
+ {
+  "symbol": "CHD1",
+  "full_name": "chromodomain helicase DNA binding protein 1",
+  "ncbi_gene_id": "1105",
+  "chromosome": "5",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "CHD1.md"
+ },
+ {
+  "symbol": "CHD2",
+  "full_name": "chromodomain helicase DNA binding protein 2",
+  "ncbi_gene_id": "1106",
+  "chromosome": "15",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "CHD2.md"
+ },
+ {
+  "symbol": "CHD3",
+  "full_name": "chromodomain helicase DNA binding protein 3",
+  "ncbi_gene_id": "1107",
+  "chromosome": "17",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "CHD3.md"
+ },
+ {
+  "symbol": "CHD4",
+  "full_name": "chromodomain helicase DNA binding protein 4",
+  "ncbi_gene_id": "1108",
+  "chromosome": "12",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "CHD4.md"
+ },
+ {
+  "symbol": "CHD5",
+  "full_name": "chromodomain helicase DNA binding protein 5",
+  "ncbi_gene_id": "26038",
+  "chromosome": "1",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "CHD5.md"
+ },
+ {
+  "symbol": "CHD6",
+  "full_name": "chromodomain helicase DNA binding protein 6",
+  "ncbi_gene_id": "84181",
+  "chromosome": "20",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "CHD6.md"
+ },
+ {
+  "symbol": "CHD7",
+  "full_name": "chromodomain helicase DNA binding protein 7",
+  "ncbi_gene_id": "55636",
+  "chromosome": "8",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "CHD7.md"
+ },
+ {
+  "symbol": "CHD8",
+  "full_name": "chromodomain helicase DNA binding protein 8",
+  "ncbi_gene_id": "57680",
+  "chromosome": "14",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": true,
+  "in_prior_library": true,
+  "verification_status": "verified",
+  "page": "CHD8.md"
+ },
+ {
+  "symbol": "CHD9",
+  "full_name": "chromodomain helicase DNA binding protein 9",
+  "ncbi_gene_id": "80205",
+  "chromosome": "16",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "CHD9.md"
+ },
+ {
+  "symbol": "CHRM2",
+  "full_name": "cholinergic receptor muscarinic 2",
+  "ncbi_gene_id": "1129",
+  "chromosome": "7",
+  "families": [
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "CHRM2.md"
+ },
+ {
+  "symbol": "CHRM3",
+  "full_name": "cholinergic receptor muscarinic 3",
+  "ncbi_gene_id": "1131",
+  "chromosome": "1",
+  "families": [
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "CHRM3.md"
+ },
+ {
+  "symbol": "CLOCK",
+  "full_name": "clock circadian regulator",
+  "ncbi_gene_id": "9575",
+  "chromosome": "4",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "CLOCK.md"
+ },
+ {
+  "symbol": "COMT",
+  "full_name": "catechol-O-methyltransferase",
+  "ncbi_gene_id": "1312",
+  "chromosome": "22",
+  "families": [
+   "drug-metabolism",
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "COMT.md"
+ },
+ {
+  "symbol": "COMTD1",
+  "full_name": "catechol-O-methyltransferase domain containing 1",
+  "ncbi_gene_id": "118881",
+  "chromosome": "10",
+  "families": [
+   "drug-metabolism",
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "COMTD1.md"
+ },
+ {
+  "symbol": "COX10",
+  "full_name": "cytochrome c oxidase assembly factor heme A:farnesyltransferase COX10",
+  "ncbi_gene_id": "1352",
+  "chromosome": "17",
+  "families": [
+   "mitochondrial-energy"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "COX10.md"
+ },
+ {
+  "symbol": "COX15",
+  "full_name": "cytochrome c oxidase assembly factor COX15",
+  "ncbi_gene_id": "1355",
+  "chromosome": "10",
+  "families": [
+   "mitochondrial-energy"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "COX15.md"
+ },
+ {
+  "symbol": "CRABP2",
+  "full_name": "cellular retinoic acid binding protein 2",
+  "ncbi_gene_id": "1382",
+  "chromosome": "1",
+  "families": [
+   "retinoid-signaling"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "CRABP2.md"
+ },
+ {
+  "symbol": "CREB1",
+  "full_name": "cAMP responsive element binding protein 1",
+  "ncbi_gene_id": "1385",
+  "chromosome": "2",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "CREB1.md"
+ },
+ {
+  "symbol": "CREBBP",
+  "full_name": "CREB binding lysine acetyltransferase",
+  "ncbi_gene_id": "1387",
+  "chromosome": "16",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "CREBBP.md"
+ },
+ {
+  "symbol": "CTCF",
+  "full_name": "CCCTC-binding factor",
+  "ncbi_gene_id": "10664",
+  "chromosome": "16",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "CTCF.md"
+ },
+ {
+  "symbol": "CUBN",
+  "full_name": "cubilin",
+  "ncbi_gene_id": "8029",
+  "chromosome": "10",
+  "families": [
+   "lipid-steroid-homeostasis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "CUBN.md"
+ },
+ {
+  "symbol": "CYB5A",
+  "full_name": "cytochrome b5 type A",
+  "ncbi_gene_id": "1528",
+  "chromosome": "18",
+  "families": [
+   "steroid-synthesis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "CYB5A.md"
+ },
+ {
+  "symbol": "CYP11A1",
+  "full_name": "cytochrome P450 family 11 subfamily A member 1",
+  "ncbi_gene_id": "1583",
+  "chromosome": "15",
+  "families": [
+   "steroid-synthesis"
+  ],
+  "powers_named": true,
+  "in_prior_library": true,
+  "verification_status": "verified",
+  "page": "CYP11A1.md"
+ },
+ {
+  "symbol": "CYP11B1",
+  "full_name": "cytochrome P450 family 11 subfamily B member 1",
+  "ncbi_gene_id": "1584",
+  "chromosome": "8",
+  "families": [
+   "steroid-synthesis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "CYP11B1.md"
+ },
+ {
+  "symbol": "CYP11B2",
+  "full_name": "cytochrome P450 family 11 subfamily B member 2",
+  "ncbi_gene_id": "1585",
+  "chromosome": "8",
+  "families": [
+   "steroid-synthesis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "CYP11B2.md"
+ },
+ {
+  "symbol": "CYP17A1",
+  "full_name": "cytochrome P450 family 17 subfamily A member 1",
+  "ncbi_gene_id": "1586",
+  "chromosome": "10",
+  "families": [
+   "steroid-synthesis"
+  ],
+  "powers_named": false,
+  "in_prior_library": true,
+  "verification_status": "verified",
+  "page": "CYP17A1.md"
+ },
+ {
+  "symbol": "CYP19A1",
+  "full_name": "cytochrome P450 family 19 subfamily A member 1",
+  "ncbi_gene_id": "1588",
+  "chromosome": "15",
+  "families": [
+   "steroid-synthesis"
+  ],
+  "powers_named": false,
+  "in_prior_library": true,
+  "verification_status": "verified",
+  "page": "CYP19A1.md"
+ },
+ {
+  "symbol": "CYP1A1",
+  "full_name": "cytochrome P450 family 1 subfamily A member 1",
+  "ncbi_gene_id": "1543",
+  "chromosome": "15",
+  "families": [
+   "drug-metabolism"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "CYP1A1.md"
+ },
+ {
+  "symbol": "CYP1A2",
+  "full_name": "cytochrome P450 family 1 subfamily A member 2",
+  "ncbi_gene_id": "1544",
+  "chromosome": "15",
+  "families": [
+   "drug-metabolism"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "CYP1A2.md"
+ },
+ {
+  "symbol": "CYP1B1",
+  "full_name": "cytochrome P450 family 1 subfamily B member 1",
+  "ncbi_gene_id": "1545",
+  "chromosome": "2",
+  "families": [
+   "drug-metabolism"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "CYP1B1.md"
+ },
+ {
+  "symbol": "CYP21A2",
+  "full_name": "cytochrome P450 family 21 subfamily A member 2",
+  "ncbi_gene_id": "1589",
+  "chromosome": "6",
+  "families": [
+   "steroid-synthesis"
+  ],
+  "powers_named": true,
+  "in_prior_library": true,
+  "verification_status": "verified",
+  "page": "CYP21A2.md"
+ },
+ {
+  "symbol": "CYP26A1",
+  "full_name": "cytochrome P450 family 26 subfamily A member 1",
+  "ncbi_gene_id": "1592",
+  "chromosome": "10",
+  "families": [
+   "retinoid-signaling"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "CYP26A1.md"
+ },
+ {
+  "symbol": "CYP26B1",
+  "full_name": "cytochrome P450 family 26 subfamily B member 1",
+  "ncbi_gene_id": "56603",
+  "chromosome": "2",
+  "families": [
+   "retinoid-signaling"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "CYP26B1.md"
+ },
+ {
+  "symbol": "CYP2C19",
+  "full_name": "cytochrome P450 family 2 subfamily C member 19",
+  "ncbi_gene_id": "1557",
+  "chromosome": "10",
+  "families": [
+   "drug-metabolism"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "CYP2C19.md"
+ },
+ {
+  "symbol": "CYP2C8",
+  "full_name": "cytochrome P450 family 2 subfamily C member 8",
+  "ncbi_gene_id": "1558",
+  "chromosome": "10",
+  "families": [
+   "retinoid-signaling"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "CYP2C8.md"
+ },
+ {
+  "symbol": "CYP2D6",
+  "full_name": "cytochrome P450 family 2 subfamily D member 6 (gene/pseudogene)",
+  "ncbi_gene_id": "1565",
+  "chromosome": "22",
+  "families": [
+   "drug-metabolism"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "CYP2D6.md"
+ },
+ {
+  "symbol": "CYP2E1",
+  "full_name": "cytochrome P450 family 2 subfamily E member 1",
+  "ncbi_gene_id": "1571",
+  "chromosome": "10",
+  "families": [
+   "drug-metabolism"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "CYP2E1.md"
+ },
+ {
+  "symbol": "CYP2J2",
+  "full_name": "cytochrome P450 family 2 subfamily J member 2",
+  "ncbi_gene_id": "1573",
+  "chromosome": "1",
+  "families": [
+   "drug-metabolism"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "CYP2J2.md"
+ },
+ {
+  "symbol": "CYP3A4",
+  "full_name": "cytochrome P450 family 3 subfamily A member 4",
+  "ncbi_gene_id": "1576",
+  "chromosome": "7",
+  "families": [
+   "drug-metabolism"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "CYP3A4.md"
+ },
+ {
+  "symbol": "CYP3A43",
+  "full_name": "cytochrome P450 family 3 subfamily A member 43",
+  "ncbi_gene_id": "64816",
+  "chromosome": "7",
+  "families": [
+   "drug-metabolism"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "CYP3A43.md"
+ },
+ {
+  "symbol": "CYP3A5",
+  "full_name": "cytochrome P450 family 3 subfamily A member 5",
+  "ncbi_gene_id": "1577",
+  "chromosome": "7",
+  "families": [
+   "drug-metabolism"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "CYP3A5.md"
+ },
+ {
+  "symbol": "CYP3A7",
+  "full_name": "cytochrome P450 family 3 subfamily A member 7",
+  "ncbi_gene_id": "1551",
+  "chromosome": "7",
+  "families": [
+   "drug-metabolism"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "CYP3A7.md"
+ },
+ {
+  "symbol": "CYP4F11",
+  "full_name": "cytochrome P450 family 4 subfamily F member 11",
+  "ncbi_gene_id": "57834",
+  "chromosome": "19",
+  "families": [
+   "drug-metabolism"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "CYP4F11.md"
+ },
+ {
+  "symbol": "CYP4F8",
+  "full_name": "cytochrome P450 family 4 subfamily F member 8",
+  "ncbi_gene_id": "11283",
+  "chromosome": "19",
+  "families": [
+   "drug-metabolism"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "CYP4F8.md"
+ },
+ {
+  "symbol": "DBH",
+  "full_name": "dopamine beta-hydroxylase",
+  "ncbi_gene_id": "1621",
+  "chromosome": "9",
+  "families": [
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "DBH.md"
+ },
+ {
+  "symbol": "DDC",
+  "full_name": "dopa decarboxylase",
+  "ncbi_gene_id": "1644",
+  "chromosome": "7",
+  "families": [
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "DDC.md"
+ },
+ {
+  "symbol": "DGAT1",
+  "full_name": "diacylglycerol O-acyltransferase 1",
+  "ncbi_gene_id": "8694",
+  "chromosome": "8",
+  "families": [
+   "lipid-steroid-homeostasis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "DGAT1.md"
+ },
+ {
+  "symbol": "DGAT2",
+  "full_name": "diacylglycerol O-acyltransferase 2",
+  "ncbi_gene_id": "84649",
+  "chromosome": "11",
+  "families": [
+   "lipid-steroid-homeostasis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "DGAT2.md"
+ },
+ {
+  "symbol": "DGCR8",
+  "full_name": "DGCR8 microprocessor complex subunit",
+  "ncbi_gene_id": "54487",
+  "chromosome": "22",
+  "families": [
+   "rna-processing"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "DGCR8.md"
+ },
+ {
+  "symbol": "DHRS3",
+  "full_name": "dehydrogenase/reductase 3",
+  "ncbi_gene_id": "9249",
+  "chromosome": "1",
+  "families": [
+   "retinoid-signaling"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "DHRS3.md"
+ },
+ {
+  "symbol": "DICER1",
+  "full_name": "dicer 1, ribonuclease III",
+  "ncbi_gene_id": "23405",
+  "chromosome": "14",
+  "families": [
+   "rna-processing"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "DICER1.md"
+ },
+ {
+  "symbol": "DNA2",
+  "full_name": "DNA replication helicase/nuclease 2",
+  "ncbi_gene_id": "1763",
+  "chromosome": "10",
+  "families": [
+   "mitochondrial-energy"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "DNA2.md"
+ },
+ {
+  "symbol": "DNM1L",
+  "full_name": "dynamin 1L",
+  "ncbi_gene_id": "10059",
+  "chromosome": "12",
+  "families": [
+   "mitochondrial-energy"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "DNM1L.md"
+ },
+ {
+  "symbol": "DNMT1",
+  "full_name": "DNA methyltransferase 1",
+  "ncbi_gene_id": "1786",
+  "chromosome": "19",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "DNMT1.md"
+ },
+ {
+  "symbol": "DNMT3A",
+  "full_name": "DNA methyltransferase 3 alpha",
+  "ncbi_gene_id": "1788",
+  "chromosome": "2",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "DNMT3A.md"
+ },
+ {
+  "symbol": "DNMT3B",
+  "full_name": "DNA methyltransferase 3 beta",
+  "ncbi_gene_id": "1789",
+  "chromosome": "20",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "DNMT3B.md"
+ },
+ {
+  "symbol": "DNMT3L",
+  "full_name": "DNA methyltransferase 3 like",
+  "ncbi_gene_id": "29947",
+  "chromosome": "21",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "DNMT3L.md"
+ },
+ {
+  "symbol": "DPF1",
+  "full_name": "double PHD fingers 1",
+  "ncbi_gene_id": "8193",
+  "chromosome": "19",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "DPF1.md"
+ },
+ {
+  "symbol": "DPF2",
+  "full_name": "double PHD fingers 2",
+  "ncbi_gene_id": "5977",
+  "chromosome": "11",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "DPF2.md"
+ },
+ {
+  "symbol": "DPF3",
+  "full_name": "double PHD fingers 3",
+  "ncbi_gene_id": "8110",
+  "chromosome": "14",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "DPF3.md"
+ },
+ {
+  "symbol": "DRD1",
+  "full_name": "dopamine receptor D1",
+  "ncbi_gene_id": "1812",
+  "chromosome": "5",
+  "families": [
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "DRD1.md"
+ },
+ {
+  "symbol": "DRD2",
+  "full_name": "dopamine receptor D2",
+  "ncbi_gene_id": "1813",
+  "chromosome": "11",
+  "families": [
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "DRD2.md"
+ },
+ {
+  "symbol": "DRD3",
+  "full_name": "dopamine receptor D3",
+  "ncbi_gene_id": "1814",
+  "chromosome": "3",
+  "families": [
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "DRD3.md"
+ },
+ {
+  "symbol": "DRD4",
+  "full_name": "dopamine receptor D4",
+  "ncbi_gene_id": "1815",
+  "chromosome": "11",
+  "families": [
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "DRD4.md"
+ },
+ {
+  "symbol": "DRD5",
+  "full_name": "dopamine receptor D5",
+  "ncbi_gene_id": "1816",
+  "chromosome": "4",
+  "families": [
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "DRD5.md"
+ },
+ {
+  "symbol": "DROSHA",
+  "full_name": "drosha ribonuclease III",
+  "ncbi_gene_id": "29102",
+  "chromosome": "5",
+  "families": [
+   "rna-processing"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "DROSHA.md"
+ },
+ {
+  "symbol": "EED",
+  "full_name": "embryonic ectoderm development",
+  "ncbi_gene_id": "8726",
+  "chromosome": "11",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "EED.md"
+ },
+ {
+  "symbol": "EHMT1",
+  "full_name": "euchromatic histone lysine methyltransferase 1",
+  "ncbi_gene_id": "79813",
+  "chromosome": "9",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "EHMT1.md"
+ },
+ {
+  "symbol": "EHMT2",
+  "full_name": "euchromatic histone lysine methyltransferase 2",
+  "ncbi_gene_id": "10919",
+  "chromosome": "6",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "EHMT2.md"
+ },
+ {
+  "symbol": "EP300",
+  "full_name": "EP300 lysine acetyltransferase",
+  "ncbi_gene_id": "2033",
+  "chromosome": "22",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "EP300.md"
+ },
+ {
+  "symbol": "EP400",
+  "full_name": "E1A binding protein p400",
+  "ncbi_gene_id": "57634",
+  "chromosome": "12",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "EP400.md"
+ },
+ {
+  "symbol": "ESR1",
+  "full_name": "estrogen receptor 1",
+  "ncbi_gene_id": "2099",
+  "chromosome": "6",
+  "families": [
+   "steroid-nuclear-receptors"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "ESR1.md"
+ },
+ {
+  "symbol": "ESR2",
+  "full_name": "estrogen receptor 2",
+  "ncbi_gene_id": "2100",
+  "chromosome": "14",
+  "families": [
+   "steroid-nuclear-receptors"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "ESR2.md"
+ },
+ {
+  "symbol": "EZH1",
+  "full_name": "enhancer of zeste 1 polycomb repressive complex 2 subunit",
+  "ncbi_gene_id": "2145",
+  "chromosome": "17",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "EZH1.md"
+ },
+ {
+  "symbol": "EZH2",
+  "full_name": "enhancer of zeste 2 polycomb repressive complex 2 subunit",
+  "ncbi_gene_id": "2146",
+  "chromosome": "7",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "EZH2.md"
+ },
+ {
+  "symbol": "FABP4",
+  "full_name": "fatty acid binding protein 4",
+  "ncbi_gene_id": "2167",
+  "chromosome": "8",
+  "families": [
+   "lipid-steroid-homeostasis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "FABP4.md"
+ },
+ {
+  "symbol": "FABP5",
+  "full_name": "fatty acid binding protein 5",
+  "ncbi_gene_id": "2171",
+  "chromosome": "8",
+  "families": [
+   "lipid-steroid-homeostasis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "FABP5.md"
+ },
+ {
+  "symbol": "FABP7",
+  "full_name": "fatty acid binding protein 7",
+  "ncbi_gene_id": "2173",
+  "chromosome": "6",
+  "families": [
+   "lipid-steroid-homeostasis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "FABP7.md"
+ },
+ {
+  "symbol": "FKBP4",
+  "full_name": "FKBP prolyl isomerase 4",
+  "ncbi_gene_id": "2288",
+  "chromosome": "12",
+  "families": [
+   "steroid-receptor-chaperones"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "FKBP4.md"
+ },
+ {
+  "symbol": "FKBP5",
+  "full_name": "FKBP prolyl isomerase 5",
+  "ncbi_gene_id": "2289",
+  "chromosome": "6",
+  "families": [
+   "steroid-receptor-chaperones"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "FKBP5.md"
+ },
+ {
+  "symbol": "FKBP6",
+  "full_name": "FKBP prolyl isomerase family member 6 (inactive)",
+  "ncbi_gene_id": "8468",
+  "chromosome": "7",
+  "families": [
+   "steroid-receptor-chaperones"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "FKBP6.md"
+ },
+ {
+  "symbol": "FOXA1",
+  "full_name": "forkhead box A1",
+  "ncbi_gene_id": "3169",
+  "chromosome": "14",
+  "families": [
+   "steroid-nuclear-receptors",
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "FOXA1.md"
+ },
+ {
+  "symbol": "FOXA2",
+  "full_name": "forkhead box A2",
+  "ncbi_gene_id": "3170",
+  "chromosome": "20",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "FOXA2.md"
+ },
+ {
+  "symbol": "FOXO1",
+  "full_name": "forkhead box O1",
+  "ncbi_gene_id": "2308",
+  "chromosome": "13",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "FOXO1.md"
+ },
+ {
+  "symbol": "FOXO3",
+  "full_name": "forkhead box O3",
+  "ncbi_gene_id": "2309",
+  "chromosome": "6",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "FOXO3.md"
+ },
+ {
+  "symbol": "FOXO4",
+  "full_name": "forkhead box O4",
+  "ncbi_gene_id": "4303",
+  "chromosome": "X",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "FOXO4.md"
+ },
+ {
+  "symbol": "FUS",
+  "full_name": "FUS RNA binding protein",
+  "ncbi_gene_id": "2521",
+  "chromosome": "16",
+  "families": [
+   "rna-processing"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "FUS.md"
+ },
+ {
+  "symbol": "GABBR1",
+  "full_name": "gamma-aminobutyric acid type B receptor subunit 1",
+  "ncbi_gene_id": "2550",
+  "chromosome": "6",
+  "families": [
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "GABBR1.md"
+ },
+ {
+  "symbol": "GABBR2",
+  "full_name": "gamma-aminobutyric acid type B receptor subunit 2",
+  "ncbi_gene_id": "9568",
+  "chromosome": "9",
+  "families": [
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "GABBR2.md"
+ },
+ {
+  "symbol": "GABRA1",
+  "full_name": "gamma-aminobutyric acid type A receptor subunit alpha1",
+  "ncbi_gene_id": "2554",
+  "chromosome": "5",
+  "families": [
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "GABRA1.md"
+ },
+ {
+  "symbol": "GABRA2",
+  "full_name": "gamma-aminobutyric acid type A receptor subunit alpha2",
+  "ncbi_gene_id": "2555",
+  "chromosome": "4",
+  "families": [
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "GABRA2.md"
+ },
+ {
+  "symbol": "GABRA3",
+  "full_name": "gamma-aminobutyric acid type A receptor subunit alpha3",
+  "ncbi_gene_id": "2556",
+  "chromosome": "X",
+  "families": [
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "GABRA3.md"
+ },
+ {
+  "symbol": "GABRB2",
+  "full_name": "gamma-aminobutyric acid type A receptor subunit beta2",
+  "ncbi_gene_id": "2561",
+  "chromosome": "5",
+  "families": [
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "GABRB2.md"
+ },
+ {
+  "symbol": "GABRB3",
+  "full_name": "gamma-aminobutyric acid type A receptor subunit beta3",
+  "ncbi_gene_id": "2562",
+  "chromosome": "15",
+  "families": [
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "GABRB3.md"
+ },
+ {
+  "symbol": "GABRG2",
+  "full_name": "gamma-aminobutyric acid type A receptor subunit gamma2",
+  "ncbi_gene_id": "2566",
+  "chromosome": "5",
+  "families": [
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "GABRG2.md"
+ },
+ {
+  "symbol": "GATA2",
+  "full_name": "GATA binding protein 2",
+  "ncbi_gene_id": "2624",
+  "chromosome": "3",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "GATA2.md"
+ },
+ {
+  "symbol": "GATA3",
+  "full_name": "GATA binding protein 3",
+  "ncbi_gene_id": "2625",
+  "chromosome": "10",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "GATA3.md"
+ },
+ {
+  "symbol": "GJB2",
+  "full_name": "gap junction protein beta 2",
+  "ncbi_gene_id": "2706",
+  "chromosome": "13",
+  "families": [
+   "sensory-and-ion-channels"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "GJB2.md"
+ },
+ {
+  "symbol": "GJB6",
+  "full_name": "gap junction protein beta 6",
+  "ncbi_gene_id": "10804",
+  "chromosome": "13",
+  "families": [
+   "sensory-and-ion-channels"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "GJB6.md"
+ },
+ {
+  "symbol": "GNB3",
+  "full_name": "G protein subunit beta 3",
+  "ncbi_gene_id": "2784",
+  "chromosome": "12",
+  "families": [
+   "neuroendocrine-signaling"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "GNB3.md"
+ },
+ {
+  "symbol": "GNRH1",
+  "full_name": "gonadotropin releasing hormone 1",
+  "ncbi_gene_id": "2796",
+  "chromosome": "8",
+  "families": [
+   "hpg-gonadal-axis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "GNRH1.md"
+ },
+ {
+  "symbol": "GNRHR",
+  "full_name": "gonadotropin releasing hormone receptor",
+  "ncbi_gene_id": "2798",
+  "chromosome": "4",
+  "families": [
+   "hpg-gonadal-axis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "GNRHR.md"
+ },
+ {
+  "symbol": "GPX1",
+  "full_name": "glutathione peroxidase 1",
+  "ncbi_gene_id": "2876",
+  "chromosome": "3",
+  "families": [
+   "mitochondrial-energy"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "GPX1.md"
+ },
+ {
+  "symbol": "GPX4",
+  "full_name": "glutathione peroxidase 4",
+  "ncbi_gene_id": "2879",
+  "chromosome": "19",
+  "families": [
+   "mitochondrial-energy"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "GPX4.md"
+ },
+ {
+  "symbol": "GRIN1",
+  "full_name": "glutamate ionotropic receptor NMDA type subunit 1",
+  "ncbi_gene_id": "2902",
+  "chromosome": "9",
+  "families": [
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "GRIN1.md"
+ },
+ {
+  "symbol": "GRIN2A",
+  "full_name": "glutamate ionotropic receptor NMDA type subunit 2A",
+  "ncbi_gene_id": "2903",
+  "chromosome": "16",
+  "families": [
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "GRIN2A.md"
+ },
+ {
+  "symbol": "GRIN2B",
+  "full_name": "glutamate ionotropic receptor NMDA type subunit 2B",
+  "ncbi_gene_id": "2904",
+  "chromosome": "12",
+  "families": [
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "GRIN2B.md"
+ },
+ {
+  "symbol": "GRIN2C",
+  "full_name": "glutamate ionotropic receptor NMDA type subunit 2C",
+  "ncbi_gene_id": "2905",
+  "chromosome": "17",
+  "families": [
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "GRIN2C.md"
+ },
+ {
+  "symbol": "GRIN2D",
+  "full_name": "glutamate ionotropic receptor NMDA type subunit 2D",
+  "ncbi_gene_id": "2906",
+  "chromosome": "19",
+  "families": [
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "GRIN2D.md"
+ },
+ {
+  "symbol": "GTF2A1",
+  "full_name": "general transcription factor IIA subunit 1",
+  "ncbi_gene_id": "2957",
+  "chromosome": "14",
+  "families": [
+   "basal-transcription-machinery"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "GTF2A1.md"
+ },
+ {
+  "symbol": "GTF2B",
+  "full_name": "general transcription factor IIB",
+  "ncbi_gene_id": "2959",
+  "chromosome": "1",
+  "families": [
+   "basal-transcription-machinery"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "GTF2B.md"
+ },
+ {
+  "symbol": "GTF2E1",
+  "full_name": "general transcription factor IIE subunit 1",
+  "ncbi_gene_id": "2960",
+  "chromosome": "3",
+  "families": [
+   "basal-transcription-machinery"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "GTF2E1.md"
+ },
+ {
+  "symbol": "GTF2F1",
+  "full_name": "general transcription factor IIF subunit 1",
+  "ncbi_gene_id": "2962",
+  "chromosome": "19",
+  "families": [
+   "basal-transcription-machinery"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "GTF2F1.md"
+ },
+ {
+  "symbol": "GTF2H1",
+  "full_name": "general transcription factor IIH subunit 1",
+  "ncbi_gene_id": "2965",
+  "chromosome": "11",
+  "families": [
+   "basal-transcription-machinery"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "GTF2H1.md"
+ },
+ {
+  "symbol": "GUSB",
+  "full_name": "glucuronidase beta",
+  "ncbi_gene_id": "2990",
+  "chromosome": "7",
+  "families": [
+   "steroid-conjugation-clearance"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "GUSB.md"
+ },
+ {
+  "symbol": "H6PD",
+  "full_name": "hexose-6-phosphate dehydrogenase/glucose 1-dehydrogenase",
+  "ncbi_gene_id": "9563",
+  "chromosome": "1",
+  "families": [
+   "steroid-synthesis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "H6PD.md"
+ },
+ {
+  "symbol": "HDAC1",
+  "full_name": "histone deacetylase 1",
+  "ncbi_gene_id": "3065",
+  "chromosome": "1",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HDAC1.md"
+ },
+ {
+  "symbol": "HDAC10",
+  "full_name": "histone deacetylase 10",
+  "ncbi_gene_id": "83933",
+  "chromosome": "22",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": true,
+  "in_prior_library": true,
+  "verification_status": "verified",
+  "page": "HDAC10.md"
+ },
+ {
+  "symbol": "HDAC11",
+  "full_name": "histone deacetylase 11",
+  "ncbi_gene_id": "79885",
+  "chromosome": "3",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HDAC11.md"
+ },
+ {
+  "symbol": "HDAC2",
+  "full_name": "histone deacetylase 2",
+  "ncbi_gene_id": "3066",
+  "chromosome": "6",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HDAC2.md"
+ },
+ {
+  "symbol": "HDAC3",
+  "full_name": "histone deacetylase 3",
+  "ncbi_gene_id": "8841",
+  "chromosome": "5",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HDAC3.md"
+ },
+ {
+  "symbol": "HDAC4",
+  "full_name": "histone deacetylase 4",
+  "ncbi_gene_id": "9759",
+  "chromosome": "2",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HDAC4.md"
+ },
+ {
+  "symbol": "HDAC5",
+  "full_name": "histone deacetylase 5",
+  "ncbi_gene_id": "10014",
+  "chromosome": "17",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HDAC5.md"
+ },
+ {
+  "symbol": "HDAC6",
+  "full_name": "histone deacetylase 6",
+  "ncbi_gene_id": "10013",
+  "chromosome": "X",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HDAC6.md"
+ },
+ {
+  "symbol": "HDAC7",
+  "full_name": "histone deacetylase 7",
+  "ncbi_gene_id": "51564",
+  "chromosome": "12",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HDAC7.md"
+ },
+ {
+  "symbol": "HDAC8",
+  "full_name": "histone deacetylase 8",
+  "ncbi_gene_id": "55869",
+  "chromosome": "X",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HDAC8.md"
+ },
+ {
+  "symbol": "HDAC9",
+  "full_name": "histone deacetylase 9",
+  "ncbi_gene_id": "9734",
+  "chromosome": "7",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HDAC9.md"
+ },
+ {
+  "symbol": "HNF4A",
+  "full_name": "hepatocyte nuclear factor 4 alpha",
+  "ncbi_gene_id": "3172",
+  "chromosome": "20",
+  "families": [
+   "steroid-nuclear-receptors",
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HNF4A.md"
+ },
+ {
+  "symbol": "HNF4G",
+  "full_name": "hepatocyte nuclear factor 4 gamma",
+  "ncbi_gene_id": "3174",
+  "chromosome": "8",
+  "families": [
+   "steroid-nuclear-receptors",
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HNF4G.md"
+ },
+ {
+  "symbol": "HNRNPA1",
+  "full_name": "heterogeneous nuclear ribonucleoprotein A1",
+  "ncbi_gene_id": "3178",
+  "chromosome": "12",
+  "families": [
+   "rna-processing"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HNRNPA1.md"
+ },
+ {
+  "symbol": "HNRNPK",
+  "full_name": "heterogeneous nuclear ribonucleoprotein K",
+  "ncbi_gene_id": "3190",
+  "chromosome": "9",
+  "families": [
+   "rna-processing"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HNRNPK.md"
+ },
+ {
+  "symbol": "HNRNPU",
+  "full_name": "heterogeneous nuclear ribonucleoprotein U",
+  "ncbi_gene_id": "3192",
+  "chromosome": "1",
+  "families": [
+   "rna-processing"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HNRNPU.md"
+ },
+ {
+  "symbol": "HSD11B1",
+  "full_name": "hydroxysteroid 11-beta dehydrogenase 1",
+  "ncbi_gene_id": "3290",
+  "chromosome": "1",
+  "families": [
+   "steroid-synthesis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HSD11B1.md"
+ },
+ {
+  "symbol": "HSD11B2",
+  "full_name": "hydroxysteroid 11-beta dehydrogenase 2",
+  "ncbi_gene_id": "3291",
+  "chromosome": "16",
+  "families": [
+   "steroid-synthesis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HSD11B2.md"
+ },
+ {
+  "symbol": "HSD17B1",
+  "full_name": "hydroxysteroid 17-beta dehydrogenase 1",
+  "ncbi_gene_id": "3292",
+  "chromosome": "17",
+  "families": [
+   "steroid-synthesis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HSD17B1.md"
+ },
+ {
+  "symbol": "HSD17B10",
+  "full_name": "hydroxysteroid 17-beta dehydrogenase 10",
+  "ncbi_gene_id": "3028",
+  "chromosome": "X",
+  "families": [
+   "steroid-synthesis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HSD17B10.md"
+ },
+ {
+  "symbol": "HSD17B12",
+  "full_name": "hydroxysteroid 17-beta dehydrogenase 12",
+  "ncbi_gene_id": "51144",
+  "chromosome": "11",
+  "families": [
+   "steroid-synthesis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HSD17B12.md"
+ },
+ {
+  "symbol": "HSD17B13",
+  "full_name": "hydroxysteroid 17-beta dehydrogenase 13",
+  "ncbi_gene_id": "345275",
+  "chromosome": "4",
+  "families": [
+   "steroid-synthesis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HSD17B13.md"
+ },
+ {
+  "symbol": "HSD17B14",
+  "full_name": "hydroxysteroid 17-beta dehydrogenase 14",
+  "ncbi_gene_id": "51171",
+  "chromosome": "19",
+  "families": [
+   "steroid-synthesis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HSD17B14.md"
+ },
+ {
+  "symbol": "HSD17B2",
+  "full_name": "hydroxysteroid 17-beta dehydrogenase 2",
+  "ncbi_gene_id": "3294",
+  "chromosome": "16",
+  "families": [
+   "steroid-synthesis"
+  ],
+  "powers_named": true,
+  "in_prior_library": true,
+  "verification_status": "verified",
+  "page": "HSD17B2.md"
+ },
+ {
+  "symbol": "HSD17B3",
+  "full_name": "hydroxysteroid 17-beta dehydrogenase 3",
+  "ncbi_gene_id": "3293",
+  "chromosome": "9",
+  "families": [
+   "steroid-synthesis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HSD17B3.md"
+ },
+ {
+  "symbol": "HSD17B4",
+  "full_name": "hydroxysteroid 17-beta dehydrogenase 4",
+  "ncbi_gene_id": "3295",
+  "chromosome": "5",
+  "families": [
+   "steroid-synthesis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HSD17B4.md"
+ },
+ {
+  "symbol": "HSD17B6",
+  "full_name": "hydroxysteroid 17-beta dehydrogenase 6",
+  "ncbi_gene_id": "8630",
+  "chromosome": "12",
+  "families": [
+   "steroid-synthesis",
+   "retinoid-signaling"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HSD17B6.md"
+ },
+ {
+  "symbol": "HSD17B7",
+  "full_name": "hydroxysteroid 17-beta dehydrogenase 7",
+  "ncbi_gene_id": "51478",
+  "chromosome": "1",
+  "families": [
+   "steroid-synthesis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HSD17B7.md"
+ },
+ {
+  "symbol": "HSD3B1",
+  "full_name": "hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 1",
+  "ncbi_gene_id": "3283",
+  "chromosome": "1",
+  "families": [
+   "steroid-synthesis"
+  ],
+  "powers_named": false,
+  "in_prior_library": true,
+  "verification_status": "verified",
+  "page": "HSD3B1.md"
+ },
+ {
+  "symbol": "HSD3B2",
+  "full_name": "hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 2",
+  "ncbi_gene_id": "3284",
+  "chromosome": "1",
+  "families": [
+   "steroid-synthesis"
+  ],
+  "powers_named": false,
+  "in_prior_library": true,
+  "verification_status": "verified",
+  "page": "HSD3B2.md"
+ },
+ {
+  "symbol": "HSP90AA1",
+  "full_name": "heat shock protein 90 alpha family class A member 1",
+  "ncbi_gene_id": "3320",
+  "chromosome": "14",
+  "families": [
+   "steroid-receptor-chaperones"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HSP90AA1.md"
+ },
+ {
+  "symbol": "HSP90AB1",
+  "full_name": "heat shock protein 90 alpha family class B member 1",
+  "ncbi_gene_id": "3326",
+  "chromosome": "6",
+  "families": [
+   "steroid-receptor-chaperones"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HSP90AB1.md"
+ },
+ {
+  "symbol": "HSPD1",
+  "full_name": "heat shock protein family D (Hsp60) member 1",
+  "ncbi_gene_id": "3329",
+  "chromosome": "2",
+  "families": [
+   "steroid-receptor-chaperones"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HSPD1.md"
+ },
+ {
+  "symbol": "HSPE1",
+  "full_name": "heat shock protein family E (Hsp10) member 1",
+  "ncbi_gene_id": "3336",
+  "chromosome": "2",
+  "families": [
+   "steroid-receptor-chaperones"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HSPE1.md"
+ },
+ {
+  "symbol": "HTR1A",
+  "full_name": "5-hydroxytryptamine receptor 1A",
+  "ncbi_gene_id": "3350",
+  "chromosome": "5",
+  "families": [
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HTR1A.md"
+ },
+ {
+  "symbol": "HTR1B",
+  "full_name": "5-hydroxytryptamine receptor 1B",
+  "ncbi_gene_id": "3351",
+  "chromosome": "6",
+  "families": [
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HTR1B.md"
+ },
+ {
+  "symbol": "HTR1D",
+  "full_name": "5-hydroxytryptamine receptor 1D",
+  "ncbi_gene_id": "3352",
+  "chromosome": "1",
+  "families": [
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HTR1D.md"
+ },
+ {
+  "symbol": "HTR1E",
+  "full_name": "5-hydroxytryptamine receptor 1E",
+  "ncbi_gene_id": "3354",
+  "chromosome": "6",
+  "families": [
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HTR1E.md"
+ },
+ {
+  "symbol": "HTR1F",
+  "full_name": "5-hydroxytryptamine receptor 1F",
+  "ncbi_gene_id": "3355",
+  "chromosome": "3",
+  "families": [
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HTR1F.md"
+ },
+ {
+  "symbol": "HTR2A",
+  "full_name": "5-hydroxytryptamine receptor 2A",
+  "ncbi_gene_id": "3356",
+  "chromosome": "13",
+  "families": [
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HTR2A.md"
+ },
+ {
+  "symbol": "HTR2B",
+  "full_name": "5-hydroxytryptamine receptor 2B",
+  "ncbi_gene_id": "3357",
+  "chromosome": "2",
+  "families": [
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HTR2B.md"
+ },
+ {
+  "symbol": "HTR2C",
+  "full_name": "5-hydroxytryptamine receptor 2C",
+  "ncbi_gene_id": "3358",
+  "chromosome": "X",
+  "families": [
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HTR2C.md"
+ },
+ {
+  "symbol": "HTR3A",
+  "full_name": "5-hydroxytryptamine receptor 3A",
+  "ncbi_gene_id": "3359",
+  "chromosome": "11",
+  "families": [
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HTR3A.md"
+ },
+ {
+  "symbol": "HTR3B",
+  "full_name": "5-hydroxytryptamine receptor 3B",
+  "ncbi_gene_id": "9177",
+  "chromosome": "11",
+  "families": [
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HTR3B.md"
+ },
+ {
+  "symbol": "HTR3C",
+  "full_name": "5-hydroxytryptamine receptor 3C",
+  "ncbi_gene_id": "170572",
+  "chromosome": "3",
+  "families": [
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HTR3C.md"
+ },
+ {
+  "symbol": "HTR3D",
+  "full_name": "5-hydroxytryptamine receptor 3D",
+  "ncbi_gene_id": "200909",
+  "chromosome": "3",
+  "families": [
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HTR3D.md"
+ },
+ {
+  "symbol": "HTR3E",
+  "full_name": "5-hydroxytryptamine receptor 3E",
+  "ncbi_gene_id": "285242",
+  "chromosome": "3",
+  "families": [
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HTR3E.md"
+ },
+ {
+  "symbol": "HTR4",
+  "full_name": "5-hydroxytryptamine receptor 4",
+  "ncbi_gene_id": "3360",
+  "chromosome": "5",
+  "families": [
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HTR4.md"
+ },
+ {
+  "symbol": "HTR5A",
+  "full_name": "5-hydroxytryptamine receptor 5A",
+  "ncbi_gene_id": "3361",
+  "chromosome": "7",
+  "families": [
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HTR5A.md"
+ },
+ {
+  "symbol": "HTR5BP",
+  "full_name": "5-hydroxytryptamine receptor 5B, pseudogene",
+  "ncbi_gene_id": "645694",
+  "chromosome": "2",
+  "families": [
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HTR5BP.md"
+ },
+ {
+  "symbol": "HTR6",
+  "full_name": "5-hydroxytryptamine receptor 6",
+  "ncbi_gene_id": "3362",
+  "chromosome": "1",
+  "families": [
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HTR6.md"
+ },
+ {
+  "symbol": "HTR7",
+  "full_name": "5-hydroxytryptamine receptor 7",
+  "ncbi_gene_id": "3363",
+  "chromosome": "10",
+  "families": [
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "HTR7.md"
+ },
+ {
+  "symbol": "INO80",
+  "full_name": "INO80 complex ATPase subunit",
+  "ncbi_gene_id": "54617",
+  "chromosome": "15",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "INO80.md"
+ },
+ {
+  "symbol": "INO80B",
+  "full_name": "INO80 complex subunit B",
+  "ncbi_gene_id": "83444",
+  "chromosome": "2",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "INO80B.md"
+ },
+ {
+  "symbol": "INO80C",
+  "full_name": "INO80 complex subunit C",
+  "ncbi_gene_id": "125476",
+  "chromosome": "18",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "INO80C.md"
+ },
+ {
+  "symbol": "KAT2A",
+  "full_name": "lysine acetyltransferase 2A",
+  "ncbi_gene_id": "2648",
+  "chromosome": "17",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "KAT2A.md"
+ },
+ {
+  "symbol": "KAT2B",
+  "full_name": "lysine acetyltransferase 2B",
+  "ncbi_gene_id": "8850",
+  "chromosome": "3",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "KAT2B.md"
+ },
+ {
+  "symbol": "KAT5",
+  "full_name": "lysine acetyltransferase 5",
+  "ncbi_gene_id": "10524",
+  "chromosome": "11",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "KAT5.md"
+ },
+ {
+  "symbol": "KAT6A",
+  "full_name": "lysine acetyltransferase 6A",
+  "ncbi_gene_id": "7994",
+  "chromosome": "8",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "KAT6A.md"
+ },
+ {
+  "symbol": "KAT6B",
+  "full_name": "lysine acetyltransferase 6B",
+  "ncbi_gene_id": "23522",
+  "chromosome": "10",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "KAT6B.md"
+ },
+ {
+  "symbol": "KAT7",
+  "full_name": "lysine acetyltransferase 7",
+  "ncbi_gene_id": "11143",
+  "chromosome": "17",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "KAT7.md"
+ },
+ {
+  "symbol": "KAT8",
+  "full_name": "lysine acetyltransferase 8",
+  "ncbi_gene_id": "84148",
+  "chromosome": "16",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "KAT8.md"
+ },
+ {
+  "symbol": "KCNQ4",
+  "full_name": "potassium voltage-gated channel subfamily Q member 4",
+  "ncbi_gene_id": "9132",
+  "chromosome": "1",
+  "families": [
+   "sensory-and-ion-channels"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "KCNQ4.md"
+ },
+ {
+  "symbol": "KDM1A",
+  "full_name": "lysine demethylase 1A",
+  "ncbi_gene_id": "23028",
+  "chromosome": "1",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "KDM1A.md"
+ },
+ {
+  "symbol": "KDM1B",
+  "full_name": "lysine demethylase 1B",
+  "ncbi_gene_id": "221656",
+  "chromosome": "6",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "KDM1B.md"
+ },
+ {
+  "symbol": "KDM2A",
+  "full_name": "lysine demethylase 2A",
+  "ncbi_gene_id": "22992",
+  "chromosome": "11",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "KDM2A.md"
+ },
+ {
+  "symbol": "KDM2B",
+  "full_name": "lysine demethylase 2B",
+  "ncbi_gene_id": "84678",
+  "chromosome": "12",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "KDM2B.md"
+ },
+ {
+  "symbol": "KDM3A",
+  "full_name": "lysine demethylase 3A",
+  "ncbi_gene_id": "55818",
+  "chromosome": "2",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "KDM3A.md"
+ },
+ {
+  "symbol": "KDM3B",
+  "full_name": "lysine demethylase 3B",
+  "ncbi_gene_id": "51780",
+  "chromosome": "5",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "KDM3B.md"
+ },
+ {
+  "symbol": "KDM4A",
+  "full_name": "lysine demethylase 4A",
+  "ncbi_gene_id": "9682",
+  "chromosome": "1",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "KDM4A.md"
+ },
+ {
+  "symbol": "KDM4B",
+  "full_name": "lysine demethylase 4B",
+  "ncbi_gene_id": "23030",
+  "chromosome": "19",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "KDM4B.md"
+ },
+ {
+  "symbol": "KDM4C",
+  "full_name": "lysine demethylase 4C",
+  "ncbi_gene_id": "23081",
+  "chromosome": "9",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "KDM4C.md"
+ },
+ {
+  "symbol": "KDM4D",
+  "full_name": "lysine demethylase 4D",
+  "ncbi_gene_id": "55693",
+  "chromosome": "11",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "KDM4D.md"
+ },
+ {
+  "symbol": "KDM5A",
+  "full_name": "lysine demethylase 5A",
+  "ncbi_gene_id": "5927",
+  "chromosome": "12",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "KDM5A.md"
+ },
+ {
+  "symbol": "KDM5B",
+  "full_name": "lysine demethylase 5B",
+  "ncbi_gene_id": "10765",
+  "chromosome": "1",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "KDM5B.md"
+ },
+ {
+  "symbol": "KDM5C",
+  "full_name": "lysine demethylase 5C",
+  "ncbi_gene_id": "8242",
+  "chromosome": "X",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "KDM5C.md"
+ },
+ {
+  "symbol": "KDM5D",
+  "full_name": "lysine demethylase 5D",
+  "ncbi_gene_id": "8284",
+  "chromosome": "Y",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "KDM5D.md"
+ },
+ {
+  "symbol": "KDM6A",
+  "full_name": "lysine demethylase 6A",
+  "ncbi_gene_id": "7403",
+  "chromosome": "X",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "KDM6A.md"
+ },
+ {
+  "symbol": "KDM6B",
+  "full_name": "lysine demethylase 6B",
+  "ncbi_gene_id": "23135",
+  "chromosome": "17",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "KDM6B.md"
+ },
+ {
+  "symbol": "KDM7A",
+  "full_name": "lysine demethylase 7A",
+  "ncbi_gene_id": "80853",
+  "chromosome": "7",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "KDM7A.md"
+ },
+ {
+  "symbol": "KISS1",
+  "full_name": "KiSS-1 metastasis suppressor",
+  "ncbi_gene_id": "3814",
+  "chromosome": "1",
+  "families": [
+   "hpg-gonadal-axis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "KISS1.md"
+ },
+ {
+  "symbol": "KISS1R",
+  "full_name": "KISS1 receptor",
+  "ncbi_gene_id": "84634",
+  "chromosome": "19",
+  "families": [
+   "hpg-gonadal-axis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "KISS1R.md"
+ },
+ {
+  "symbol": "KMT2A",
+  "full_name": "lysine methyltransferase 2A",
+  "ncbi_gene_id": "4297",
+  "chromosome": "11",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "KMT2A.md"
+ },
+ {
+  "symbol": "KMT2B",
+  "full_name": "lysine methyltransferase 2B",
+  "ncbi_gene_id": "9757",
+  "chromosome": "19",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "KMT2B.md"
+ },
+ {
+  "symbol": "KMT2C",
+  "full_name": "lysine methyltransferase 2C",
+  "ncbi_gene_id": "58508",
+  "chromosome": "7",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "KMT2C.md"
+ },
+ {
+  "symbol": "KMT2D",
+  "full_name": "lysine methyltransferase 2D",
+  "ncbi_gene_id": "8085",
+  "chromosome": "12",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "KMT2D.md"
+ },
+ {
+  "symbol": "KPNB1",
+  "full_name": "karyopherin subunit beta 1",
+  "ncbi_gene_id": "3837",
+  "chromosome": "17",
+  "families": [
+   "nuclear-transport"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "KPNB1.md"
+ },
+ {
+  "symbol": "LDLR",
+  "full_name": "low density lipoprotein receptor",
+  "ncbi_gene_id": "3949",
+  "chromosome": "19",
+  "families": [
+   "lipid-steroid-homeostasis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "LDLR.md"
+ },
+ {
+  "symbol": "LIN28A",
+  "full_name": "lin-28 RNA binding posttranscriptional regulator A",
+  "ncbi_gene_id": "79727",
+  "chromosome": "1",
+  "families": [
+   "rna-processing"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "LIN28A.md"
+ },
+ {
+  "symbol": "LIN28B",
+  "full_name": "lin-28 RNA binding posttranscriptional regulator B",
+  "ncbi_gene_id": "389421",
+  "chromosome": "6",
+  "families": [
+   "rna-processing"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "LIN28B.md"
+ },
+ {
+  "symbol": "LIPE",
+  "full_name": "lipase E, hormone sensitive type",
+  "ncbi_gene_id": "3991",
+  "chromosome": "19",
+  "families": [
+   "lipid-steroid-homeostasis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "LIPE.md"
+ },
+ {
+  "symbol": "LRAT",
+  "full_name": "lecithin retinol acyltransferase",
+  "ncbi_gene_id": "9227",
+  "chromosome": "4",
+  "families": [
+   "retinoid-signaling"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "LRAT.md"
+ },
+ {
+  "symbol": "LRP2",
+  "full_name": "LDL receptor related protein 2",
+  "ncbi_gene_id": "4036",
+  "chromosome": "2",
+  "families": [
+   "lipid-steroid-homeostasis"
+  ],
+  "powers_named": true,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "LRP2.md"
+ },
+ {
+  "symbol": "MAOA",
+  "full_name": "monoamine oxidase A",
+  "ncbi_gene_id": "4128",
+  "chromosome": "X",
+  "families": [
+   "drug-metabolism",
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "MAOA.md"
+ },
+ {
+  "symbol": "MAOB",
+  "full_name": "monoamine oxidase B",
+  "ncbi_gene_id": "4129",
+  "chromosome": "X",
+  "families": [
+   "drug-metabolism",
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "MAOB.md"
+ },
+ {
+  "symbol": "MAX",
+  "full_name": "MYC associated transcriptional regulator X",
+  "ncbi_gene_id": "4149",
+  "chromosome": "14",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "MAX.md"
+ },
+ {
+  "symbol": "MBD1",
+  "full_name": "methyl-CpG binding domain protein 1",
+  "ncbi_gene_id": "4152",
+  "chromosome": "18",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "MBD1.md"
+ },
+ {
+  "symbol": "MBD2",
+  "full_name": "methyl-CpG binding domain protein 2",
+  "ncbi_gene_id": "8932",
+  "chromosome": "18",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "MBD2.md"
+ },
+ {
+  "symbol": "MBD3",
+  "full_name": "methyl-CpG binding domain protein 3",
+  "ncbi_gene_id": "53615",
+  "chromosome": "19",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "MBD3.md"
+ },
+ {
+  "symbol": "MBD4",
+  "full_name": "methyl-CpG binding domain 4, DNA glycosylase",
+  "ncbi_gene_id": "8930",
+  "chromosome": "3",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "MBD4.md"
+ },
+ {
+  "symbol": "MC4R",
+  "full_name": "melanocortin 4 receptor",
+  "ncbi_gene_id": "4160",
+  "chromosome": "18",
+  "families": [
+   "neuroendocrine-signaling"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "MC4R.md"
+ },
+ {
+  "symbol": "MECP2",
+  "full_name": "methyl-CpG binding protein 2",
+  "ncbi_gene_id": "4204",
+  "chromosome": "X",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "MECP2.md"
+ },
+ {
+  "symbol": "MED1",
+  "full_name": "mediator complex subunit 1",
+  "ncbi_gene_id": "5469",
+  "chromosome": "17",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "MED1.md"
+ },
+ {
+  "symbol": "MED12",
+  "full_name": "mediator complex subunit 12",
+  "ncbi_gene_id": "9968",
+  "chromosome": "X",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "MED12.md"
+ },
+ {
+  "symbol": "MED13",
+  "full_name": "mediator complex subunit 13",
+  "ncbi_gene_id": "9969",
+  "chromosome": "17",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "MED13.md"
+ },
+ {
+  "symbol": "MED14",
+  "full_name": "mediator complex subunit 14",
+  "ncbi_gene_id": "9282",
+  "chromosome": "X",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "MED14.md"
+ },
+ {
+  "symbol": "MED15",
+  "full_name": "mediator complex subunit 15",
+  "ncbi_gene_id": "51586",
+  "chromosome": "22",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "MED15.md"
+ },
+ {
+  "symbol": "MED16",
+  "full_name": "mediator complex subunit 16",
+  "ncbi_gene_id": "10025",
+  "chromosome": "19",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "MED16.md"
+ },
+ {
+  "symbol": "MED23",
+  "full_name": "mediator complex subunit 23",
+  "ncbi_gene_id": "9439",
+  "chromosome": "6",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "MED23.md"
+ },
+ {
+  "symbol": "MED24",
+  "full_name": "mediator complex subunit 24",
+  "ncbi_gene_id": "9862",
+  "chromosome": "17",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "MED24.md"
+ },
+ {
+  "symbol": "MED25",
+  "full_name": "mediator complex subunit 25",
+  "ncbi_gene_id": "81857",
+  "chromosome": "19",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "MED25.md"
+ },
+ {
+  "symbol": "MFN1",
+  "full_name": "mitofusin 1",
+  "ncbi_gene_id": "55669",
+  "chromosome": "3",
+  "families": [
+   "mitochondrial-energy"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "MFN1.md"
+ },
+ {
+  "symbol": "MFN2",
+  "full_name": "mitofusin 2",
+  "ncbi_gene_id": "9927",
+  "chromosome": "1",
+  "families": [
+   "mitochondrial-energy"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "MFN2.md"
+ },
+ {
+  "symbol": "MGME1",
+  "full_name": "mitochondrial genome maintenance exonuclease 1",
+  "ncbi_gene_id": "92667",
+  "chromosome": "20",
+  "families": [
+   "mitochondrial-energy"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "MGME1.md"
+ },
+ {
+  "symbol": "MPV17",
+  "full_name": "mitochondrial inner membrane protein MPV17",
+  "ncbi_gene_id": "4358",
+  "chromosome": "2",
+  "families": [
+   "mitochondrial-energy"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "MPV17.md"
+ },
+ {
+  "symbol": "MT-ATP6",
+  "full_name": "ATP synthase F0 subunit 6",
+  "ncbi_gene_id": "4508",
+  "chromosome": "MT",
+  "families": [
+   "mitochondrial-energy"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "MT-ATP6.md"
+ },
+ {
+  "symbol": "MT-ATP8",
+  "full_name": "ATP synthase F0 subunit 8",
+  "ncbi_gene_id": "4509",
+  "chromosome": "MT",
+  "families": [
+   "mitochondrial-energy"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "MT-ATP8.md"
+ },
+ {
+  "symbol": "MT-CO1",
+  "full_name": "cytochrome c oxidase subunit I",
+  "ncbi_gene_id": "4512",
+  "chromosome": "MT",
+  "families": [
+   "mitochondrial-energy"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "MT-CO1.md"
+ },
+ {
+  "symbol": "MT-CO2",
+  "full_name": "cytochrome c oxidase subunit II",
+  "ncbi_gene_id": "4513",
+  "chromosome": "MT",
+  "families": [
+   "mitochondrial-energy"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "MT-CO2.md"
+ },
+ {
+  "symbol": "MT-CO3",
+  "full_name": "cytochrome c oxidase subunit III",
+  "ncbi_gene_id": "4514",
+  "chromosome": "MT",
+  "families": [
+   "mitochondrial-energy"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "MT-CO3.md"
+ },
+ {
+  "symbol": "MT-CYB",
+  "full_name": "cytochrome b",
+  "ncbi_gene_id": "4519",
+  "chromosome": "MT",
+  "families": [
+   "mitochondrial-energy"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "MT-CYB.md"
+ },
+ {
+  "symbol": "MT-ND1",
+  "full_name": "NADH dehydrogenase subunit 1",
+  "ncbi_gene_id": "4535",
+  "chromosome": "MT",
+  "families": [
+   "mitochondrial-energy"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "MT-ND1.md"
+ },
+ {
+  "symbol": "MT-ND4",
+  "full_name": "NADH dehydrogenase subunit 4",
+  "ncbi_gene_id": "4538",
+  "chromosome": "MT",
+  "families": [
+   "mitochondrial-energy"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "MT-ND4.md"
+ },
+ {
+  "symbol": "MT-ND6",
+  "full_name": "NADH dehydrogenase subunit 6",
+  "ncbi_gene_id": "4541",
+  "chromosome": "MT",
+  "families": [
+   "mitochondrial-energy"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "MT-ND6.md"
+ },
+ {
+  "symbol": "MTHFR",
+  "full_name": "methylenetetrahydrofolate reductase",
+  "ncbi_gene_id": "4524",
+  "chromosome": "1",
+  "families": [
+   "methylation-one-carbon"
+  ],
+  "powers_named": true,
+  "in_prior_library": true,
+  "verification_status": "verified",
+  "page": "MTHFR.md"
+ },
+ {
+  "symbol": "MTR",
+  "full_name": "5-methyltetrahydrofolate-homocysteine methyltransferase",
+  "ncbi_gene_id": "4548",
+  "chromosome": "1",
+  "families": [
+   "methylation-one-carbon"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "MTR.md"
+ },
+ {
+  "symbol": "MTRR",
+  "full_name": "5-methyltetrahydrofolate-homocysteine methyltransferase reductase",
+  "ncbi_gene_id": "4552",
+  "chromosome": "5",
+  "families": [
+   "methylation-one-carbon"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "MTRR.md"
+ },
+ {
+  "symbol": "MXI1",
+  "full_name": "MAX interactor 1, dimerization protein",
+  "ncbi_gene_id": "4601",
+  "chromosome": "10",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "MXI1.md"
+ },
+ {
+  "symbol": "MYC",
+  "full_name": "MYC proto-oncogene, bHLH transcription factor",
+  "ncbi_gene_id": "4609",
+  "chromosome": "8",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "MYC.md"
+ },
+ {
+  "symbol": "MYCN",
+  "full_name": "MYCN proto-oncogene, bHLH transcription factor",
+  "ncbi_gene_id": "4613",
+  "chromosome": "2",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "MYCN.md"
+ },
+ {
+  "symbol": "MYO7A",
+  "full_name": "myosin VIIA",
+  "ncbi_gene_id": "4647",
+  "chromosome": "11",
+  "families": [
+   "sensory-and-ion-channels"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "MYO7A.md"
+ },
+ {
+  "symbol": "NAT2",
+  "full_name": "N-acetyltransferase 2",
+  "ncbi_gene_id": "10",
+  "chromosome": "8",
+  "families": [
+   "drug-metabolism"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "NAT2.md"
+ },
+ {
+  "symbol": "NCOR1",
+  "full_name": "nuclear receptor corepressor 1",
+  "ncbi_gene_id": "9611",
+  "chromosome": "17",
+  "families": [
+   "steroid-nuclear-receptors"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "NCOR1.md"
+ },
+ {
+  "symbol": "NCOR2",
+  "full_name": "nuclear receptor corepressor 2",
+  "ncbi_gene_id": "9612",
+  "chromosome": "12",
+  "families": [
+   "steroid-nuclear-receptors"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "NCOR2.md"
+ },
+ {
+  "symbol": "NCOA1",
+  "full_name": "nuclear receptor coactivator 1",
+  "ncbi_gene_id": "8648",
+  "chromosome": "2",
+  "families": [
+   "steroid-nuclear-receptors"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "NCOA1.md"
+ },
+ {
+  "symbol": "NCOA2",
+  "full_name": "nuclear receptor coactivator 2",
+  "ncbi_gene_id": "10499",
+  "chromosome": "8",
+  "families": [
+   "steroid-nuclear-receptors"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "NCOA2.md"
+ },
+ {
+  "symbol": "NCOA3",
+  "full_name": "nuclear receptor coactivator 3",
+  "ncbi_gene_id": "8202",
+  "chromosome": "20",
+  "families": [
+   "steroid-nuclear-receptors"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "NCOA3.md"
+ },
+ {
+  "symbol": "NCOA4",
+  "full_name": "nuclear receptor coactivator 4",
+  "ncbi_gene_id": "8031",
+  "chromosome": "10",
+  "families": [
+   "steroid-nuclear-receptors"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "NCOA4.md"
+ },
+ {
+  "symbol": "NCOA6",
+  "full_name": "nuclear receptor coactivator 6",
+  "ncbi_gene_id": "23054",
+  "chromosome": "20",
+  "families": [
+   "steroid-nuclear-receptors"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "NCOA6.md"
+ },
+ {
+  "symbol": "NDUFS1",
+  "full_name": "NADH:ubiquinone oxidoreductase core subunit S1",
+  "ncbi_gene_id": "4719",
+  "chromosome": "2",
+  "families": [
+   "mitochondrial-energy"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "NDUFS1.md"
+ },
+ {
+  "symbol": "NDUFS2",
+  "full_name": "NADH:ubiquinone oxidoreductase core subunit S2",
+  "ncbi_gene_id": "4720",
+  "chromosome": "1",
+  "families": [
+   "mitochondrial-energy"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "NDUFS2.md"
+ },
+ {
+  "symbol": "NDUFS4",
+  "full_name": "NADH:ubiquinone oxidoreductase subunit S4",
+  "ncbi_gene_id": "4724",
+  "chromosome": "5",
+  "families": [
+   "mitochondrial-energy"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "NDUFS4.md"
+ },
+ {
+  "symbol": "NFYA",
+  "full_name": "nuclear transcription factor Y subunit alpha",
+  "ncbi_gene_id": "4800",
+  "chromosome": "6",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "NFYA.md"
+ },
+ {
+  "symbol": "NFYB",
+  "full_name": "nuclear transcription factor Y subunit beta",
+  "ncbi_gene_id": "4801",
+  "chromosome": "12",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "NFYB.md"
+ },
+ {
+  "symbol": "NFYC",
+  "full_name": "nuclear transcription factor Y subunit gamma",
+  "ncbi_gene_id": "4802",
+  "chromosome": "1",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "NFYC.md"
+ },
+ {
+  "symbol": "NFKB1",
+  "full_name": "nuclear factor kappa B subunit 1",
+  "ncbi_gene_id": "4790",
+  "chromosome": "4",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "NFKB1.md"
+ },
+ {
+  "symbol": "NFKB2",
+  "full_name": "nuclear factor kappa B subunit 2",
+  "ncbi_gene_id": "4791",
+  "chromosome": "10",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "NFKB2.md"
+ },
+ {
+  "symbol": "NOS1",
+  "full_name": "nitric oxide synthase 1",
+  "ncbi_gene_id": "4842",
+  "chromosome": "12",
+  "families": [
+   "neuroendocrine-signaling"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "NOS1.md"
+ },
+ {
+  "symbol": "NOS3",
+  "full_name": "nitric oxide synthase 3",
+  "ncbi_gene_id": "4846",
+  "chromosome": "7",
+  "families": [
+   "neuroendocrine-signaling"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "NOS3.md"
+ },
+ {
+  "symbol": "NPC1",
+  "full_name": "NPC intracellular cholesterol transporter 1",
+  "ncbi_gene_id": "4864",
+  "chromosome": "18",
+  "families": [
+   "lipid-steroid-homeostasis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "NPC1.md"
+ },
+ {
+  "symbol": "NPC1L1",
+  "full_name": "NPC1 like intracellular cholesterol transporter 1",
+  "ncbi_gene_id": "29881",
+  "chromosome": "7",
+  "families": [
+   "lipid-steroid-homeostasis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "NPC1L1.md"
+ },
+ {
+  "symbol": "NPC2",
+  "full_name": "NPC intracellular cholesterol transporter 2",
+  "ncbi_gene_id": "10577",
+  "chromosome": "14",
+  "families": [
+   "lipid-steroid-homeostasis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "NPC2.md"
+ },
+ {
+  "symbol": "NPY",
+  "full_name": "neuropeptide Y",
+  "ncbi_gene_id": "4852",
+  "chromosome": "7",
+  "families": [
+   "neuroendocrine-signaling"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "NPY.md"
+ },
+ {
+  "symbol": "NPY1R",
+  "full_name": "neuropeptide Y receptor Y1",
+  "ncbi_gene_id": "4886",
+  "chromosome": "4",
+  "families": [
+   "neuroendocrine-signaling"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "NPY1R.md"
+ },
+ {
+  "symbol": "NPY2R",
+  "full_name": "neuropeptide Y receptor Y2",
+  "ncbi_gene_id": "4887",
+  "chromosome": "4",
+  "families": [
+   "neuroendocrine-signaling"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "NPY2R.md"
+ },
+ {
+  "symbol": "NR0B1",
+  "full_name": "nuclear receptor subfamily 0 group B member 1",
+  "ncbi_gene_id": "190",
+  "chromosome": "X",
+  "families": [
+   "steroid-nuclear-receptors"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "NR0B1.md"
+ },
+ {
+  "symbol": "NR0B2",
+  "full_name": "nuclear receptor subfamily 0 group B member 2",
+  "ncbi_gene_id": "8431",
+  "chromosome": "1",
+  "families": [
+   "steroid-nuclear-receptors"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "NR0B2.md"
+ },
+ {
+  "symbol": "NR1D1",
+  "full_name": "nuclear receptor subfamily 1 group D member 1",
+  "ncbi_gene_id": "9572",
+  "chromosome": "17",
+  "families": [
+   "steroid-nuclear-receptors"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "NR1D1.md"
+ },
+ {
+  "symbol": "NR1D2",
+  "full_name": "nuclear receptor subfamily 1 group D member 2",
+  "ncbi_gene_id": "9975",
+  "chromosome": "3",
+  "families": [
+   "steroid-nuclear-receptors"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "NR1D2.md"
+ },
+ {
+  "symbol": "NR1H2",
+  "full_name": "nuclear receptor subfamily 1 group H member 2",
+  "ncbi_gene_id": "7376",
+  "chromosome": "19",
+  "families": [
+   "steroid-nuclear-receptors"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "NR1H2.md"
+ },
+ {
+  "symbol": "NR1H3",
+  "full_name": "nuclear receptor subfamily 1 group H member 3",
+  "ncbi_gene_id": "10062",
+  "chromosome": "11",
+  "families": [
+   "steroid-nuclear-receptors"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "NR1H3.md"
+ },
+ {
+  "symbol": "NR1H4",
+  "full_name": "nuclear receptor subfamily 1 group H member 4",
+  "ncbi_gene_id": "9971",
+  "chromosome": "12",
+  "families": [
+   "steroid-nuclear-receptors"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "NR1H4.md"
+ },
+ {
+  "symbol": "NR1I3",
+  "full_name": "nuclear receptor subfamily 1 group I member 3",
+  "ncbi_gene_id": "9970",
+  "chromosome": "1",
+  "families": [
+   "steroid-nuclear-receptors"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "NR1I3.md"
+ },
+ {
+  "symbol": "NR3C1",
+  "full_name": "nuclear receptor subfamily 3 group C member 1",
+  "ncbi_gene_id": "2908",
+  "chromosome": "5",
+  "families": [
+   "steroid-nuclear-receptors"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "NR3C1.md"
+ },
+ {
+  "symbol": "NR3C2",
+  "full_name": "nuclear receptor subfamily 3 group C member 2",
+  "ncbi_gene_id": "4306",
+  "chromosome": "4",
+  "families": [
+   "steroid-nuclear-receptors"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "NR3C2.md"
+ },
+ {
+  "symbol": "NR5A1",
+  "full_name": "nuclear receptor subfamily 5 group A member 1",
+  "ncbi_gene_id": "2516",
+  "chromosome": "9",
+  "families": [
+   "steroid-nuclear-receptors"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "NR5A1.md"
+ },
+ {
+  "symbol": "NR5A2",
+  "full_name": "nuclear receptor subfamily 5 group A member 2",
+  "ncbi_gene_id": "2494",
+  "chromosome": "1",
+  "families": [
+   "steroid-nuclear-receptors"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "NR5A2.md"
+ },
+ {
+  "symbol": "NTRK2",
+  "full_name": "neurotrophic receptor tyrosine kinase 2",
+  "ncbi_gene_id": "4915",
+  "chromosome": "9",
+  "families": [
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "NTRK2.md"
+ },
+ {
+  "symbol": "OPA1",
+  "full_name": "OPA1 mitochondrial dynamin like GTPase",
+  "ncbi_gene_id": "4976",
+  "chromosome": "3",
+  "families": [
+   "mitochondrial-energy"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "OPA1.md"
+ },
+ {
+  "symbol": "OXTR",
+  "full_name": "oxytocin receptor",
+  "ncbi_gene_id": "5021",
+  "chromosome": "3",
+  "families": [
+   "neuroendocrine-signaling"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "OXTR.md"
+ },
+ {
+  "symbol": "PAPSS1",
+  "full_name": "3'-phosphoadenosine 5'-phosphosulfate synthase 1",
+  "ncbi_gene_id": "9061",
+  "chromosome": "4",
+  "families": [
+   "steroid-conjugation-clearance"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "PAPSS1.md"
+ },
+ {
+  "symbol": "PAPSS2",
+  "full_name": "3'-phosphoadenosine 5'-phosphosulfate synthase 2",
+  "ncbi_gene_id": "9060",
+  "chromosome": "10",
+  "families": [
+   "steroid-conjugation-clearance"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "PAPSS2.md"
+ },
+ {
+  "symbol": "PAX5",
+  "full_name": "paired box 5",
+  "ncbi_gene_id": "5079",
+  "chromosome": "9",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "PAX5.md"
+ },
+ {
+  "symbol": "PAX7",
+  "full_name": "paired box 7",
+  "ncbi_gene_id": "5081",
+  "chromosome": "1",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "PAX7.md"
+ },
+ {
+  "symbol": "PBRM1",
+  "full_name": "polybromo 1",
+  "ncbi_gene_id": "55193",
+  "chromosome": "3",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "PBRM1.md"
+ },
+ {
+  "symbol": "PDE5A",
+  "full_name": "phosphodiesterase 5A",
+  "ncbi_gene_id": "8654",
+  "chromosome": "4",
+  "families": [
+   "neuroendocrine-signaling"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "PDE5A.md"
+ },
+ {
+  "symbol": "PHF2",
+  "full_name": "PHD finger protein 2",
+  "ncbi_gene_id": "5253",
+  "chromosome": "9",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "PHF2.md"
+ },
+ {
+  "symbol": "PHF8",
+  "full_name": "PHD finger protein 8",
+  "ncbi_gene_id": "23133",
+  "chromosome": "X",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "PHF8.md"
+ },
+ {
+  "symbol": "PIAS1",
+  "full_name": "protein inhibitor of activated STAT 1",
+  "ncbi_gene_id": "8554",
+  "chromosome": "15",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "PIAS1.md"
+ },
+ {
+  "symbol": "PIAS2",
+  "full_name": "protein inhibitor of activated STAT 2",
+  "ncbi_gene_id": "9063",
+  "chromosome": "18",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "PIAS2.md"
+ },
+ {
+  "symbol": "PIEZO1",
+  "full_name": "piezo type mechanosensitive ion channel component 1 (Er blood group)",
+  "ncbi_gene_id": "9780",
+  "chromosome": "16",
+  "families": [
+   "sensory-and-ion-channels"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "PIEZO1.md"
+ },
+ {
+  "symbol": "PIEZO2",
+  "full_name": "piezo type mechanosensitive ion channel component 2",
+  "ncbi_gene_id": "63895",
+  "chromosome": "18",
+  "families": [
+   "sensory-and-ion-channels"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "PIEZO2.md"
+ },
+ {
+  "symbol": "PGR",
+  "full_name": "progesterone receptor",
+  "ncbi_gene_id": "5241",
+  "chromosome": "11",
+  "families": [
+   "steroid-nuclear-receptors"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "PGR.md"
+ },
+ {
+  "symbol": "PLIN1",
+  "full_name": "perilipin 1",
+  "ncbi_gene_id": "5346",
+  "chromosome": "15",
+  "families": [
+   "lipid-steroid-homeostasis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "PLIN1.md"
+ },
+ {
+  "symbol": "PLIN2",
+  "full_name": "perilipin 2",
+  "ncbi_gene_id": "123",
+  "chromosome": "9",
+  "families": [
+   "lipid-steroid-homeostasis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "PLIN2.md"
+ },
+ {
+  "symbol": "POLG",
+  "full_name": "DNA polymerase gamma, catalytic subunit",
+  "ncbi_gene_id": "5428",
+  "chromosome": "15",
+  "families": [
+   "mitochondrial-energy"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "POLG.md"
+ },
+ {
+  "symbol": "POLG2",
+  "full_name": "DNA polymerase gamma 2, accessory subunit",
+  "ncbi_gene_id": "11232",
+  "chromosome": "17",
+  "families": [
+   "mitochondrial-energy"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "POLG2.md"
+ },
+ {
+  "symbol": "POLR2A",
+  "full_name": "RNA polymerase II subunit A",
+  "ncbi_gene_id": "5430",
+  "chromosome": "17",
+  "families": [
+   "basal-transcription-machinery"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "POLR2A.md"
+ },
+ {
+  "symbol": "POLR2B",
+  "full_name": "RNA polymerase II subunit B",
+  "ncbi_gene_id": "5431",
+  "chromosome": "4",
+  "families": [
+   "basal-transcription-machinery"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "POLR2B.md"
+ },
+ {
+  "symbol": "POLR2C",
+  "full_name": "RNA polymerase II subunit C",
+  "ncbi_gene_id": "5432",
+  "chromosome": "16",
+  "families": [
+   "basal-transcription-machinery"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "POLR2C.md"
+ },
+ {
+  "symbol": "POLR2D",
+  "full_name": "RNA polymerase II subunit D",
+  "ncbi_gene_id": "5433",
+  "chromosome": "2",
+  "families": [
+   "basal-transcription-machinery"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "POLR2D.md"
+ },
+ {
+  "symbol": "POLR2E",
+  "full_name": "RNA polymerase II, I and III subunit E",
+  "ncbi_gene_id": "5434",
+  "chromosome": "19",
+  "families": [
+   "basal-transcription-machinery"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "POLR2E.md"
+ },
+ {
+  "symbol": "POLR2F",
+  "full_name": "RNA polymerase II, I and III subunit F",
+  "ncbi_gene_id": "5435",
+  "chromosome": "22",
+  "families": [
+   "basal-transcription-machinery"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "POLR2F.md"
+ },
+ {
+  "symbol": "POLR2G",
+  "full_name": "RNA polymerase II subunit G",
+  "ncbi_gene_id": "5436",
+  "chromosome": "11",
+  "families": [
+   "basal-transcription-machinery"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "POLR2G.md"
+ },
+ {
+  "symbol": "POLR2H",
+  "full_name": "RNA polymerase II, I and III subunit H",
+  "ncbi_gene_id": "5437",
+  "chromosome": "3",
+  "families": [
+   "basal-transcription-machinery"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "POLR2H.md"
+ },
+ {
+  "symbol": "POLR2I",
+  "full_name": "RNA polymerase II subunit I",
+  "ncbi_gene_id": "5438",
+  "chromosome": "19",
+  "families": [
+   "basal-transcription-machinery"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "POLR2I.md"
+ },
+ {
+  "symbol": "POLR2J",
+  "full_name": "RNA polymerase II subunit J",
+  "ncbi_gene_id": "5439",
+  "chromosome": "7",
+  "families": [
+   "basal-transcription-machinery"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "POLR2J.md"
+ },
+ {
+  "symbol": "POLR2K",
+  "full_name": "RNA polymerase II, I and III subunit K",
+  "ncbi_gene_id": "5440",
+  "chromosome": "8",
+  "families": [
+   "basal-transcription-machinery"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "POLR2K.md"
+ },
+ {
+  "symbol": "POLRMT",
+  "full_name": "RNA polymerase mitochondrial",
+  "ncbi_gene_id": "5442",
+  "chromosome": "19",
+  "families": [
+   "basal-transcription-machinery"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "POLRMT.md"
+ },
+ {
+  "symbol": "POR",
+  "full_name": "cytochrome p450 oxidoreductase",
+  "ncbi_gene_id": "5447",
+  "chromosome": "7",
+  "families": [
+   "steroid-synthesis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "POR.md"
+ },
+ {
+  "symbol": "POU1F1",
+  "full_name": "POU class 1 homeobox 1",
+  "ncbi_gene_id": "5449",
+  "chromosome": "3",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "POU1F1.md"
+ },
+ {
+  "symbol": "POU4F3",
+  "full_name": "POU class 4 homeobox 3",
+  "ncbi_gene_id": "5459",
+  "chromosome": "5",
+  "families": [
+   "sensory-and-ion-channels"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "POU4F3.md"
+ },
+ {
+  "symbol": "PPARA",
+  "full_name": "peroxisome proliferator activated receptor alpha",
+  "ncbi_gene_id": "5465",
+  "chromosome": "22",
+  "families": [
+   "steroid-nuclear-receptors"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "PPARA.md"
+ },
+ {
+  "symbol": "PPARD",
+  "full_name": "peroxisome proliferator activated receptor delta",
+  "ncbi_gene_id": "5467",
+  "chromosome": "6",
+  "families": [
+   "steroid-nuclear-receptors"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "PPARD.md"
+ },
+ {
+  "symbol": "PPARG",
+  "full_name": "peroxisome proliferator activated receptor gamma",
+  "ncbi_gene_id": "5468",
+  "chromosome": "3",
+  "families": [
+   "steroid-nuclear-receptors"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "PPARG.md"
+ },
+ {
+  "symbol": "PPID",
+  "full_name": "peptidylprolyl isomerase D",
+  "ncbi_gene_id": "5481",
+  "chromosome": "4",
+  "families": [
+   "steroid-receptor-chaperones"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "PPID.md"
+ },
+ {
+  "symbol": "PPP5C",
+  "full_name": "protein phosphatase 5 catalytic subunit",
+  "ncbi_gene_id": "5536",
+  "chromosome": "19",
+  "families": [
+   "steroid-receptor-chaperones"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "PPP5C.md"
+ },
+ {
+  "symbol": "PRDX3",
+  "full_name": "peroxiredoxin 3",
+  "ncbi_gene_id": "10935",
+  "chromosome": "10",
+  "families": [
+   "mitochondrial-energy"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "PRDX3.md"
+ },
+ {
+  "symbol": "PRL",
+  "full_name": "prolactin",
+  "ncbi_gene_id": "5617",
+  "chromosome": "6",
+  "families": [
+   "hpg-gonadal-axis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "PRL.md"
+ },
+ {
+  "symbol": "PRLR",
+  "full_name": "prolactin receptor",
+  "ncbi_gene_id": "5618",
+  "chromosome": "5",
+  "families": [
+   "hpg-gonadal-axis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "PRLR.md"
+ },
+ {
+  "symbol": "PTGES3",
+  "full_name": "prostaglandin E synthase 3",
+  "ncbi_gene_id": "10728",
+  "chromosome": "12",
+  "families": [
+   "steroid-receptor-chaperones"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "PTGES3.md"
+ },
+ {
+  "symbol": "RARA",
+  "full_name": "retinoic acid receptor alpha",
+  "ncbi_gene_id": "5914",
+  "chromosome": "17",
+  "families": [
+   "steroid-nuclear-receptors",
+   "retinoid-signaling"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "RARA.md"
+ },
+ {
+  "symbol": "RARB",
+  "full_name": "retinoic acid receptor beta",
+  "ncbi_gene_id": "5915",
+  "chromosome": "3",
+  "families": [
+   "steroid-nuclear-receptors",
+   "retinoid-signaling"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "RARB.md"
+ },
+ {
+  "symbol": "RARG",
+  "full_name": "retinoic acid receptor gamma",
+  "ncbi_gene_id": "5916",
+  "chromosome": "12",
+  "families": [
+   "steroid-nuclear-receptors",
+   "retinoid-signaling"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "RARG.md"
+ },
+ {
+  "symbol": "RAD21",
+  "full_name": "RAD21 cohesin complex component",
+  "ncbi_gene_id": "5885",
+  "chromosome": "8",
+  "families": [
+   "chromosome-cohesion"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "RAD21.md"
+ },
+ {
+  "symbol": "RBP1",
+  "full_name": "retinol binding protein 1",
+  "ncbi_gene_id": "5947",
+  "chromosome": "3",
+  "families": [
+   "retinoid-signaling"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "RBP1.md"
+ },
+ {
+  "symbol": "RBP4",
+  "full_name": "retinol binding protein 4",
+  "ncbi_gene_id": "5950",
+  "chromosome": "10",
+  "families": [
+   "retinoid-signaling"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "RBP4.md"
+ },
+ {
+  "symbol": "RDH10",
+  "full_name": "retinol dehydrogenase 10",
+  "ncbi_gene_id": "157506",
+  "chromosome": "8",
+  "families": [
+   "retinoid-signaling"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "RDH10.md"
+ },
+ {
+  "symbol": "RDH16",
+  "full_name": "retinol dehydrogenase 16",
+  "ncbi_gene_id": "8608",
+  "chromosome": "12",
+  "families": [
+   "steroid-synthesis",
+   "retinoid-signaling"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "RDH16.md"
+ },
+ {
+  "symbol": "RDH5",
+  "full_name": "retinol dehydrogenase 5",
+  "ncbi_gene_id": "5959",
+  "chromosome": "12",
+  "families": [
+   "steroid-synthesis",
+   "retinoid-signaling"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "RDH5.md"
+ },
+ {
+  "symbol": "RELA",
+  "full_name": "RELA proto-oncogene, NF-kB subunit",
+  "ncbi_gene_id": "5970",
+  "chromosome": "11",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "RELA.md"
+ },
+ {
+  "symbol": "RELB",
+  "full_name": "RELB proto-oncogene, NF-kB subunit",
+  "ncbi_gene_id": "5971",
+  "chromosome": "19",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "RELB.md"
+ },
+ {
+  "symbol": "RNF4",
+  "full_name": "ring finger protein 4",
+  "ncbi_gene_id": "6047",
+  "chromosome": "4",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "RNF4.md"
+ },
+ {
+  "symbol": "RORA",
+  "full_name": "RAR related orphan receptor A",
+  "ncbi_gene_id": "6095",
+  "chromosome": "15",
+  "families": [
+   "steroid-nuclear-receptors"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "RORA.md"
+ },
+ {
+  "symbol": "RORB",
+  "full_name": "RAR related orphan receptor B",
+  "ncbi_gene_id": "6096",
+  "chromosome": "9",
+  "families": [
+   "steroid-nuclear-receptors"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "RORB.md"
+ },
+ {
+  "symbol": "RORC",
+  "full_name": "RAR related orphan receptor C",
+  "ncbi_gene_id": "6097",
+  "chromosome": "1",
+  "families": [
+   "steroid-nuclear-receptors"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "RORC.md"
+ },
+ {
+  "symbol": "RSF1",
+  "full_name": "remodeling and spacing factor 1",
+  "ncbi_gene_id": "51773",
+  "chromosome": "11",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "RSF1.md"
+ },
+ {
+  "symbol": "RXRA",
+  "full_name": "retinoid X receptor alpha",
+  "ncbi_gene_id": "6256",
+  "chromosome": "9",
+  "families": [
+   "steroid-nuclear-receptors",
+   "retinoid-signaling"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "RXRA.md"
+ },
+ {
+  "symbol": "RXRB",
+  "full_name": "retinoid X receptor beta",
+  "ncbi_gene_id": "6257",
+  "chromosome": "6",
+  "families": [
+   "steroid-nuclear-receptors",
+   "retinoid-signaling"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "RXRB.md"
+ },
+ {
+  "symbol": "RXRG",
+  "full_name": "retinoid X receptor gamma",
+  "ncbi_gene_id": "6258",
+  "chromosome": "1",
+  "families": [
+   "steroid-nuclear-receptors",
+   "retinoid-signaling"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "RXRG.md"
+ },
+ {
+  "symbol": "SCARB1",
+  "full_name": "scavenger receptor class B member 1",
+  "ncbi_gene_id": "949",
+  "chromosome": "12",
+  "families": [
+   "lipid-steroid-homeostasis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SCARB1.md"
+ },
+ {
+  "symbol": "SERPINA6",
+  "full_name": "serpin family A member 6",
+  "ncbi_gene_id": "866",
+  "chromosome": "14",
+  "families": [
+   "hpg-gonadal-axis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SERPINA6.md"
+ },
+ {
+  "symbol": "SETD1A",
+  "full_name": "SET domain containing 1A, histone lysine methyltransferase",
+  "ncbi_gene_id": "9739",
+  "chromosome": "16",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SETD1A.md"
+ },
+ {
+  "symbol": "SETD1B",
+  "full_name": "SET domain containing 1B, histone lysine methyltransferase",
+  "ncbi_gene_id": "23067",
+  "chromosome": "12",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SETD1B.md"
+ },
+ {
+  "symbol": "SETD2",
+  "full_name": "SET domain containing 2, histone lysine methyltransferase",
+  "ncbi_gene_id": "29072",
+  "chromosome": "3",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SETD2.md"
+ },
+ {
+  "symbol": "SETDB1",
+  "full_name": "SET domain bifurcated histone lysine methyltransferase 1",
+  "ncbi_gene_id": "9869",
+  "chromosome": "1",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SETDB1.md"
+ },
+ {
+  "symbol": "SETDB2",
+  "full_name": "SET domain bifurcated histone lysine methyltransferase 2",
+  "ncbi_gene_id": "83852",
+  "chromosome": "13",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SETDB2.md"
+ },
+ {
+  "symbol": "SHBG",
+  "full_name": "sex hormone binding globulin",
+  "ncbi_gene_id": "6462",
+  "chromosome": "17",
+  "families": [
+   "hpg-gonadal-axis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SHBG.md"
+ },
+ {
+  "symbol": "SIGMAR1",
+  "full_name": "sigma receptor chaperone 1",
+  "ncbi_gene_id": "10280",
+  "chromosome": "9",
+  "families": [
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SIGMAR1.md"
+ },
+ {
+  "symbol": "SIRT1",
+  "full_name": "sirtuin 1",
+  "ncbi_gene_id": "23411",
+  "chromosome": "10",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SIRT1.md"
+ },
+ {
+  "symbol": "SIRT2",
+  "full_name": "sirtuin 2",
+  "ncbi_gene_id": "22933",
+  "chromosome": "19",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SIRT2.md"
+ },
+ {
+  "symbol": "SIRT3",
+  "full_name": "sirtuin 3",
+  "ncbi_gene_id": "23410",
+  "chromosome": "11",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SIRT3.md"
+ },
+ {
+  "symbol": "SIRT4",
+  "full_name": "sirtuin 4",
+  "ncbi_gene_id": "23409",
+  "chromosome": "12",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SIRT4.md"
+ },
+ {
+  "symbol": "SIRT5",
+  "full_name": "sirtuin 5",
+  "ncbi_gene_id": "23408",
+  "chromosome": "6",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SIRT5.md"
+ },
+ {
+  "symbol": "SIRT6",
+  "full_name": "sirtuin 6",
+  "ncbi_gene_id": "51548",
+  "chromosome": "19",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SIRT6.md"
+ },
+ {
+  "symbol": "SIRT7",
+  "full_name": "sirtuin 7",
+  "ncbi_gene_id": "51547",
+  "chromosome": "17",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SIRT7.md"
+ },
+ {
+  "symbol": "SLC10A1",
+  "full_name": "solute carrier family 10 member 1",
+  "ncbi_gene_id": "6554",
+  "chromosome": "14",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SLC10A1.md"
+ },
+ {
+  "symbol": "SLC10A2",
+  "full_name": "solute carrier family 10 member 2",
+  "ncbi_gene_id": "6555",
+  "chromosome": "13",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SLC10A2.md"
+ },
+ {
+  "symbol": "SLC10A6",
+  "full_name": "solute carrier family 10 member 6",
+  "ncbi_gene_id": "345274",
+  "chromosome": "4",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SLC10A6.md"
+ },
+ {
+  "symbol": "SLC13A1",
+  "full_name": "solute carrier family 13 member 1",
+  "ncbi_gene_id": "6561",
+  "chromosome": "7",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SLC13A1.md"
+ },
+ {
+  "symbol": "SLC16A1",
+  "full_name": "solute carrier family 16 member 1",
+  "ncbi_gene_id": "6566",
+  "chromosome": "1",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SLC16A1.md"
+ },
+ {
+  "symbol": "SLC16A10",
+  "full_name": "solute carrier family 16 member 10",
+  "ncbi_gene_id": "117247",
+  "chromosome": "6",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SLC16A10.md"
+ },
+ {
+  "symbol": "SLC16A3",
+  "full_name": "solute carrier family 16 member 3",
+  "ncbi_gene_id": "9123",
+  "chromosome": "17",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SLC16A3.md"
+ },
+ {
+  "symbol": "SLC16A9",
+  "full_name": "solute carrier family 16 member 9",
+  "ncbi_gene_id": "220963",
+  "chromosome": "10",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SLC16A9.md"
+ },
+ {
+  "symbol": "SLC18A2",
+  "full_name": "solute carrier family 18 member A2",
+  "ncbi_gene_id": "6571",
+  "chromosome": "10",
+  "families": [
+   "drug-xenobiotic-transporters",
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SLC18A2.md"
+ },
+ {
+  "symbol": "SLC22A1",
+  "full_name": "solute carrier family 22 member 1",
+  "ncbi_gene_id": "6580",
+  "chromosome": "6",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SLC22A1.md"
+ },
+ {
+  "symbol": "SLC22A11",
+  "full_name": "solute carrier family 22 member 11",
+  "ncbi_gene_id": "55867",
+  "chromosome": "11",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SLC22A11.md"
+ },
+ {
+  "symbol": "SLC22A12",
+  "full_name": "solute carrier family 22 member 12",
+  "ncbi_gene_id": "116085",
+  "chromosome": "11",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SLC22A12.md"
+ },
+ {
+  "symbol": "SLC22A13",
+  "full_name": "solute carrier family 22 member 13",
+  "ncbi_gene_id": "9390",
+  "chromosome": "3",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SLC22A13.md"
+ },
+ {
+  "symbol": "SLC22A14",
+  "full_name": "solute carrier family 22 member 14",
+  "ncbi_gene_id": "9389",
+  "chromosome": "3",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SLC22A14.md"
+ },
+ {
+  "symbol": "SLC22A2",
+  "full_name": "solute carrier family 22 member 2",
+  "ncbi_gene_id": "6582",
+  "chromosome": "6",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SLC22A2.md"
+ },
+ {
+  "symbol": "SLC22A24",
+  "full_name": "solute carrier family 22 member 24",
+  "ncbi_gene_id": "283238",
+  "chromosome": "11",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SLC22A24.md"
+ },
+ {
+  "symbol": "SLC22A3",
+  "full_name": "solute carrier family 22 member 3",
+  "ncbi_gene_id": "6581",
+  "chromosome": "6",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SLC22A3.md"
+ },
+ {
+  "symbol": "SLC22A4",
+  "full_name": "solute carrier family 22 member 4",
+  "ncbi_gene_id": "6583",
+  "chromosome": "5",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SLC22A4.md"
+ },
+ {
+  "symbol": "SLC22A5",
+  "full_name": "solute carrier family 22 member 5",
+  "ncbi_gene_id": "6584",
+  "chromosome": "5",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SLC22A5.md"
+ },
+ {
+  "symbol": "SLC22A6",
+  "full_name": "solute carrier family 22 member 6",
+  "ncbi_gene_id": "9356",
+  "chromosome": "11",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SLC22A6.md"
+ },
+ {
+  "symbol": "SLC22A7",
+  "full_name": "solute carrier family 22 member 7",
+  "ncbi_gene_id": "10864",
+  "chromosome": "6",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SLC22A7.md"
+ },
+ {
+  "symbol": "SLC22A8",
+  "full_name": "solute carrier family 22 member 8",
+  "ncbi_gene_id": "9376",
+  "chromosome": "11",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SLC22A8.md"
+ },
+ {
+  "symbol": "SLC25A4",
+  "full_name": "solute carrier family 25 member 4",
+  "ncbi_gene_id": "291",
+  "chromosome": "4",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SLC25A4.md"
+ },
+ {
+  "symbol": "SLC26A4",
+  "full_name": "solute carrier family 26 member 4",
+  "ncbi_gene_id": "5172",
+  "chromosome": "7",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SLC26A4.md"
+ },
+ {
+  "symbol": "SLC51A",
+  "full_name": "solute carrier family 51 member A",
+  "ncbi_gene_id": "200931",
+  "chromosome": "3",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SLC51A.md"
+ },
+ {
+  "symbol": "SLC51B",
+  "full_name": "SLC51 subunit beta",
+  "ncbi_gene_id": "123264",
+  "chromosome": "15",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SLC51B.md"
+ },
+ {
+  "symbol": "SLC6A3",
+  "full_name": "solute carrier family 6 member 3",
+  "ncbi_gene_id": "6531",
+  "chromosome": "5",
+  "families": [
+   "drug-xenobiotic-transporters",
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SLC6A3.md"
+ },
+ {
+  "symbol": "SLC6A4",
+  "full_name": "solute carrier family 6 member 4",
+  "ncbi_gene_id": "6532",
+  "chromosome": "17",
+  "families": [
+   "drug-xenobiotic-transporters",
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SLC6A4.md"
+ },
+ {
+  "symbol": "SLC7A5",
+  "full_name": "solute carrier family 7 member 5",
+  "ncbi_gene_id": "8140",
+  "chromosome": "16",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SLC7A5.md"
+ },
+ {
+  "symbol": "SLCO1A2",
+  "full_name": "solute carrier organic anion transporter family member 1A2",
+  "ncbi_gene_id": "6579",
+  "chromosome": "12",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SLCO1A2.md"
+ },
+ {
+  "symbol": "SLCO1B1",
+  "full_name": "solute carrier organic anion transporter family member 1B1",
+  "ncbi_gene_id": "10599",
+  "chromosome": "12",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": true,
+  "in_prior_library": true,
+  "verification_status": "verified",
+  "page": "SLCO1B1.md"
+ },
+ {
+  "symbol": "SLCO1B3",
+  "full_name": "solute carrier organic anion transporter family member 1B3",
+  "ncbi_gene_id": "28234",
+  "chromosome": "12",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SLCO1B3.md"
+ },
+ {
+  "symbol": "SLCO1B7",
+  "full_name": "solute carrier organic anion transporter family member 1B7 (putative)",
+  "ncbi_gene_id": "338821",
+  "chromosome": "12",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SLCO1B7.md"
+ },
+ {
+  "symbol": "SLCO1C1",
+  "full_name": "solute carrier organic anion transporter family member 1C1",
+  "ncbi_gene_id": "53919",
+  "chromosome": "12",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SLCO1C1.md"
+ },
+ {
+  "symbol": "SLCO2A1",
+  "full_name": "solute carrier organic anion transporter family member 2A1",
+  "ncbi_gene_id": "6578",
+  "chromosome": "3",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SLCO2A1.md"
+ },
+ {
+  "symbol": "SLCO2B1",
+  "full_name": "solute carrier organic anion transporter family member 2B1",
+  "ncbi_gene_id": "11309",
+  "chromosome": "11",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SLCO2B1.md"
+ },
+ {
+  "symbol": "SLCO3A1",
+  "full_name": "solute carrier organic anion transporter family member 3A1",
+  "ncbi_gene_id": "28232",
+  "chromosome": "15",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SLCO3A1.md"
+ },
+ {
+  "symbol": "SLCO4A1",
+  "full_name": "solute carrier organic anion transporter family member 4A1",
+  "ncbi_gene_id": "28231",
+  "chromosome": "20",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SLCO4A1.md"
+ },
+ {
+  "symbol": "SLCO4C1",
+  "full_name": "solute carrier organic anion transporter family member 4C1",
+  "ncbi_gene_id": "353189",
+  "chromosome": "5",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SLCO4C1.md"
+ },
+ {
+  "symbol": "SLCO5A1",
+  "full_name": "solute carrier organic anion transporter family member 5A1",
+  "ncbi_gene_id": "81796",
+  "chromosome": "8",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SLCO5A1.md"
+ },
+ {
+  "symbol": "SLCO6A1",
+  "full_name": "solute carrier organic anion transporter family member 6A1",
+  "ncbi_gene_id": "133482",
+  "chromosome": "5",
+  "families": [
+   "drug-xenobiotic-transporters"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SLCO6A1.md"
+ },
+ {
+  "symbol": "SMAD2",
+  "full_name": "SMAD family member 2",
+  "ncbi_gene_id": "4087",
+  "chromosome": "18",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SMAD2.md"
+ },
+ {
+  "symbol": "SMAD3",
+  "full_name": "SMAD family member 3",
+  "ncbi_gene_id": "4088",
+  "chromosome": "15",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SMAD3.md"
+ },
+ {
+  "symbol": "SMAD4",
+  "full_name": "SMAD family member 4",
+  "ncbi_gene_id": "4089",
+  "chromosome": "18",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SMAD4.md"
+ },
+ {
+  "symbol": "SMAD7",
+  "full_name": "SMAD family member 7",
+  "ncbi_gene_id": "4092",
+  "chromosome": "18",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SMAD7.md"
+ },
+ {
+  "symbol": "SMARCA2",
+  "full_name": "SWI/SNF related BAF chromatin remodeling complex subunit ATPase 2",
+  "ncbi_gene_id": "6595",
+  "chromosome": "9",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SMARCA2.md"
+ },
+ {
+  "symbol": "SMARCA4",
+  "full_name": "SWI/SNF related BAF chromatin remodeling complex subunit ATPase 4",
+  "ncbi_gene_id": "6597",
+  "chromosome": "19",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SMARCA4.md"
+ },
+ {
+  "symbol": "SMARCA5",
+  "full_name": "SNF2 related chromatin remodeling ATPase 5",
+  "ncbi_gene_id": "8467",
+  "chromosome": "4",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SMARCA5.md"
+ },
+ {
+  "symbol": "SMARCB1",
+  "full_name": "SWI/SNF related BAF chromatin remodeling complex subunit B1",
+  "ncbi_gene_id": "6598",
+  "chromosome": "22",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SMARCB1.md"
+ },
+ {
+  "symbol": "SMARCC1",
+  "full_name": "SWI/SNF related BAF chromatin remodeling complex subunit C1",
+  "ncbi_gene_id": "6599",
+  "chromosome": "3",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SMARCC1.md"
+ },
+ {
+  "symbol": "SMARCC2",
+  "full_name": "SWI/SNF related BAF chromatin remodeling complex subunit C2",
+  "ncbi_gene_id": "6601",
+  "chromosome": "12",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SMARCC2.md"
+ },
+ {
+  "symbol": "SMARCD1",
+  "full_name": "SWI/SNF related BAF chromatin remodeling complex subunit D1",
+  "ncbi_gene_id": "6602",
+  "chromosome": "12",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SMARCD1.md"
+ },
+ {
+  "symbol": "SMARCD2",
+  "full_name": "SWI/SNF related BAF chromatin remodeling complex subunit D2",
+  "ncbi_gene_id": "6603",
+  "chromosome": "17",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SMARCD2.md"
+ },
+ {
+  "symbol": "SMARCE1",
+  "full_name": "SWI/SNF related BAF chromatin remodeling complex subunit E1",
+  "ncbi_gene_id": "6605",
+  "chromosome": "17",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SMARCE1.md"
+ },
+ {
+  "symbol": "SMC1A",
+  "full_name": "structural maintenance of chromosomes 1A",
+  "ncbi_gene_id": "8243",
+  "chromosome": "X",
+  "families": [
+   "chromosome-cohesion"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SMC1A.md"
+ },
+ {
+  "symbol": "SMC3",
+  "full_name": "structural maintenance of chromosomes 3",
+  "ncbi_gene_id": "9126",
+  "chromosome": "10",
+  "families": [
+   "chromosome-cohesion"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SMC3.md"
+ },
+ {
+  "symbol": "SOD2",
+  "full_name": "superoxide dismutase 2",
+  "ncbi_gene_id": "6648",
+  "chromosome": "6",
+  "families": [
+   "mitochondrial-energy"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SOD2.md"
+ },
+ {
+  "symbol": "SOAT1",
+  "full_name": "sterol O-acyltransferase 1",
+  "ncbi_gene_id": "6646",
+  "chromosome": "1",
+  "families": [
+   "lipid-steroid-homeostasis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SOAT1.md"
+ },
+ {
+  "symbol": "SOAT2",
+  "full_name": "sterol O-acyltransferase 2",
+  "ncbi_gene_id": "8435",
+  "chromosome": "12",
+  "families": [
+   "lipid-steroid-homeostasis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SOAT2.md"
+ },
+ {
+  "symbol": "SOX2",
+  "full_name": "SRY-box transcription factor 2",
+  "ncbi_gene_id": "6657",
+  "chromosome": "3",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SOX2.md"
+ },
+ {
+  "symbol": "SOX9",
+  "full_name": "SRY-box transcription factor 9",
+  "ncbi_gene_id": "6662",
+  "chromosome": "17",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SOX9.md"
+ },
+ {
+  "symbol": "SP1",
+  "full_name": "Sp1 transcription factor",
+  "ncbi_gene_id": "6667",
+  "chromosome": "12",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SP1.md"
+ },
+ {
+  "symbol": "SP3",
+  "full_name": "Sp3 transcription factor",
+  "ncbi_gene_id": "6670",
+  "chromosome": "2",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SP3.md"
+ },
+ {
+  "symbol": "SRCAP",
+  "full_name": "Snf2 related CREBBP activator protein",
+  "ncbi_gene_id": "10847",
+  "chromosome": "16",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SRCAP.md"
+ },
+ {
+  "symbol": "SRD5A1",
+  "full_name": "steroid 5 alpha-reductase 1",
+  "ncbi_gene_id": "6715",
+  "chromosome": "5",
+  "families": [
+   "steroid-synthesis"
+  ],
+  "powers_named": true,
+  "in_prior_library": true,
+  "verification_status": "verified",
+  "page": "SRD5A1.md"
+ },
+ {
+  "symbol": "SRD5A2",
+  "full_name": "steroid 5 alpha-reductase 2",
+  "ncbi_gene_id": "6716",
+  "chromosome": "2",
+  "families": [
+   "steroid-synthesis"
+  ],
+  "powers_named": false,
+  "in_prior_library": true,
+  "verification_status": "verified",
+  "page": "SRD5A2.md"
+ },
+ {
+  "symbol": "SRD5A3",
+  "full_name": "steroid 5 alpha-reductase 3",
+  "ncbi_gene_id": "79644",
+  "chromosome": "4",
+  "families": [
+   "steroid-synthesis"
+  ],
+  "powers_named": false,
+  "in_prior_library": true,
+  "verification_status": "verified",
+  "page": "SRD5A3.md"
+ },
+ {
+  "symbol": "SS18",
+  "full_name": "SS18 subunit of BAF chromatin remodeling complex",
+  "ncbi_gene_id": "6760",
+  "chromosome": "18",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SS18.md"
+ },
+ {
+  "symbol": "SS18L1",
+  "full_name": "SS18L1 subunit of BAF chromatin remodeling complex",
+  "ncbi_gene_id": "26039",
+  "chromosome": "20",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SS18L1.md"
+ },
+ {
+  "symbol": "STAG1",
+  "full_name": "STAG1 cohesin complex component",
+  "ncbi_gene_id": "10274",
+  "chromosome": "3",
+  "families": [
+   "chromosome-cohesion"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "STAG1.md"
+ },
+ {
+  "symbol": "STAG2",
+  "full_name": "STAG2 cohesin complex component",
+  "ncbi_gene_id": "10735",
+  "chromosome": "X",
+  "families": [
+   "chromosome-cohesion"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "STAG2.md"
+ },
+ {
+  "symbol": "STAR",
+  "full_name": "steroidogenic acute regulatory protein",
+  "ncbi_gene_id": "6770",
+  "chromosome": "8",
+  "families": [
+   "steroid-synthesis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "STAR.md"
+ },
+ {
+  "symbol": "STARD10",
+  "full_name": "StAR related lipid transfer domain containing 10",
+  "ncbi_gene_id": "10809",
+  "chromosome": "11",
+  "families": [
+   "steroid-synthesis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "STARD10.md"
+ },
+ {
+  "symbol": "STARD3",
+  "full_name": "StAR related lipid transfer domain containing 3",
+  "ncbi_gene_id": "10948",
+  "chromosome": "17",
+  "families": [
+   "steroid-synthesis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "STARD3.md"
+ },
+ {
+  "symbol": "STARD4",
+  "full_name": "StAR related lipid transfer domain containing 4",
+  "ncbi_gene_id": "134429",
+  "chromosome": "5",
+  "families": [
+   "steroid-synthesis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "STARD4.md"
+ },
+ {
+  "symbol": "STARD5",
+  "full_name": "StAR related lipid transfer domain containing 5",
+  "ncbi_gene_id": "80765",
+  "chromosome": "15",
+  "families": [
+   "steroid-synthesis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "STARD5.md"
+ },
+ {
+  "symbol": "STARD6",
+  "full_name": "StAR related lipid transfer domain containing 6",
+  "ncbi_gene_id": "147323",
+  "chromosome": "18",
+  "families": [
+   "steroid-synthesis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "STARD6.md"
+ },
+ {
+  "symbol": "STAT1",
+  "full_name": "signal transducer and activator of transcription 1",
+  "ncbi_gene_id": "6772",
+  "chromosome": "2",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "STAT1.md"
+ },
+ {
+  "symbol": "STAT3",
+  "full_name": "signal transducer and activator of transcription 3",
+  "ncbi_gene_id": "6774",
+  "chromosome": "17",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "STAT3.md"
+ },
+ {
+  "symbol": "STAT5A",
+  "full_name": "signal transducer and activator of transcription 5A",
+  "ncbi_gene_id": "6776",
+  "chromosome": "17",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "STAT5A.md"
+ },
+ {
+  "symbol": "STAT5B",
+  "full_name": "signal transducer and activator of transcription 5B",
+  "ncbi_gene_id": "6777",
+  "chromosome": "17",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "STAT5B.md"
+ },
+ {
+  "symbol": "STIP1",
+  "full_name": "stress induced phosphoprotein 1",
+  "ncbi_gene_id": "10963",
+  "chromosome": "11",
+  "families": [
+   "steroid-receptor-chaperones"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "STIP1.md"
+ },
+ {
+  "symbol": "STRA6",
+  "full_name": "signaling receptor and transporter of retinol STRA6",
+  "ncbi_gene_id": "64220",
+  "chromosome": "15",
+  "families": [
+   "retinoid-signaling"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "STRA6.md"
+ },
+ {
+  "symbol": "STS",
+  "full_name": "steroid sulfatase",
+  "ncbi_gene_id": "412",
+  "chromosome": "X",
+  "families": [
+   "steroid-conjugation-clearance"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "STS.md"
+ },
+ {
+  "symbol": "SULT1A1",
+  "full_name": "sulfotransferase family 1A member 1",
+  "ncbi_gene_id": "6817",
+  "chromosome": "16",
+  "families": [
+   "steroid-conjugation-clearance"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SULT1A1.md"
+ },
+ {
+  "symbol": "SULT1A2",
+  "full_name": "sulfotransferase family 1A member 2",
+  "ncbi_gene_id": "6799",
+  "chromosome": "16",
+  "families": [
+   "steroid-conjugation-clearance"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SULT1A2.md"
+ },
+ {
+  "symbol": "SULT1E1",
+  "full_name": "sulfotransferase family 1E member 1",
+  "ncbi_gene_id": "6783",
+  "chromosome": "4",
+  "families": [
+   "steroid-conjugation-clearance"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SULT1E1.md"
+ },
+ {
+  "symbol": "SULT2A1",
+  "full_name": "sulfotransferase family 2A member 1",
+  "ncbi_gene_id": "6822",
+  "chromosome": "19",
+  "families": [
+   "steroid-conjugation-clearance"
+  ],
+  "powers_named": true,
+  "in_prior_library": true,
+  "verification_status": "verified",
+  "page": "SULT2A1.md"
+ },
+ {
+  "symbol": "SULT2B1",
+  "full_name": "sulfotransferase family 2B member 1",
+  "ncbi_gene_id": "6820",
+  "chromosome": "19",
+  "families": [
+   "steroid-conjugation-clearance"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SULT2B1.md"
+ },
+ {
+  "symbol": "SUMF1",
+  "full_name": "sulfatase modifying factor 1",
+  "ncbi_gene_id": "285362",
+  "chromosome": "3",
+  "families": [
+   "steroid-conjugation-clearance"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SUMF1.md"
+ },
+ {
+  "symbol": "SUMF2",
+  "full_name": "sulfatase modifying factor 2",
+  "ncbi_gene_id": "25870",
+  "chromosome": "7",
+  "families": [
+   "steroid-conjugation-clearance"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SUMF2.md"
+ },
+ {
+  "symbol": "SUZ12",
+  "full_name": "SUZ12 polycomb repressive complex 2 subunit",
+  "ncbi_gene_id": "23512",
+  "chromosome": "17",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SUZ12.md"
+ },
+ {
+  "symbol": "SUV39H1",
+  "full_name": "SUV39H1 histone lysine methyltransferase",
+  "ncbi_gene_id": "6839",
+  "chromosome": "X",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SUV39H1.md"
+ },
+ {
+  "symbol": "SUV39H2",
+  "full_name": "SUV39H2 histone lysine methyltransferase",
+  "ncbi_gene_id": "79723",
+  "chromosome": "10",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "SUV39H2.md"
+ },
+ {
+  "symbol": "TAC3",
+  "full_name": "tachykinin precursor 3",
+  "ncbi_gene_id": "6866",
+  "chromosome": "12",
+  "families": [
+   "hpg-gonadal-axis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "TAC3.md"
+ },
+ {
+  "symbol": "TACR3",
+  "full_name": "tachykinin receptor 3",
+  "ncbi_gene_id": "6870",
+  "chromosome": "4",
+  "families": [
+   "hpg-gonadal-axis"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "TACR3.md"
+ },
+ {
+  "symbol": "TAF1",
+  "full_name": "TATA-box binding protein associated factor 1",
+  "ncbi_gene_id": "6872",
+  "chromosome": "X",
+  "families": [
+   "basal-transcription-machinery"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "TAF1.md"
+ },
+ {
+  "symbol": "TAF10",
+  "full_name": "TATA-box binding protein associated factor 10",
+  "ncbi_gene_id": "6881",
+  "chromosome": "11",
+  "families": [
+   "basal-transcription-machinery"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "TAF10.md"
+ },
+ {
+  "symbol": "TAF2",
+  "full_name": "TATA-box binding protein associated factor 2",
+  "ncbi_gene_id": "6873",
+  "chromosome": "8",
+  "families": [
+   "basal-transcription-machinery"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "TAF2.md"
+ },
+ {
+  "symbol": "TAF3",
+  "full_name": "TATA-box binding protein associated factor 3",
+  "ncbi_gene_id": "83860",
+  "chromosome": "10",
+  "families": [
+   "basal-transcription-machinery"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "TAF3.md"
+ },
+ {
+  "symbol": "TAF4",
+  "full_name": "TATA-box binding protein associated factor 4",
+  "ncbi_gene_id": "6874",
+  "chromosome": "20",
+  "families": [
+   "basal-transcription-machinery"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "TAF4.md"
+ },
+ {
+  "symbol": "TAF5",
+  "full_name": "TATA-box binding protein associated factor 5",
+  "ncbi_gene_id": "6877",
+  "chromosome": "10",
+  "families": [
+   "basal-transcription-machinery"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "TAF5.md"
+ },
+ {
+  "symbol": "TAF6",
+  "full_name": "TATA-box binding protein associated factor 6",
+  "ncbi_gene_id": "6878",
+  "chromosome": "7",
+  "families": [
+   "basal-transcription-machinery"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "TAF6.md"
+ },
+ {
+  "symbol": "TAF7",
+  "full_name": "TATA-box binding protein associated factor 7",
+  "ncbi_gene_id": "6879",
+  "chromosome": "5",
+  "families": [
+   "basal-transcription-machinery"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "TAF7.md"
+ },
+ {
+  "symbol": "TAF9",
+  "full_name": "TATA-box binding protein associated factor 9",
+  "ncbi_gene_id": "6880",
+  "chromosome": "5",
+  "families": [
+   "basal-transcription-machinery"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "TAF9.md"
+ },
+ {
+  "symbol": "TARBP2",
+  "full_name": "TARBP2 subunit of RISC loading complex",
+  "ncbi_gene_id": "6895",
+  "chromosome": "12",
+  "families": [
+   "rna-processing"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "TARBP2.md"
+ },
+ {
+  "symbol": "TBP",
+  "full_name": "TATA-box binding protein",
+  "ncbi_gene_id": "6908",
+  "chromosome": "6",
+  "families": [
+   "basal-transcription-machinery"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "TBP.md"
+ },
+ {
+  "symbol": "TDG",
+  "full_name": "thymine DNA glycosylase",
+  "ncbi_gene_id": "6996",
+  "chromosome": "12",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "TDG.md"
+ },
+ {
+  "symbol": "TET1",
+  "full_name": "tet methylcytosine dioxygenase 1",
+  "ncbi_gene_id": "80312",
+  "chromosome": "10",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "TET1.md"
+ },
+ {
+  "symbol": "TET2",
+  "full_name": "tet methylcytosine dioxygenase 2",
+  "ncbi_gene_id": "54790",
+  "chromosome": "4",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "TET2.md"
+ },
+ {
+  "symbol": "TET3",
+  "full_name": "tet methylcytosine dioxygenase 3",
+  "ncbi_gene_id": "200424",
+  "chromosome": "2",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "TET3.md"
+ },
+ {
+  "symbol": "TFAM",
+  "full_name": "transcription factor A, mitochondrial",
+  "ncbi_gene_id": "7019",
+  "chromosome": "10",
+  "families": [
+   "mitochondrial-energy"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "TFAM.md"
+ },
+ {
+  "symbol": "TH",
+  "full_name": "tyrosine hydroxylase",
+  "ncbi_gene_id": "7054",
+  "chromosome": "11",
+  "families": [
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "TH.md"
+ },
+ {
+  "symbol": "THRA",
+  "full_name": "thyroid hormone receptor alpha",
+  "ncbi_gene_id": "7067",
+  "chromosome": "17",
+  "families": [
+   "steroid-nuclear-receptors"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "THRA.md"
+ },
+ {
+  "symbol": "THRB",
+  "full_name": "thyroid hormone receptor beta",
+  "ncbi_gene_id": "7068",
+  "chromosome": "3",
+  "families": [
+   "steroid-nuclear-receptors"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "THRB.md"
+ },
+ {
+  "symbol": "TPH1",
+  "full_name": "tryptophan hydroxylase 1",
+  "ncbi_gene_id": "7166",
+  "chromosome": "11",
+  "families": [
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "TPH1.md"
+ },
+ {
+  "symbol": "TPH2",
+  "full_name": "tryptophan hydroxylase 2",
+  "ncbi_gene_id": "121278",
+  "chromosome": "12",
+  "families": [
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "TPH2.md"
+ },
+ {
+  "symbol": "TRIM24",
+  "full_name": "tripartite motif containing 24",
+  "ncbi_gene_id": "8805",
+  "chromosome": "7",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "TRIM24.md"
+ },
+ {
+  "symbol": "TRIM28",
+  "full_name": "tripartite motif containing 28",
+  "ncbi_gene_id": "10155",
+  "chromosome": "19",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "TRIM28.md"
+ },
+ {
+  "symbol": "TRIM33",
+  "full_name": "tripartite motif containing 33",
+  "ncbi_gene_id": "51592",
+  "chromosome": "1",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "TRIM33.md"
+ },
+ {
+  "symbol": "TSPO",
+  "full_name": "translocator protein",
+  "ncbi_gene_id": "706",
+  "chromosome": "22",
+  "families": [
+   "steroid-synthesis",
+   "neurotransmission"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "TSPO.md"
+ },
+ {
+  "symbol": "TSC22D3",
+  "full_name": "TSC22 domain family member 3",
+  "ncbi_gene_id": "1831",
+  "chromosome": "X",
+  "families": [
+   "steroid-receptor-chaperones"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "TSC22D3.md"
+ },
+ {
+  "symbol": "UBE2E3",
+  "full_name": "ubiquitin conjugating enzyme E2 E3",
+  "ncbi_gene_id": "10477",
+  "chromosome": "2",
+  "families": [
+   "signaling-transcription",
+   "general-physiology"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "UBE2E3.md"
+ },
+ {
+  "symbol": "UGDH",
+  "full_name": "UDP-glucose 6-dehydrogenase",
+  "ncbi_gene_id": "7358",
+  "chromosome": "4",
+  "families": [
+   "steroid-conjugation-clearance"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "UGDH.md"
+ },
+ {
+  "symbol": "UGP2",
+  "full_name": "UDP-glucose pyrophosphorylase 2",
+  "ncbi_gene_id": "7360",
+  "chromosome": "2",
+  "families": [
+   "steroid-conjugation-clearance"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "UGP2.md"
+ },
+ {
+  "symbol": "UGT1A1",
+  "full_name": "UDP glucuronosyltransferase family 1 member A1",
+  "ncbi_gene_id": "54658",
+  "chromosome": "2",
+  "families": [
+   "steroid-conjugation-clearance"
+  ],
+  "powers_named": false,
+  "powers_family_named": true,
+  "in_prior_library": true,
+  "verification_status": "verified",
+  "page": "UGT1A1.md"
+ },
+ {
+  "symbol": "UGT1A10",
+  "full_name": "UDP glucuronosyltransferase family 1 member A10",
+  "ncbi_gene_id": "54575",
+  "chromosome": "2",
+  "families": [
+   "steroid-conjugation-clearance"
+  ],
+  "powers_named": false,
+  "powers_family_named": true,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "UGT1A10.md"
+ },
+ {
+  "symbol": "UGT1A3",
+  "full_name": "UDP glucuronosyltransferase family 1 member A3",
+  "ncbi_gene_id": "54659",
+  "chromosome": "2",
+  "families": [
+   "steroid-conjugation-clearance"
+  ],
+  "powers_named": false,
+  "powers_family_named": true,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "UGT1A3.md"
+ },
+ {
+  "symbol": "UGT1A4",
+  "full_name": "UDP glucuronosyltransferase family 1 member A4",
+  "ncbi_gene_id": "54657",
+  "chromosome": "2",
+  "families": [
+   "steroid-conjugation-clearance"
+  ],
+  "powers_named": false,
+  "powers_family_named": true,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "UGT1A4.md"
+ },
+ {
+  "symbol": "UGT1A6",
+  "full_name": "UDP glucuronosyltransferase family 1 member A6",
+  "ncbi_gene_id": "54578",
+  "chromosome": "2",
+  "families": [
+   "steroid-conjugation-clearance"
+  ],
+  "powers_named": false,
+  "powers_family_named": true,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "UGT1A6.md"
+ },
+ {
+  "symbol": "UGT1A8",
+  "full_name": "UDP glucuronosyltransferase family 1 member A8",
+  "ncbi_gene_id": "54576",
+  "chromosome": "2",
+  "families": [
+   "steroid-conjugation-clearance"
+  ],
+  "powers_named": false,
+  "powers_family_named": true,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "UGT1A8.md"
+ },
+ {
+  "symbol": "UGT1A9",
+  "full_name": "UDP glucuronosyltransferase family 1 member A9",
+  "ncbi_gene_id": "54600",
+  "chromosome": "2",
+  "families": [
+   "steroid-conjugation-clearance"
+  ],
+  "powers_named": false,
+  "powers_family_named": true,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "UGT1A9.md"
+ },
+ {
+  "symbol": "UGT2B10",
+  "full_name": "UDP glucuronosyltransferase family 2 member B10",
+  "ncbi_gene_id": "7365",
+  "chromosome": "4",
+  "families": [
+   "steroid-conjugation-clearance"
+  ],
+  "powers_named": false,
+  "powers_family_named": true,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "UGT2B10.md"
+ },
+ {
+  "symbol": "UGT2B15",
+  "full_name": "UDP glucuronosyltransferase family 2 member B15",
+  "ncbi_gene_id": "7366",
+  "chromosome": "4",
+  "families": [
+   "steroid-conjugation-clearance"
+  ],
+  "powers_named": true,
+  "in_prior_library": true,
+  "verification_status": "verified",
+  "page": "UGT2B15.md"
+ },
+ {
+  "symbol": "UGT2B17",
+  "full_name": "UDP glucuronosyltransferase family 2 member B17",
+  "ncbi_gene_id": "7367",
+  "chromosome": "4",
+  "families": [
+   "steroid-conjugation-clearance"
+  ],
+  "powers_named": true,
+  "in_prior_library": true,
+  "verification_status": "verified",
+  "page": "UGT2B17.md"
+ },
+ {
+  "symbol": "UGT2B28",
+  "full_name": "UDP glucuronosyltransferase family 2 member B28",
+  "ncbi_gene_id": "54490",
+  "chromosome": "4",
+  "families": [
+   "steroid-conjugation-clearance"
+  ],
+  "powers_named": false,
+  "powers_family_named": true,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "UGT2B28.md"
+ },
+ {
+  "symbol": "UGT2B7",
+  "full_name": "UDP glucuronosyltransferase family 2 member B7",
+  "ncbi_gene_id": "7364",
+  "chromosome": "4",
+  "families": [
+   "steroid-conjugation-clearance"
+  ],
+  "powers_named": true,
+  "in_prior_library": true,
+  "verification_status": "verified",
+  "page": "UGT2B7.md"
+ },
+ {
+  "symbol": "UHRF1",
+  "full_name": "ubiquitin like with PHD and ring finger domains 1",
+  "ncbi_gene_id": "29128",
+  "chromosome": "19",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "UHRF1.md"
+ },
+ {
+  "symbol": "UHRF2",
+  "full_name": "ubiquitin like with PHD and ring finger domains 2",
+  "ncbi_gene_id": "115426",
+  "chromosome": "9",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "UHRF2.md"
+ },
+ {
+  "symbol": "UQCRC1",
+  "full_name": "ubiquinol-cytochrome c reductase core protein 1",
+  "ncbi_gene_id": "7384",
+  "chromosome": "3",
+  "families": [
+   "mitochondrial-energy"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "UQCRC1.md"
+ },
+ {
+  "symbol": "UQCRC2",
+  "full_name": "ubiquinol-cytochrome c reductase core protein 2",
+  "ncbi_gene_id": "7385",
+  "chromosome": "16",
+  "families": [
+   "mitochondrial-energy"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "UQCRC2.md"
+ },
+ {
+  "symbol": "VDR",
+  "full_name": "vitamin D receptor",
+  "ncbi_gene_id": "7421",
+  "chromosome": "12",
+  "families": [
+   "steroid-nuclear-receptors"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "VDR.md"
+ },
+ {
+  "symbol": "WAPL",
+  "full_name": "WAPL cohesin release factor",
+  "ncbi_gene_id": "23063",
+  "chromosome": "10",
+  "families": [
+   "chromosome-cohesion"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "WAPL.md"
+ },
+ {
+  "symbol": "WWTR1",
+  "full_name": "WW domain containing transcription regulator 1",
+  "ncbi_gene_id": "25937",
+  "chromosome": "3",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "WWTR1.md"
+ },
+ {
+  "symbol": "XPO5",
+  "full_name": "exportin 5",
+  "ncbi_gene_id": "57510",
+  "chromosome": "6",
+  "families": [
+   "rna-processing",
+   "nuclear-transport"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "XPO5.md"
+ },
+ {
+  "symbol": "YAP1",
+  "full_name": "Yes1 associated transcriptional regulator",
+  "ncbi_gene_id": "10413",
+  "chromosome": "11",
+  "families": [
+   "signaling-transcription"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "YAP1.md"
+ },
+ {
+  "symbol": "ZBTB33",
+  "full_name": "zinc finger and BTB domain containing 33",
+  "ncbi_gene_id": "10009",
+  "chromosome": "X",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "ZBTB33.md"
+ },
+ {
+  "symbol": "ZBTB38",
+  "full_name": "zinc finger and BTB domain containing 38",
+  "ncbi_gene_id": "253461",
+  "chromosome": "3",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "ZBTB38.md"
+ },
+ {
+  "symbol": "ZBTB4",
+  "full_name": "zinc finger and BTB domain containing 4",
+  "ncbi_gene_id": "57659",
+  "chromosome": "17",
+  "families": [
+   "epigenetic-regulation"
+  ],
+  "powers_named": false,
+  "in_prior_library": false,
+  "verification_status": "verified",
+  "page": "ZBTB4.md"
+ }
+]

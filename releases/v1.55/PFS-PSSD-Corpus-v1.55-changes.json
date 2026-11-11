@@ -1,0 +1,14 @@
+{
+ "version": "1.55",
+ "previous_version": "1.54",
+ "created": "2026-11-11",
+ "summary": {
+  "added": 0,
+  "updated": 0,
+  "removed": 0
+ },
+ "note": "No record changes. The release now carries PFS-PSSD-Methodology-and-Schema-v1.55.md, written from the release itself and from the modules the site renders: the nine intake routes with their counts, the seven verification statuses counted through the same function the site uses, the four stances of library_context_cites with their definitions and their mapping onto the Citation Typing Ontology, a worked example, and all 188 fields with how many records carry each. A release can now be read without the site, and a reader can audit the judgment in a stance against a written definition rather than a word.",
+ "added": [],
+ "updated": [],
+ "removed": []
+}

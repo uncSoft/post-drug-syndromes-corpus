@@ -1,0 +1,73 @@
+Post-Drug Syndromes Research Library
+Licensing, by part of this repository
+
+====================================================================
+1. The library's own content: CC BY 4.0
+====================================================================
+
+The curated content of the library is licensed under the Creative
+Commons Attribution 4.0 International license (CC BY 4.0).
+
+    https://creativecommons.org/licenses/by/4.0/
+    SPDX-License-Identifier: CC-BY-4.0
+
+This covers the parts of the library that were written or assembled
+for it, including:
+
+  * the record summaries, paraphrases, plain-language layers,
+    key points and "In the library" notes;
+  * the mechanism matrix, its ratings and its evidence notes;
+  * the glossary definitions, the timeline entries and their
+    significance notes, the topic summaries, the open questions,
+    the body-systems review and the pathway maps;
+  * the gene reference cards, apart from the third-party reference
+    data they cite;
+  * the record structure, identifiers, verification statuses,
+    cross-links, similarity map and release files
+    (releases/*/*.json, *.csv, *.md).
+
+To comply with the license, credit the library, name the release you
+used and link to it. The citation formats on
+https://postdrugsyndrome.com/research/methodology#cite do this.
+
+====================================================================
+2. Quoted and cited source material: not licensed here
+====================================================================
+
+The library describes and quotes material it does not own. Copyright
+in that material stays with its authors and publishers, and CC BY 4.0
+above does not extend to it. This includes:
+
+  * the papers, abstracts, regulatory documents and web pages the
+    records point to;
+  * short verbatim quotations kept as context, including quoted
+    forum and Reddit comments, which are reproduced for research and
+    commentary with usernames removed;
+  * posts, comments, talks and transcripts by named third parties,
+    including Dr Will Powers, which are attributed to them;
+  * documents hosted with their author's permission
+    (corpus/documents/), which remain their author's;
+  * third-party reference data, under its own license as each page
+    states: UniProt (CC BY 4.0), Reactome (CC BY 4.0), NCBI Gene,
+    PubMed and PubMed Central records.
+
+Reusing any of that is between you and its rights holder.
+
+====================================================================
+3. No source code here
+====================================================================
+
+This repository holds release files only. The software that builds
+the library and runs the site is not included and is not licensed
+here.
+
+====================================================================
+4. Not medical advice
+====================================================================
+====================================================================
+
+The library is for research and personal reference. Nothing in it is
+a diagnosis, a treatment recommendation or dosing guidance, and the
+license above grants no warranty of any kind. Statements by named
+clinicians are their own hypotheses. Patient accounts are
+uncontrolled self-reports.

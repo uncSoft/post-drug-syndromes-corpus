@@ -1,0 +1,71 @@
+{
+  "slug": "gut-brain-axis",
+  "title": "Gut–brain axis",
+  "description": "Gut bacteria and steroid hormones: hormone recycling, bacteria with steroid enzymes, what animal and patient studies show, and where the evidence is thin.",
+  "system": "gut-brain axis",
+  "written_for": "1.37",
+  "written": "2026-10-18",
+  "status": "reviewed",
+  "in_short": [
+    "The library's only study of gut bacteria in people with a post-drug syndrome is one pilot: 21 men with PFS were lower on two of five measures of gut-bacterial richness and diversity than 10 healthy men whose sequences came from an earlier study, with no significant link to clinical characteristics (DISC-008).",
+    "Gut bacteria handle hormones in two ways the library describes: enzymes that cut the sugar group off hormone conjugates (β-glucuronidases), freeing active estrogen (MECH-016) and, in a conference abstract, testosterone (MECH-014), and enzymes of their own that make or convert steroids (MECH-020, CUR-094).",
+    "In male rats given finasteride for 20 days, Bacteroidetes and Prevotellaceae were higher at the end of treatment and Ruminococcaceae, Oscillospira and Lachnospira lower a month after withdrawal (LIT-049); in that model the colon then showed low allopregnanolone and raised IL-1β and TNF-α (DISC-009). In a brief record, paroxetine altered colonic steroid synthesis and microbiota in male rats (PSSD-011).",
+    "Germ-free male mice have shifted neuroactive steroids in plasma and brain (MECH-022), but one mapping study places the enzymes that make allopregnanolone in rodent brain neurons (MECH-007). The library holds no study of gut bacteria in people with PSSD or post-retinoid syndrome (PSSD-011)."
+  ],
+  "shows": [
+    {
+      "lead": "In men with post-finasteride syndrome",
+      "text": "Stool from 21 men with PFS, sequenced for the bacterial 16S gene, was compared with earlier-study sequences from 10 healthy men. Chao1 and Faith's phylogenetic diversity were lower; Shannon diversity, observed OTUs and evenness did not differ. A subset had less Faecalibacterium and Ruminococcaceae and more Alloprevotella and Odoribacter, with no significant link to clinical characteristics (DISC-008). In 2024 reviews, the Milan group behind the pilot proposed the gut-steroid axis as an underappreciated contributor to persistent symptoms (LIT-062) and listed gut microbiota among mechanisms PFS and PSSD may share (PFS-003)."
+    },
+    {
+      "lead": "In rats given finasteride or paroxetine",
+      "text": "In the Milan group's model, male rats take finasteride for 20 days, and separate groups are examined the day after the last dose and a month later; Bacteroidetes and Prevotellaceae were higher at the end of treatment, and Ruminococcaceae, Oscillospira and Lachnospira lower at the end of withdrawal (LIT-049). Colonic allopregnanolone was lower at both points; a month after the last dose IL-1β, TNF-α and serotonin were raised and dopamine lower, and allopregnanolone given to the rats partly reversed these changes (DISC-009). The 2025 follow-up, in rats (sex not stated), found more M1 (inflammatory) macrophages and less butyrate, a bacterial fermentation product, in the colon a month after withdrawal; allopregnanolone given during withdrawal rescued many markers but only partly restored mucosal structure (DISC-010). A brief record from the same group reports paroxetine altering colonic steroid synthesis and microbiota in adult male rats, with no sampling time stated (PSSD-011)."
+    },
+    {
+      "lead": "In animals raised without gut bacteria",
+      "text": "In germ-free male mice against conventionally colonized controls, the absence of microbes shifted neuroactive steroids in plasma and brain: plasma allopregnanolone rose while 3α-diol fell, and hypothalamic DHEA rose as testosterone fell (MECH-022). This does not make the gut the source of brain neurosteroids: one in situ map of mouse and rat brain put the enzymes that make allopregnanolone in principal and output neurons, not glia (MECH-007), though cultured mouse microglia, the brain's immune cells, carried messenger RNA for 5α-reductase type 1 (CUR-090, abstract only) and a human microglial line released small amounts of allopregnanolone into its medium (CUR-091)."
+    },
+    {
+      "lead": "Bacteria that make or convert steroids",
+      "text": "Two human gut bacteria, Gordonibacter pamelaeae and Eggerthella lenta, convert biliary corticoids into progestins by removing the hydroxyl group at carbon 21; stool from pregnant women carried raised bacterial progestins, allopregnanolone among them (MECH-020). In 7,235 adults aged 50 to 65 in a Swedish cohort, microbial genes for 5α-reductase type 1 were near-universal, and their abundance, though not that of β-glucuronidase, went with higher DHT and DHT-to-testosterone ratio in the 2,897 women but not the men; in mice, the ratio of conventionally raised females exceeded 1 only in intestinal contents and was far lower in germ-free animals (CUR-094). Odoribacteraceae strains from one centenarian's stool made an unusual bile acid using what the authors identify as a bacterial 5α-reductase and a second enzyme (CUR-095, abstract only)."
+    },
+    {
+      "lead": "Deconjugation and the recycling loop",
+      "text": "In experiments with recombinant transporter vesicles and quantitative proteomics, MRP2 and MRP3 were the dominant exporters of the four major testosterone glucuronides (hormones conjugated to a sugar group for excretion) in human liver, intestine and kidney; the authors reason that those excreted into bile reach the gut (MECH-013). There, β-glucuronidase enzymes isolated from human gut bacteria cut estrone and estradiol conjugates back to free hormone able to re-enter circulation (MECH-016), and in a conference abstract bacterial enzymes and human fecal extracts did the same to testosterone glucuronide, readily but variably (MECH-014)."
+    }
+  ],
+  "disagrees": [
+    {
+      "lead": "One pilot study, uneven controls",
+      "text": "The patient comparison is small and not like for like: 10 of the 31 men came from an earlier study and were about 12 years older on average, each gave one sample, and no significant link to clinical characteristics was found (DISC-008). A review argues that gut transit time drives much of the variation in microbiota composition and activity, is rarely measured, and can confound disease signatures (SIDE-005). Faster transit also lowered serum estrogens: senna lowered estrone and estrone sulfate in a randomized study of 40 healthy premenopausal volunteers (MECH-021)."
+    },
+    {
+      "lead": "Associations, other species, other sexes",
+      "text": "The bacterial 5α-reductase work is not about patients. Its human half is observational, in adults not taking drugs that affect sex steroids, almost all of Swedish ancestry, and the association held in women only, which does not transfer to the library's mostly male patients (CUR-094). The enzyme found in Odoribacteraceae acts on bile acids, not androgens (CUR-095). The only patient link is the pilot's finding of more Odoribacter in a subset of men with PFS (DISC-008)."
+    },
+    {
+      "lead": "Which way the drugs push the gut",
+      "text": "The rat withdrawal, germ-free mouse and patient findings come from one group and are related, not independent, evidence (LIT-062, LIT-049, MECH-022, DISC-008). Other models run the other way: in male mice given a toxin that models Parkinson's disease, ten per group, finasteride at the higher of two doses and dutasteride at the lower prevented a loss of tyrosine hydroxylase-positive neurons in the gut's nerve network, and dutasteride prevented a rise in inflammatory macrophages; the drugs were given for ten days around the toxin, with no withdrawal period (CUR-097)."
+    },
+    {
+      "lead": "No tested route from gut to brain",
+      "text": "The library holds no test of whether, or how, altered gut bacteria affect the brain in these syndromes. A science-news record summarizes a mouse study in which cutting the vagus nerve blunted dopamine responses in the nucleus accumbens and impaired reinforcement learning; the microbiome was not studied (DISC-027)."
+    }
+  ],
+  "powers": {
+    "lead": "Dr Powers' recycling model",
+    "text": "Dr Powers proposes that a shift in gut flora changes how much bacterial β-glucuronidase is produced, and so how much glucuronidated hormone is deconjugated and reabsorbed (PRH-1255, PRH-1541), a theory he calls probably wrong but less wrong than anything prior (PRH-1255). Asked why one patient's tinnitus and tremor eased during diarrhea, he guesses that the flora shift raises neurosteroid levels through \"downstream pathway congestion\", with the symptoms reflecting insufficient GABA-A regulation (PRH-1541). Published records cover the gut steps, not the link to symptoms: authors reason that testosterone glucuronides in bile reach the gut (MECH-013), where bacterial enzymes deconjugated testosterone glucuronide in a conference abstract (MECH-014). Published work neither confirms nor rules out his separate proposal of a neurosteroid excess in an anhedonic subtype; weighing the other way, colonic allopregnanolone was lower in finasteride-withdrawn rats (DWP-002, DISC-009)."
+  },
+  "untested": [
+    "The library holds no study of gut bacteria in people with PSSD or post-retinoid syndrome; its one patient study is in men with PFS (DISC-008), and a community self-report of stool tests with near-absent lactobacillus and bifidobacterium (DISC-V01) is not a study.",
+    "No record tests whether finasteride, dutasteride or an SSRI reaches or inhibits the 5α-reductase of gut bacteria (CUR-094, CUR-095).",
+    "No record asks whether bacterial production contributes to the allopregnanolone measured in gut or brain tissue (MECH-020, DISC-009).",
+    "No published study in the library measures gut transit time or bacterial β-glucuronidase activity in these patients, or pairs stool sequencing with their steroid levels; the one conjugate measured in them, serum 3α-androstanediol glucuronide, did not differ from controls (SIDE-005, DISC-008, SIDE-009)."
+  ],
+  "tests": [
+    "Stool metagenomes and serum steroids by mass spectrometry in men with PFS or PSSD, symptom-free former users and age-matched never-users, quantifying bacterial 5α-reductase and β-glucuronidase genes (CUR-094, DISC-008).",
+    "The same comparison with gut transit time recorded, since transit shapes bacterial composition and hormone reabsorption alike (SIDE-005, MECH-021).",
+    "Urinary and serum steroid conjugates measured alongside stool sequencing, to see whether urinary androgen metabolite levels track bacterial deconjugation capacity (MECH-014, LIT-016).",
+    "Rodent withdrawal experiments comparing colonized with germ-free or microbiota-depleted animals on one finasteride course, measuring colonic and brain neuroactive steroids (MECH-022, LIT-049)."
+  ]
+}

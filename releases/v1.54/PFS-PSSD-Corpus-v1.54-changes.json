@@ -1,0 +1,123 @@
+{
+ "version": "1.54",
+ "previous_version": "1.53",
+ "created": "2026-11-07",
+ "summary": {
+  "added": 0,
+  "updated": 18,
+  "removed": 0
+ },
+ "note": "The map of which intake each record came from now agrees with the records. Eighteen of them carried no source at all while the stated figures still counted them: the eleven SIDEfxHUB records, whose key v1.8 declared without stamping the records, and the seven duplicate tombstones v1.14 rebuilt from a fixed list of fields that did not include it. Each of the eighteen is set from the release that recorded it, v1.13 for the tombstones and v1.8's own declaration for the SIDEfxHUB intake. One more key, pssd_discord_duplicates_updated, counted an update rather than a record: v1.4 gave PSSD-003 the Discord provenance in place and counted that as a source, which is why the stated total has been one too high in every release since. It is gone, and the build now asserts that the map is the entries' own tally, key for key. Nothing is added, removed or re-worded, no count of records moves, and no record's kind changes.",
+ "added": [],
+ "updated": [
+  {
+   "item_id": "DISC-014",
+   "changed_fields": {
+    "_source_file": "was absent, now pssd_discord_papers"
+   }
+  },
+  {
+   "item_id": "LIT-018",
+   "changed_fields": {
+    "_source_file": "was absent, now literature_sweep"
+   }
+  },
+  {
+   "item_id": "LIT-019",
+   "changed_fields": {
+    "_source_file": "was absent, now literature_sweep"
+   }
+  },
+  {
+   "item_id": "LIT-021",
+   "changed_fields": {
+    "_source_file": "was absent, now literature_sweep"
+   }
+  },
+  {
+   "item_id": "RES-001",
+   "changed_fields": {
+    "_source_file": "was absent, now researcher_list"
+   }
+  },
+  {
+   "item_id": "RES-002",
+   "changed_fields": {
+    "_source_file": "was absent, now researcher_list"
+   }
+  },
+  {
+   "item_id": "RES-004",
+   "changed_fields": {
+    "_source_file": "was absent, now researcher_list"
+   }
+  },
+  {
+   "item_id": "SIDE-001",
+   "changed_fields": {
+    "_source_file": "was absent, now sidefxhub"
+   }
+  },
+  {
+   "item_id": "SIDE-002",
+   "changed_fields": {
+    "_source_file": "was absent, now sidefxhub"
+   }
+  },
+  {
+   "item_id": "SIDE-003",
+   "changed_fields": {
+    "_source_file": "was absent, now sidefxhub"
+   }
+  },
+  {
+   "item_id": "SIDE-004",
+   "changed_fields": {
+    "_source_file": "was absent, now sidefxhub"
+   }
+  },
+  {
+   "item_id": "SIDE-005",
+   "changed_fields": {
+    "_source_file": "was absent, now sidefxhub"
+   }
+  },
+  {
+   "item_id": "SIDE-006",
+   "changed_fields": {
+    "_source_file": "was absent, now sidefxhub"
+   }
+  },
+  {
+   "item_id": "SIDE-007",
+   "changed_fields": {
+    "_source_file": "was absent, now sidefxhub"
+   }
+  },
+  {
+   "item_id": "SIDE-008",
+   "changed_fields": {
+    "_source_file": "was absent, now sidefxhub"
+   }
+  },
+  {
+   "item_id": "SIDE-009",
+   "changed_fields": {
+    "_source_file": "was absent, now sidefxhub"
+   }
+  },
+  {
+   "item_id": "SIDE-010",
+   "changed_fields": {
+    "_source_file": "was absent, now sidefxhub"
+   }
+  },
+  {
+   "item_id": "SIDE-011",
+   "changed_fields": {
+    "_source_file": "was absent, now sidefxhub"
+   }
+  }
+ ],
+ "removed": []
+}

@@ -1,0 +1,71 @@
+{
+  "slug": "neurosteroid-signaling",
+  "title": "Neurosteroid signaling",
+  "description": "How the brain makes allopregnanolone and related 5α-reduced steroids, how they act on GABA-A receptors, and what has been measured after finasteride or SSRIs.",
+  "system": "neurosteroid signaling",
+  "written_for": "1.37",
+  "written": "2026-10-18",
+  "status": "reviewed",
+  "in_short": [
+    "Rodent brain makes these steroids itself: type 1 5α-reductase and 3α-hydroxysteroid dehydrogenase sit together in its neurons, type 1 sustaining baseline allopregnanolone and type 2 recruited under acute stress in male rats (MECH-007, MECH-008, CUR-009). Finasteride blocks type 2, and in rats it also lowered brain type 1 (LIT-011, CUR-011).",
+    "Three cerebrospinal-fluid studies from one Milan group, in 3, 7 and 14 men with persistent symptoms after finasteride, which may share patients, found progesterone's 5α-reduced metabolites and dihydrotestosterone lower with testosterone higher, while 3α-androstanediol, made from DHT, was raised in plasma or spinal fluid (PFS-004, PFS-005, DISC-013).",
+    "In rats, finasteride depleted several brain neurosteroids, and a month after the last dose cortical neurosteroids were broadly lower with reduced GABA-A α4 and β3 subunit mRNA (LIT-052, RES-003).",
+    "Whether these syndromes involve too little or too much GABA-A-active steroid is unsettled: in pubertal female mice, allopregnanolone turned from calming to anxiety-provoking when receptor subunits changed, and Dr Powers proposes an excess in one subgroup (MECH-003, DWP-010)."
+  ],
+  "shows": [
+    {
+      "lead": "In patients' spinal fluid",
+      "text": "The library's cerebrospinal-fluid measurements in patients all come from one Milan group and concern men with persistent symptoms after finasteride. In three men against five controls with normal diagnostic lumbar punctures, cerebrospinal-fluid tetrahydroprogesterone (allopregnanolone), isopregnanolone and dihydrotestosterone were lower and testosterone higher (PFS-004). In seven men against twelve surgical controls, progesterone and its 5α-reduced metabolites and DHT were lower, pregnenolone, testosterone and 3α-androstanediol higher (PFS-005). In 14 of 16 men against 25 surgical controls, pregnenolone, progesterone, DHT and estradiol were lower, DHEA, testosterone and 3α-androstanediol higher (DISC-013). The three may share patients, and none had samples from before the drug."
+    },
+    {
+      "lead": "In rats given finasteride",
+      "text": "In stressed rats, finasteride depleted several brain neurosteroids, not only peripheral DHT (LIT-052). After 20 days of finasteride and a month without it, male rats' cortical neurosteroids were broadly lower, the androgen receptor upregulated in cortex and GABA-A α4 and β3 subunit mRNA reduced, with more changes after withdrawal than during treatment, by the authors' reading (RES-003). In another study of male rats, brain 5α-reductase type 1 recovered after the drug stopped while type 2 stayed suppressed four weeks on (CUR-011)."
+    },
+    {
+      "lead": "In rats and enzymes after an SSRI",
+      "text": "Paroxetine for 14 days changed neuroactive steroids region by region in male rats; a month after the last dose the pattern differed and was mostly lower, while plasma never changed and no behavior was tested (PSSD-009). A conference abstract in female rats reports four steroid-synthesis genes reduced in the nucleus accumbens a month after withdrawal (DISC-016). With purified enzymes at high concentrations, and nothing measured in people, SSRIs made 3α-reduction to allopregnanolone 10 to 18 times more efficient, while fluoxetine left rat type 1 5α-reductase unchanged (CUR-032)."
+    },
+    {
+      "lead": "The enzymes that make them",
+      "text": "5α-reductase and 3α-hydroxysteroid dehydrogenase together turn progesterone and deoxycorticosterone into allopregnanolone and THDOC (tetrahydrodeoxycorticosterone), and 5α-reductase also makes DHT from testosterone (MECH-007, CUR-009). In mouse and rat brain maps, type 1 5α-reductase and 3α-hydroxysteroid dehydrogenase sit together in principal neurons, absent from glia, so the brain can make these steroids locally (MECH-007), though microglia in culture showed type 1 messenger RNA or made allopregnanolone (CUR-090, CUR-091); both isoenzymes are present in the adult female rat brain (LIT-057). A 2026 review assigns baseline synthesis to type 1 and the stress-driven rise in the male rat prefrontal cortex to type 2 (CUR-009, MECH-008), and a systematic review of 83 articles names type 1 the driver of brain allopregnanolone synthesis (PFS-011). Finasteride blocks type 2 (LIT-011)."
+    },
+    {
+      "lead": "How they act on GABA-A receptors",
+      "text": "Decades of mapping place pockets in the GABA-A receptor, the brain's main fast inhibitory channel, where neurosteroids both boost GABA's effect and open the channel directly (DISC-002). In rats, swim stress raises brain allopregnanolone and THDOC (MECH-002); THDOC and its precursor potentiate and directly activate chloride currents in hippocampal neurons, and finasteride blocks THDOC formation and the stress-induced rise in seizure threshold (DISC-020). Reviews call THDOC a stress signal at extrasynaptic receptors (MECH-001) and these steroids a brake on human stress-hormone responses (MECH-010). Androsterone, a testosterone metabolite present in adult brain, is a positive modulator at these receptors too (MECH-048)."
+    }
+  ],
+  "disagrees": [
+    {
+      "lead": "Deficiency or excess",
+      "text": "In cerebrospinal fluid after finasteride, 5α-reduced progesterone metabolites were lower but 3α-androstanediol, made from DHT, was higher (PFS-005). Weighing against Dr Powers' proposed excess of THDOC, finasteride blocks its formation in rats, though that finding is acute and on the drug (DISC-020, DWP-010), and in a rat withdrawal model colonic allopregnanolone was low and giving it to the rats partly reversed the colonic cytokine and neurotransmitter changes (DISC-009). For SSRIs, purified enzymes made allopregnanolone more efficiently while rat steroid-synthesis genes fell after withdrawal; an acute boost followed by adaptation would fit both, but is untested (CUR-032, DISC-016). In pubertal female mice with α4β2δ receptors upregulated, allopregnanolone increased anxiety, so neither direction maps simply onto symptoms (MECH-003)."
+    },
+    {
+      "lead": "Few patients, one group, no baseline",
+      "text": "The human neurosteroid evidence rests on three small case-control studies by one group, which may share patients, with no pre-treatment measurements; the 2017 authors, lacking finasteride-exposed controls, asked for symptom-free former users (DISC-013). Controls came from diagnostic lumbar punctures or surgery, and several differences compare detectable with undetectable levels (PFS-004, PFS-005). Directions differ: cerebrospinal-fluid pregnenolone was higher in 2015 and lower in 2017 (PFS-005, DISC-013). Blood and spinal fluid can disagree too: DHT was lower in spinal fluid but unchanged in plasma (PFS-005), and serum testosterone and DHT were normal in 25 symptomatic men (SIDE-010)."
+    },
+    {
+      "lead": "Nothing yet explains persistence",
+      "text": "No record shows what would keep a neurosteroid or receptor change going for years. Rat tolerance to allopregnanolone came with lower GABA-A α4 subunit mRNA and protein in thalamic nuclei, but lasted about a day (MECH-004, MECH-005), and the review framing subunit change as general adaptation draws on raised, not depleted, exposure (LIT-055). In rat hypothalamus and hippocampus, finasteride's gene-expression changes were undetectable a month after withdrawal, though gene-set signals remained (DISC-012). The lasting rat findings reach a month at most: cortical steroid, androgen-receptor and GABA-A subunit changes (RES-003) and suppressed brain 5α-reductase type 2 (CUR-011), eight rats a group in each."
+    },
+    {
+      "lead": "Animal links and human outcomes",
+      "text": "A systematic review links impaired neurosteroid synthesis under 5α-reductase inhibition to vulnerability to anxiety, depression and suicidality (PFS-011), and in rats finasteride's depression-like behavior on the forced swim test went with the largest fall in serum allopregnanolone, while novel inhibitors that lowered it less did not produce that behavior, though they lowered it too and reduced locomotor activity more persistently than finasteride (CUR-023). Human outcome data mostly weigh against a class-level effect: a 2026 meta-analysis found no significant association with suicide or neuropsychiatric events, with a wide interval and high heterogeneity (PFS-012), and 20 years of randomized follow-up in older men on the prostate dose found no significant excess of 22 proposed conditions (CUR-010), though spontaneous reports linked psychiatric reactions more often to finasteride than dutasteride, particularly in younger men on the hair-loss dose (CUR-016)."
+    }
+  ],
+  "powers": {
+    "lead": "Dr Powers' neurosteroid-excess model",
+    "text": "Dr Powers proposes that in one subgroup, marked by anhedonia and low libido, the problem is an excess rather than a deficit of GABA-A-positive neurosteroids, likening it to chronic benzodiazepine exposure (DWP-002). In his current model THDOC is the leading candidate, with androsterone, 3α-androstanediol and pregnenolone as alternatives, and he argues that a measured level reflects clearance as well as synthesis, so spinal-fluid levels cannot show which enzyme is suppressed (DWP-010). Published research neither confirms nor rules out such an excess: androsterone is a GABA-A positive modulator (MECH-048), and after finasteride spinal-fluid 3α-androstanediol was higher while progesterone metabolites were lower (PFS-005)."
+  },
+  "untested": [
+    "No record in the library measures deoxycorticosterone, DHDOC (its 5α-reduced form) or THDOC in a patient with any of these syndromes; Dr Powers notes the same gap for PFS (DWP-010).",
+    "No published study in the library measures neurosteroids in people with PSSD or post-retinoid syndrome, or in women with any of these syndromes (PSSD-009).",
+    "No record measures GABA-A receptor subunits, receptor function or neurosteroid binding in patients; those data come from rats and mice (RES-003, MECH-003).",
+    "No record follows one person's neurosteroid levels from before finasteride or an SSRI is started through symptoms afterward (DISC-013)."
+  ],
+  "tests": [
+    "Men starting finasteride for hair loss, with a mass-spectrometry steroid panel in plasma before, during and after the course, comparing those who do and do not report persisting symptoms.",
+    "A cerebrospinal-fluid panel wide enough to include deoxycorticosterone, DHDOC and THDOC, in symptomatic former users, symptom-free former users and never-users (DISC-013, DWP-010).",
+    "Replication of the Milan panel by an independent laboratory, with better-matched controls and values reported against the assay's detection limit (PFS-005).",
+    "Rodent withdrawal experiments in both sexes measuring GABA-A subunit composition and receptor function alongside behavior at several intervals after the last dose (RES-003, MECH-005)."
+  ]
+}

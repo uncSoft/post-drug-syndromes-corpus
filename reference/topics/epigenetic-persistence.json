@@ -1,0 +1,66 @@
+{
+  "slug": "epigenetic-persistence",
+  "title": "Epigenetic persistence",
+  "description": "Whether finasteride, SSRIs or isotretinoin leave lasting changes in gene regulation that could explain persistent symptoms, and how far the evidence goes.",
+  "system": "epigenetic persistence",
+  "written_for": "1.37",
+  "written": "2026-10-18",
+  "status": "reviewed",
+  "in_short": [
+    "Lasting epigenetic changes, chemical tags such as DNA methylation that switch genes on or off without changing the DNA sequence, were proposed to explain persistence after SSRI antidepressants in 2008, common drugs in 2009 and later finasteride (PSSD-004, PSSD-005, PFS-002).",
+    "In men with post-finasteride syndrome (PFS), two small studies, neither with pre-exposure samples, found SRD5A2 methylation in spinal-fluid DNA of 9 of 16 men and 1 of 13 controls, absent in blood (DISC-025), and thousands of gene-activity differences in penile skin (SIDE-009).",
+    "In rats, most genome-wide expression changes from paroxetine or finasteride faded within a month of withdrawal, though some genes stayed altered, and one study's authors read their finasteride changes as more prominent after withdrawal; none of these studies measured epigenetic marks (PSSD-012, DISC-012, RES-003).",
+    "In laboratory studies, citalopram, finasteride and isotretinoin altered methylation or related marks, but much of this is one group's conference abstracts or mouse cells, and none shows the changes outlasting the drug (SIDE-006, EPI-009, EPI-003, EPI-001)."
+  ],
+  "shows": [
+    {
+      "lead": "In patients' spinal fluid",
+      "text": "In a pilot study, the promoter (control region) of SRD5A2, the gene for the type 2 5α-reductase that finasteride blocks, carried methylation, a mark that can turn genes down, in cerebrospinal-fluid DNA of 9 of 16 men with PFS and 1 of 13 controls who had never used finasteride. No blood sample from either group showed it, and the SRD5A1 promoter was unmethylated everywhere. The authors proposed tissue-specific silencing of SRD5A2 as a candidate mechanism for the steroid disturbances reported in PFS (DISC-025)."
+    },
+    {
+      "lead": "In penile skin and prostate tissue",
+      "text": "Penile skin from 26 men with PFS, a median six years after stopping finasteride, was compared with foreskin from 26 never-exposed men having circumcision: 1,446 genes were more active, the androgen receptor among them, and 2,318 less active (SIDE-009). This measured gene activity, not epigenetic marks. In prostate biopsies from 108 men across the arms of a trial for an enlarged prostate, finasteride changed the expression of 398 genes against placebo, but no biopsies were taken after stopping and no epigenetic marks were measured (LIT-064)."
+    },
+    {
+      "lead": "In rats after withdrawal",
+      "text": "Male rats given the SSRI paroxetine for two weeks had 245 genes altered in the nucleus accumbens at the end of treatment and 6 still altered a month after withdrawal (PSSD-012), when brain neurosteroids showed a different, mostly lower pattern (PSSD-009); conference abstracts report dopamine-related genes altered then in males and steroid-synthesis genes reduced in females (DISC-015, DISC-016). After 20 days of finasteride, male rats had 186 genes changed in the hypothalamus and 19 in the hippocampus; a month later no single gene still differed clearly, though some hippocampal gene sets did (DISC-012). Other finasteride studies found two GABA-A receptor genes less active in the cortex a month after the last dose (RES-003), and brain 5α-reductase type 2 still suppressed four weeks after stopping (CUR-011). None of these rat studies measured epigenetic marks."
+    },
+    {
+      "lead": "In cells and laboratory studies",
+      "text": "A human embryonic kidney cell line kept in citalopram for 30 days showed methylation changes at 626 of about 25,000 gene promoters, in networks tied to nervous-system development and depression (SIDE-006). A paper reports that finasteride alters the epigenetic state of TMPRSS2, an androgen-regulated gene (EPI-001), and conference abstracts from the same group report finasteride-linked epigenetic changes in human Leydig cells (the testis's androgen-making cells), in dopamine-signaling pathways and at the estrogen-receptor gene ESR1 and the DNA-methylating enzyme DNMT3A (EPI-007, EPI-009, EPI-010). In two studies from one group, isotretinoin broadly changed epigenetic marks in mouse colonic cells and altered microRNA and gene-activity profiles in mouse T cells (EPI-003, EPI-004)."
+    },
+    {
+      "lead": "Where the hypothesis comes from",
+      "text": "Case reports in 2008 of sexual dysfunction lasting years after SSRIs proposed drug-induced changes in gene expression (PSSD-004), and a 2009 hypothesis paper proposed lasting epigenetic side effects of common drugs (PSSD-005). A 2016 editorial in a hair-restoration journal raised epigenetics as an explanation for PFS (EPI-015), two reviews by Traish framed PFS as hormone-system disruption with drug-induced epigenetic change or susceptibility (PFS-002, PFS-001), and a 2026 PSSD review lists epigenetic silencing of dopamine reward circuits among proposed mechanisms (PSSD-003). For plausibility, a pharmacology review holds that antidepressants act through DNA methylation and histone changes, producing lasting changes in gene expression (EPI-011)."
+    }
+  ],
+  "disagrees": [
+    {
+      "lead": "Drug effect or pre-existing trait",
+      "text": "No study in the library took biological samples from people with a post-drug syndrome before exposure. The spinal-fluid authors could not say whether SRD5A2 methylation predated finasteride, tested no symptom-free former users, and found methylation unrelated to clinical scores and its degree unrelated to spinal-fluid steroid levels (DISC-025). A study in men with an enlarged prostate links SRD5A2 methylation to differing finasteride responses, which fits a pre-existing pattern at least as well as an induced one (EPI-002). The penile-skin study compared shaft skin with foreskin, and its never-exposed controls cannot separate drug effects from the syndrome (SIDE-009)."
+    },
+    {
+      "lead": "Mixed rat results, small studies, few labs",
+      "text": "The rat results point both ways: in the two genome-wide expression studies most changes faded within a month of withdrawal (DISC-012, PSSD-012), while the authors of a targeted finasteride study read its changes as more prominent after withdrawal than during treatment (RES-003). Most of the rat studies above, all the paroxetine work included, come from one Milan group, and two of its finasteride studies used four and eight males per group and tested no behavior (DISC-012, PSSD-012, RES-003). The citalopram study, with no drug-free washout, and most of the finasteride reports, mostly abstracts, share an author with the 2008 case reports and the 2009 hypothesis paper, so they are not independent confirmations (SIDE-006, EPI-007)."
+    },
+    {
+      "lead": "Unproven mechanisms and weak links",
+      "text": "In a randomized trial's 20-year follow-up, men aged 55 or over given finasteride showed no significant excess of 22 proposed post-finasteride conditions in insurance claims, though these were older men, taking the drug for seven of those years (CUR-010). Dutch drug-safety authors, who concluded that dysfunction may rarely persist after SSRIs, judged the proposed epigenetic, endocrine and receptor mechanisms undemonstrated (CUR-051), and a 2026 clinical framework finds no settled PSSD mechanism (CUR-012). The nearest precedent, SRD5A1 methylation that its authors trace to childhood energy demands in women and mice, involved no drug, and SRD5A1 was unmethylated in men with PFS (LIT-058, DISC-025). For isotretinoin, a scoping review judged even the link with sexual dysfunction very weak, though a brief report disputes that verdict (LIT-038, LIT-043)."
+    }
+  ],
+  "powers": {
+    "lead": "Dr Powers' model",
+    "text": "Dr Powers proposes that people who do not recover after SSRIs or finasteride either carry an inborn error, such as faulty epigenetic machinery, or adapted to the drug but cannot re-adapt, staying stuck in an on-drug epigenetic state (PRH-1512, PRH-1501). He reports epigenetic-regulation genes such as HDAC10, ARID1A and KDM6A recurring in patients' genomes, admitting their effects are uncertain (PRH-1504), and holds that SRD5A1 can be silenced epigenetically (PGL-SRD5A1). For isotretinoin he floats, as untested, a permanent epigenetic lowering of androgen-export transporters in some people (PRH-1526). His September 2026 model explains persistence through tissue-level feedback after the drug and no longer mentions epigenetic silencing (DWP-010); elsewhere he calls what caused the steroid buildup an open question: an epigenetic change, or congestion of downstream metabolites (PRH-1551). No published study examines the genes he names, and the one methylation study in patients found SRD5A2, not SRD5A1, methylated (DISC-025)."
+  },
+  "untested": [
+    "No record in the library measures DNA methylation, histone marks or microRNA in people with PSSD or post-isotretinoin syndrome; the one epigenetic study in patients concerns PFS (DISC-025, EPI-013).",
+    "No study in the library measures epigenetic marks in people before exposure and after stopping, or compares affected and symptom-free former users on them (DISC-025, LIT-064).",
+    "No cell study in the library reports what happens after the drug is removed, so whether drug-induced methylation outlasts exposure is untested there (SIDE-006, EPI-013)."
+  ],
+  "tests": [
+    "Prospective cohorts that store blood and other tissues before people start finasteride, an SSRI or isotretinoin, then compare methylation in those who do and do not develop persistent symptoms (DISC-025).",
+    "A larger, blinded replication of the spinal-fluid SRD5A2 methylation study, adding symptom-free former users and never-users as controls and testing whether methylation tracks steroid levels and symptoms (DISC-025).",
+    "Penile-skin samples from matched sites in symptomatic men, symptom-free former users and never-users, pairing methylation profiles with gene expression (SIDE-009).",
+    "Animal and cell studies in both sexes, from independent laboratories, with drug-free periods of months, measuring methylation, histone marks and microRNA alongside gene expression and behavior (PSSD-012, DISC-012)."
+  ]
+}

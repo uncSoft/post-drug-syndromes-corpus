@@ -1,0 +1,71 @@
+{
+  "slug": "post-retinoid-syndrome",
+  "title": "Post-retinoid syndrome",
+  "description": "What the library holds on sexual, hormonal and mental-health effects during and after isotretinoin and other retinoids, and how far that evidence goes.",
+  "written_for": "1.37",
+  "written": "2026-10-18",
+  "status": "reviewed",
+  "support": true,
+  "in_short": [
+    "Self-selected sources describe sexual problems outlasting isotretinoin: 54 of 300 cases sent to a drug-safety website, and 65.8% of the isotretinoin group in an online survey of 827 people (CROSS-001, CUR-030). US adverse-event reports show signals for erectile dysfunction and genital numbness (LIT-039).",
+    "Two 2024 reviews judged the evidence linking retinoids such as isotretinoin to sexual dysfunction conflicting and of low quality, or very weak (LIT-037, LIT-038); the UK Commission on Human Medicines still kept sexual-function monitoring in 2026, citing reports that such effects persist after treatment (CUR-033).",
+    "In a Danish preprint, men whose last isotretinoin prescription was two or more years earlier had slightly lower FSH and higher estradiol than non-users, within reference ranges; sexual function was not studied (LIT-041).",
+    "A 2026 review finds raised depression and anxiety in acne itself, and population evidence that does not show a general rise in psychiatric disorders or suicide risk with isotretinoin (CUR-025); in a self-selected online survey, a larger share of the isotretinoin group reported some depression or anxiety after stopping than before starting (CUR-030)."
+  ],
+  "shows": [
+    {
+      "lead": "Reports of symptoms after stopping",
+      "text": "A 300-case series from its authors' drug-safety website included 54 cases after isotretinoin; genital anesthesia (numbness), weak or pleasureless orgasm, loss of libido and impotence appeared after all three drug classes in it (CROSS-001). In a conference abstract's online survey, the 114 people with persistent symptoms after isotretinoin reported sexual dysfunction on the drug (50.1%) and after stopping (65.8%), against 96.3% and 94.4% after stopping in the antidepressant and finasteride groups; most in every group also reported other symptoms, such as cognitive impairment (CUR-030). Neither sample had an unexposed comparison group."
+    },
+    {
+      "lead": "Adverse-event reports and an online survey",
+      "text": "Twenty years of US adverse-event reports include 1,151 sexual or reproductive reports naming isotretinoin as the main suspect, 59.7% from women, with significant signals for erectile dysfunction, low libido, genital numbness, anorgasmia (absent orgasm), vaginal dryness and abnormal sperm; they cannot show cause or separate on-drug from lasting effects (LIT-039). In a preprint's self-selected online survey of 144 people who had taken isotretinoin, 33% of 118 women reported vaginal dryness and 8 of 23 men erection problems while on it, many also taking other medicines linked to sexual side effects; these are proportions of respondents, not prevalence (LIT-042)."
+    },
+    {
+      "lead": "Hormones in men after use",
+      "text": "A Danish preprint compared 322 young men who had used isotretinoin with 4,065 non-users, each examined once. Users had lower FSH, a hormone that drives sperm production, and higher estradiol, with a non-significant trend toward lower sperm counts; in 124 whose last prescription was at least two years earlier, FSH was slightly lower (2.2 against 2.6 IU/L) and estradiol higher, within reference ranges. The differences were absent in men who started isotretinoin a year after their examination. Sexual function was not studied (LIT-041)."
+    },
+    {
+      "lead": "Mood, acne and the drug",
+      "text": "A 2026 narrative review reports raised rates of depressive symptoms, anxiety and suicidal ideation among people with acne. It finds that the best population-level evidence does not show a general increase in psychiatric disorders or suicide risk among isotretinoin users, with some data suggesting fewer suicide attempts in the years after treatment, and that signals in adverse-event reports persist but generate hypotheses rather than show causation (CUR-025). In a small Egyptian study, serum inflammatory markers and depression scores fell together in 20 acne patients over two months on isotretinoin; people with depression were excluded, and no one was followed after stopping (CUR-083)."
+    },
+    {
+      "lead": "In cells and tissue",
+      "text": "In mouse colonic cells, studied in the context of inflammatory bowel disease, isotretinoin broadly changed epigenetic marks, chemical tags that switch genes on or off (EPI-003); the same group found altered microRNA and gene-activity profiles in mouse T cells (EPI-004). Neither study reports whether the changes outlast exposure. In the Danish study, exposed human testis tissue secreted more testosterone, and isotretinoin competitively inhibited signaling through RARα, a receptor for retinoic acid (a vitamin A derivative), in a cell assay (LIT-041)."
+    },
+    {
+      "lead": "What the UK regulator requires",
+      "text": "The UK's 2023 isotretinoin safety measures followed an expert review of psychiatric and sexual side effects (CUR-033, LIT-047); the 2026 revision kept counseling on both, mental-health checks with patient-reported measures, and sexual-function questions before treatment and at each follow-up. The British Association of Dermatologists, supplying two 2024 reviews, had asked to drop sexual-function monitoring altogether, calling the evidence weak and the risk rare. The Commission on Human Medicines kept it, because when such effects begin is unknown and they have been reported to persist after treatment, left their frequency 'not known' and strongly encouraged research (CUR-033)."
+    }
+  ],
+  "disagrees": [
+    {
+      "lead": "Reviews against reports",
+      "text": "A systematic review of 11 studies found the evidence conflicting and of low quality: a side-effect report database linked isotretinoin with slightly more erection-problem reports than expected, but a large health-records study found no difference between men with acne who did and did not take it. It still suggested routine screening during treatment may be reasonable (LIT-037). A scoping review of 55 papers, mostly on 1 to 6 months of treatment, judged the evidence for a link very weak; more than half of its human studies reported beneficial or neutral effects on sexual function (LIT-038). A 2020 brief report argues instead that isotretinoin can, rarely, cause persistent sexual dysfunction, in the same way, it says, as finasteride and SSRI antidepressants (LIT-043)."
+    },
+    {
+      "lead": "Mood in population data and self-reports",
+      "text": "In the conference abstract's online survey, some degree of depression or anxiety was reported by 46.2% of the isotretinoin group before starting and 84.6% after stopping, and 51% reported thoughts of suicide or self-harm, with the timing not stated, against 61.1% and 64.8% in the other two groups. Respondents were self-selected, with no control group (CUR-030). These self-reports cannot be weighed directly against the 2026 review's population-level reading, whose abstract does not address persistent post-retinoid syndromes (CUR-025), or against the Egyptian study's falling depression scores, measured on the drug (CUR-083)."
+    },
+    {
+      "lead": "Thin follow-up and mixed mechanism evidence",
+      "text": "Most studies in the systematic review described effects during treatment, without assessing persistence separately (LIT-037), and a study of the retinoid acitretin in 31 men with psoriasis measured erectile function only before and during treatment, with no result recorded (LIT-044). The library's figures on sexual symptoms after stopping come only from self-selected reports (CROSS-001, CUR-030). On mechanism, the brief report proposes anti-androgenic action, citing studies showing lowered testosterone, but testis tissue exposed to isotretinoin secreted more testosterone (LIT-043, LIT-041)."
+    }
+  ],
+  "powers": {
+    "lead": "Dr Powers' androgen-export idea",
+    "text": "Dr Powers proposes, as an untested 'random thought', that in some people isotretinoin epigenetically and permanently turns down androgen-export transporters, clearing acne where that transport is overactive but inducing the syndrome where it was already weak (PRH-1526). Elsewhere he describes two post-isotretinoin syndromes, one essentially identical to post-SSRI sexual dysfunction (PSSD) and one of collagen, skin and joint degeneration; he calls epigenetic change 'almost guaranteed', leaves open whether it matters or reverses, and says his data are thin (PRH-1524). He has also floated, as unresolved, a link to his wider model through the receptor pair CAR and RXR (the constitutive androstane and retinoid X receptors), where neurosteroids, androgens and retinols meet (PRH-1511). The library's notes find no study of these transporters in skin or of that pairing (PRH-1526, PRH-1511); epigenetic change after isotretinoin appears only in mouse cells (EPI-003, EPI-004)."
+  },
+  "untested": [
+    "No primary study in the library reports sexual function measured with a validated questionnaire both before a retinoid and months or years after it ends (LIT-037, LIT-044).",
+    "No published study in the library measures hormones, neurosteroids or epigenetic marks in people with persistent symptoms after isotretinoin; the Danish preprint grouped men by prescription records and did not study sexual function (LIT-041).",
+    "No record reports women's sexual function after stopping isotretinoin separately from men's; the abstract on screening women during treatment has no results recorded (LIT-048).",
+    "No record reports mood or psychiatric outcomes in the same people before isotretinoin and after it ends, apart from one self-selected survey that asked about both (CUR-025, CUR-030)."
+  ],
+  "tests": [
+    "Prospective cohorts starting isotretinoin for acne, with validated sexual-function and mood questionnaires before, during and for years after treatment, against acne patients not given it (CUR-025, LIT-037).",
+    "Repeated hormone measurements, from stored pre-treatment samples onward, in former users with and without persistent symptoms and in never-users (LIT-041).",
+    "Case series and registries in women and men applying the 2022 consensus criteria for post-retinoid sexual dysfunction, which were drafted from submitted case reports, with clinical examination (CROSS-002, CUR-056).",
+    "Animal studies in both sexes with drug-free periods of months, measuring epigenetic marks in skin, genital tissue and brain alongside sexual behavior (EPI-003, EPI-004)."
+  ]
+}

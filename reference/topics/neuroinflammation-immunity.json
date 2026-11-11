@@ -1,0 +1,70 @@
+{
+  "slug": "neuroinflammation-immunity",
+  "title": "Neuroinflammation and immunity",
+  "description": "Inflammation and the innate immune system in post-drug syndromes: what the library shows, mostly from animal and cell studies, and what would test it.",
+  "written_for": "1.37",
+  "written": "2026-10-18",
+  "status": "reviewed",
+  "in_short": [
+    "No record in the library measures cytokines or immune-cell responses in people with PFS, PSSD or post-retinoid syndrome. The nearest patient findings are indirect: inflammatory processes among the genes changed in PFS penile skin, and altered gut bacteria (SIDE-009, DISC-008).",
+    "The main proposed link runs through the neurosteroids: allopregnanolone damped the innate immune system's alarm signals in immune cells and rat brain, pregnenolone did so in cells, and in 18 women given allopregnanolone for postpartum depression, with no placebo group, blood cells responded less afterward (CUR-085, CUR-086, CUR-087).",
+    "In male rats a month after 20 days of finasteride, the hippocampus, hypothalamus and colon showed signs of inflammation, and allopregnanolone given during withdrawal partly reversed those in the colon and hypothalamus; at the end of two weeks of paroxetine, the nucleus accumbens showed an immune-activation signature (LIT-049, DISC-009, DISC-010, PSSD-012).",
+    "The effect isn't one-way. In animals given a toxin or an immune challenge, or made obese, 5α-reductase inhibitors given before or alongside the insult often reduced inflammation, and inflammatory markers fell in 20 acne patients during two months of isotretinoin (CUR-097, CUR-098, CUR-079, CUR-083)."
+  ],
+  "shows": [
+    {
+      "lead": "In rats after finasteride or paroxetine",
+      "text": "In one group's model (Melcangi and colleagues), male rats get finasteride for 20 days, then a month off. By then the hippocampus showed more reactive astrocytes and fewer proliferating cells, with depressive-like behavior and altered gut bacteria (LIT-049). The colon showed raised IL-1β and TNF-α, more inflammatory M1 macrophages and less butyrate, and the hypothalamus raised glial markers (GFAP, Iba-1) and blood–brain barrier changes; allopregnanolone, lower in the colon after both treatment and withdrawal, partly reversed these when given during withdrawal (DISC-009, DISC-010). No single gene stayed changed a month after stopping, though hippocampal gene sets for oxidative phosphorylation and the interferon-alpha response were still lower (DISC-012). After two weeks of paroxetine, the nucleus accumbens showed an immune-activation signature among 245 changed genes, six still changed a month later (PSSD-012)."
+    },
+    {
+      "lead": "Neurosteroids as brakes on innate immunity",
+      "text": "Finasteride lowered brain allopregnanolone in rats (LIT-052), and men with persistent symptoms after finasteride had less of it in spinal fluid than controls, in two small studies that may share patients (PFS-004, PFS-005). Allopregnanolone reduced the binding of two innate-immune alarm receptors, TLR4 and TLR7, to their adaptor MyD88, and cut inflammatory signals in mouse macrophages and rat brain, leaving a second adaptor, TRIF, untouched (CUR-085). In 18 women given brexanolone, an intravenous form of allopregnanolone, for postpartum depression, IL-6 and TNF-α in blood cells fell and responses to TLR4 and TLR7 stimulation shrank, tracking improvement in depression scores; there was no placebo group and one sample after the infusion (CUR-086). In cells, pregnenolone made macrophages and microglia break down TLR2 and TIRAP, an adaptor TLR2 shares with TLR4 (CUR-087)."
+    },
+    {
+      "lead": "Steroid handling in the brain's immune cells",
+      "text": "Cultured mouse microglia, the brain's resident immune cells, carried messenger RNA for 5α-reductase type 1 and turned androstenedione into 5α-reduced androgens, though they lacked the enzymes to build steroids from cholesterol; a map of rodent brain found the enzyme in neurons but not glia (CUR-090, MECH-007). A human microglial cell line made tiny amounts of allopregnanolone, released more under oxidative stress from a mitochondrial toxin, and survived better when it was added (CUR-091). In multiple sclerosis, patients' white matter held less allopregnanolone and less of several neurosteroid-making enzymes, and allopregnanolone limited inflammation in the mouse model of the disease (CUR-088). DHT, which finasteride lowers, eased a chronic form of that model in rats, with less spinal-cord gliosis and lower TLR4, NF-κB, IL-1β and TSPO (CUR-089)."
+    },
+    {
+      "lead": "TSPO, a mitochondrial protein",
+      "text": "TSPO sits on the outer membrane of mitochondria, rises in activated microglia and is what PET scans of brain inflammation detect. A review argues that its long-assumed role in steroid synthesis is disputed, since knockout mice made steroids normally, and that its better-supported roles are in energy metabolism and immunity, including NLRP3 inflammasome activation (CUR-092). Against that, rats lacking TSPO failed to raise corticosterone after ACTH, and in 30 healthy men the common variant rs6971 went with a smaller fold-rise in cortisol after ACTH (CUR-093). In female rats, paroxetine lowered TSPO gene expression in the nucleus accumbens, still low a month after stopping (DISC-016, a conference abstract)."
+    },
+    {
+      "lead": "Gut bacteria with their own 5α-reductase",
+      "text": "In 2,897 Swedish women, more bacterial 5α-reductase genes in stool went with a higher DHT-to-testosterone ratio, a link not seen in men; *Odoribacter splanchnicus* was among the species most tied to those genes (CUR-094). Odoribacteraceae strains screened from a centenarian's stool made isoalloLCA, an antimicrobial bile acid, with what the authors identify as a bacterial 5α-reductase and a second enzyme (CUR-095). The library's PFS gut pilot found more *Odoribacter* in a subset of its 21 patients (DISC-008), and mice raised without gut bacteria have shifted neurosteroid levels in brain and blood (MECH-022)."
+    }
+  ],
+  "disagrees": [
+    {
+      "lead": "Anti-inflammatory in other disease models",
+      "text": "In animals given a toxin or an immune challenge, 5α-reductase inhibitors given before or alongside it often reduced inflammation, measured during treatment rather than after withdrawal. In a Parkinson's mouse model, dutasteride prevented the rise in inflammatory gut macrophages and protected cultured immune cells from inflammatory and mitochondrial damage; finasteride's effect on the macrophages was inconclusive, it did not protect the cells, and on its own it raised NF-κB activity in them (CUR-097). In female mice, an immune challenge raised hypothalamic 5α-reductase type 1, with allopregnanolone up and pregnenolone down, and dutasteride infused beforehand lowered the cytokines and reversed depressive-like behavior, though not in males (CUR-098)."
+    },
+    {
+      "lead": "Metabolic state changes the result",
+      "text": "In obese rats, six weeks of continuous finasteride lessened brain inflammation and depressive-like behavior, with nothing reported for obese rats after withdrawal, while lean rats showed metabolic disturbance and depressive-like behavior both on it and four weeks after a two-week course (CUR-079). In young rats given D-galactose to induce early aging, it improved an anxiety-like measure whether given continuously or stopped, and the authors credit less brain inflammation; no normal rats got the drug (CUR-080). Both were read from abstracts only."
+    },
+    {
+      "lead": "Isotretinoin and SSRIs",
+      "text": "In 20 acne patients, serum NF-κB, NLRP3 and HMGB1 started higher than in healthy controls and fell during two months of isotretinoin, alongside the acne and depression scores; people with depression were excluded, and nothing was measured after stopping (CUR-083). A fluoxetine study of FDA adverse-event reports found sexual-dysfunction signals and, by computational network analysis only, inflammation-related genes such as IL10; its abstract doesn't say whether any problems persisted after stopping (CUR-084)."
+    },
+    {
+      "lead": "Thin, indirect and from few labs",
+      "text": "The rat withdrawal findings come from one group's model, with a single follow-up a month after stopping and as few as four rats per group in the gene study (LIT-049, DISC-009, DISC-012). The gut pilot compared 21 patients with 10 older controls from an earlier study, one sample each, and gut transit time, rarely measured, can confound such comparisons (DISC-008, SIDE-005). And the two Milan spinal-fluid studies, which may share patients, disagree on pregnenolone, which damped immune signaling in cell studies: one found it higher in men with PFS, the other lower (PFS-005, DISC-013, CUR-087)."
+    }
+  ],
+  "powers": {
+    "lead": "Dr Powers' model",
+    "text": "Dr Powers proposes that in one subgroup of PFS and PSSD, marked by anhedonia and low libido, the problem is an excess rather than a deficit of GABA-A-active neurosteroids, with THDOC his leading candidate (DWP-002, DWP-010). That runs the other way from the immune reading above, which starts from too little allopregnanolone. The library's note on his proposal finds that published research neither confirms nor rules out such an excess (DWP-002)."
+  },
+  "untested": [
+    "No record in the library measures cytokines, immune-cell responses or immune-cell metabolism in people with PFS, PSSD or post-retinoid syndrome.",
+    "No record images brain inflammation with TSPO-PET in any of the three syndromes, or asks whether the rs6971 variant is more common in patients.",
+    "No record tests whether finasteride reaches or inhibits the 5α-reductase of gut bacteria (CUR-094).",
+    "The animal withdrawal studies stop a month after the drug; no animal record follows inflammation for longer (LIT-049, DISC-010)."
+  ],
+  "tests": [
+    "Blood from patients and matched controls: cytokines and whole-blood responses to TLR4 and TLR7 stimulation, as in the brexanolone study, with neurosteroids measured in the same samples (CUR-086).",
+    "TSPO-PET brain imaging in patients and matched controls, genotyped for rs6971 and allowing for TSPO outside microglia, which complicates the signal (CUR-092, CUR-093).",
+    "Stool from patients and controls: bacterial 5α-reductase genes and 5α-reduced bile acids (CUR-094, CUR-095).",
+    "Animal withdrawal studies that measure TLR4–MyD88 activation and the energy metabolism of microglia directly, and follow the animals for longer than a month."
+  ]
+}

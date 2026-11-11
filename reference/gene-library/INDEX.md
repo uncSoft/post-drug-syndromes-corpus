@@ -1,0 +1,586 @@
+# Gene Library Index
+
+> Per-gene reference pages for the PFS/PSSD post-drug-syndrome research corpus. Every gene has a stable page (`SYMBOL.md`): these filenames are the hotlink targets for website pages, so links like `gene-library/UGT2B17.md` will not break as the library grows.
+> These pages extend the narrative 28-gene `gene-library.md` (left intact); where both cover a gene, the per-gene page carries the NCBI-verified record.
+> Pages also carry protein annotation from UniProtKB/Swiss-Prot (CC BY 4.0), labeled "(UniProt)": the protein's normal biology, not evidence about post-drug syndromes.
+> Research use only, not medical advice. Powers' gene claims are his unpublished theories.
+
+**577 genes** · 38 named by Powers · 27 in the prior 28-gene library · 0 unresolved
+
+- [ABCB1](ABCB1.md): ATP binding cassette subfamily B member 1 · drug/xenobiotic transporter
+- [ABCB11](ABCB11.md): ATP binding cassette subfamily B member 11 · drug/xenobiotic transporter
+- [ABCB4](ABCB4.md): ATP binding cassette subfamily B member 4 · drug/xenobiotic transporter
+- [ABCB5](ABCB5.md): ATP binding cassette subfamily B member 5 · drug/xenobiotic transporter
+- [ABCB6](ABCB6.md): ATP binding cassette subfamily B member 6 (LAN blood group) · drug/xenobiotic transporter
+- [ABCB7](ABCB7.md): ATP binding cassette subfamily B member 7 · drug/xenobiotic transporter
+- [ABCB8](ABCB8.md): ATP binding cassette subfamily B member 8 · drug/xenobiotic transporter
+- [ABCB9](ABCB9.md): ATP binding cassette subfamily B member 9 · drug/xenobiotic transporter
+- [ABCC1](ABCC1.md) ★: ATP binding cassette subfamily C member 1 (ABCC1 blood group) · drug/xenobiotic transporter
+- [ABCC10](ABCC10.md) ★: ATP binding cassette subfamily C member 10 · drug/xenobiotic transporter
+- [ABCC11](ABCC11.md) ★: ATP binding cassette subfamily C member 11 · drug/xenobiotic transporter
+- [ABCC2](ABCC2.md) ★: ATP binding cassette subfamily C member 2 · drug/xenobiotic transporter
+- [ABCC3](ABCC3.md) ★: ATP binding cassette subfamily C member 3 · drug/xenobiotic transporter
+- [ABCC4](ABCC4.md) ★: ATP binding cassette subfamily C member 4 (PEL blood group) · drug/xenobiotic transporter
+- [ABCC5](ABCC5.md) ★: ATP binding cassette subfamily C member 5 · drug/xenobiotic transporter
+- [ABCC6](ABCC6.md) ★: ATP binding cassette subfamily C member 6 · drug/xenobiotic transporter
+- [ABCC8](ABCC8.md) ★: ATP binding cassette subfamily C member 8 · drug/xenobiotic transporter
+- [ABCC9](ABCC9.md) ★: ATP binding cassette subfamily C member 9 · drug/xenobiotic transporter
+- [ABCG1](ABCG1.md): ATP binding cassette subfamily G member 1 · drug/xenobiotic transporter
+- [ABCG2](ABCG2.md): ATP binding cassette subfamily G member 2 (JR blood group) · drug/xenobiotic transporter
+- [ABCG4](ABCG4.md): ATP binding cassette subfamily G member 4 · drug/xenobiotic transporter
+- [ACE](ACE.md): angiotensin I converting enzyme · general physiology
+- [AHCY](AHCY.md): adenosylhomocysteinase · methylation/one-carbon metabolism
+- [AKR1B1](AKR1B1.md): aldo-keto reductase family 1 member B · drug-metabolizing enzyme
+- [AKR1B10](AKR1B10.md): aldo-keto reductase family 1 member B10 · drug-metabolizing enzyme
+- [AKR1C1](AKR1C1.md) ★: aldo-keto reductase family 1 member C1 · steroid hormone synthesis, steroid conjugation/clearance
+- [AKR1C2](AKR1C2.md) ★: aldo-keto reductase family 1 member C2 · steroid hormone synthesis, steroid conjugation/clearance
+- [AKR1C3](AKR1C3.md) ★: aldo-keto reductase family 1 member C3 · steroid hormone synthesis, steroid conjugation/clearance
+- [AKR1C4](AKR1C4.md) ★: aldo-keto reductase family 1 member C4 · steroid hormone synthesis, steroid conjugation/clearance
+- [AKR1D1](AKR1D1.md): aldo-keto reductase family 1 member D1 · steroid hormone synthesis
+- [ALB](ALB.md): albumin · HPG/gonadal axis
+- [ALDH1A1](ALDH1A1.md): aldehyde dehydrogenase 1 family member A1 · drug-metabolizing enzyme
+- [ALDH1A2](ALDH1A2.md): aldehyde dehydrogenase 1 family member A2 · drug-metabolizing enzyme
+- [ALDH1A3](ALDH1A3.md): aldehyde dehydrogenase 1 family member A3 · retinoid signaling
+- [ALDH2](ALDH2.md): aldehyde dehydrogenase 2 family member · drug-metabolizing enzyme
+- [APOA1](APOA1.md): apolipoprotein A1 · lipid/cholesterol homeostasis
+- [APOB](APOB.md): apolipoprotein B · lipid/cholesterol homeostasis
+- [AR](AR.md) ★: androgen receptor · nuclear hormone receptor
+- [ARID1A](ARID1A.md) ★: AT-rich interaction domain 1A · epigenetic regulator
+- [ARID1B](ARID1B.md): AT-rich interaction domain 1B · epigenetic regulator
+- [ARID2](ARID2.md): AT-rich interaction domain 2 · epigenetic regulator
+- [ARSA](ARSA.md): arylsulfatase A · steroid conjugation/clearance
+- [ARSG](ARSG.md): arylsulfatase G · steroid conjugation/clearance
+- [ATP5F1A](ATP5F1A.md): ATP synthase F1 subunit alpha · mitochondrial/energy metabolism
+- [ATP5F1B](ATP5F1B.md): ATP synthase F1 subunit beta · mitochondrial/energy metabolism
+- [AVPR1A](AVPR1A.md): arginine vasopressin receptor 1A · neuroendocrine signaling
+- [AVPR1B](AVPR1B.md): arginine vasopressin receptor 1B · neuroendocrine signaling
+- [AVPR2](AVPR2.md): arginine vasopressin receptor 2 · neuroendocrine signaling
+- [BAG1](BAG1.md): BAG cochaperone 1 · steroid receptor chaperone
+- [BAG3](BAG3.md): BAG cochaperone 3 · steroid receptor chaperone
+- [BCL2L1](BCL2L1.md): BCL2 like 1 · general physiology
+- [BCL7A](BCL7A.md): BAF chromatin remodeling complex subunit BCL7A · epigenetic regulator
+- [BCL7B](BCL7B.md): BAF chromatin remodeling complex subunit BCL7B · epigenetic regulator
+- [BCL7C](BCL7C.md): BAF chromatin remodeling complex subunit BCL7C · epigenetic regulator
+- [BDNF](BDNF.md): brain derived neurotrophic factor · neurotransmission
+- [BHMT](BHMT.md): betaine--homocysteine S-methyltransferase · methylation/one-carbon metabolism
+- [BPTF](BPTF.md): bromodomain PHD finger transcription factor · epigenetic regulator
+- [BRD2](BRD2.md): bromodomain containing 2 · epigenetic regulator
+- [BRD3](BRD3.md): bromodomain containing 3 · epigenetic regulator
+- [BRD4](BRD4.md): bromodomain containing 4 · epigenetic regulator
+- [BRD7](BRD7.md): bromodomain containing 7 · epigenetic regulator
+- [BRD9](BRD9.md): bromodomain containing 9 · epigenetic regulator
+- [BRDT](BRDT.md): bromodomain testis associated · epigenetic regulator
+- [BRPF1](BRPF1.md): bromodomain and PHD finger containing 1 · epigenetic regulator
+- [BRPF3](BRPF3.md): bromodomain and PHD finger containing 3 · epigenetic regulator
+- [CAT](CAT.md): catalase · mitochondrial/energy metabolism
+- [CHD1](CHD1.md): chromodomain helicase DNA binding protein 1 · epigenetic regulator
+- [CHD2](CHD2.md): chromodomain helicase DNA binding protein 2 · epigenetic regulator
+- [CHD3](CHD3.md): chromodomain helicase DNA binding protein 3 · epigenetic regulator
+- [CHD4](CHD4.md): chromodomain helicase DNA binding protein 4 · epigenetic regulator
+- [CHD5](CHD5.md): chromodomain helicase DNA binding protein 5 · epigenetic regulator
+- [CHD6](CHD6.md): chromodomain helicase DNA binding protein 6 · epigenetic regulator
+- [CHD7](CHD7.md): chromodomain helicase DNA binding protein 7 · epigenetic regulator
+- [CHD8](CHD8.md) ★: chromodomain helicase DNA binding protein 8 · epigenetic regulator
+- [CHD9](CHD9.md): chromodomain helicase DNA binding protein 9 · epigenetic regulator
+- [CHRM2](CHRM2.md): cholinergic receptor muscarinic 2 · neurotransmission
+- [CHRM3](CHRM3.md): cholinergic receptor muscarinic 3 · neurotransmission
+- [CLOCK](CLOCK.md): clock circadian regulator · signaling/transcription factor
+- [COMT](COMT.md): catechol-O-methyltransferase · drug-metabolizing enzyme, neurotransmission
+- [COMTD1](COMTD1.md): catechol-O-methyltransferase domain containing 1 · drug-metabolizing enzyme, neurotransmission
+- [COX10](COX10.md): cytochrome c oxidase assembly factor heme A:farnesyltransferase COX10 · mitochondrial/energy metabolism
+- [COX15](COX15.md): cytochrome c oxidase assembly factor COX15 · mitochondrial/energy metabolism
+- [CRABP2](CRABP2.md): cellular retinoic acid binding protein 2 · retinoid signaling
+- [CREB1](CREB1.md): cAMP responsive element binding protein 1 · signaling/transcription factor
+- [CREBBP](CREBBP.md): CREB binding lysine acetyltransferase · epigenetic regulator
+- [CTCF](CTCF.md): CCCTC-binding factor · epigenetic regulator
+- [CUBN](CUBN.md): cubilin · lipid/cholesterol homeostasis
+- [CYB5A](CYB5A.md): cytochrome b5 type A · steroid hormone synthesis
+- [CYP11A1](CYP11A1.md) ★: cytochrome P450 family 11 subfamily A member 1 · steroid hormone synthesis
+- [CYP11B1](CYP11B1.md): cytochrome P450 family 11 subfamily B member 1 · steroid hormone synthesis
+- [CYP11B2](CYP11B2.md): cytochrome P450 family 11 subfamily B member 2 · steroid hormone synthesis
+- [CYP17A1](CYP17A1.md): cytochrome P450 family 17 subfamily A member 1 · steroid hormone synthesis
+- [CYP19A1](CYP19A1.md): cytochrome P450 family 19 subfamily A member 1 · steroid hormone synthesis
+- [CYP1A1](CYP1A1.md): cytochrome P450 family 1 subfamily A member 1 · drug-metabolizing enzyme
+- [CYP1A2](CYP1A2.md): cytochrome P450 family 1 subfamily A member 2 · drug-metabolizing enzyme
+- [CYP1B1](CYP1B1.md): cytochrome P450 family 1 subfamily B member 1 · drug-metabolizing enzyme
+- [CYP21A2](CYP21A2.md) ★: cytochrome P450 family 21 subfamily A member 2 · steroid hormone synthesis
+- [CYP26A1](CYP26A1.md): cytochrome P450 family 26 subfamily A member 1 · retinoid signaling
+- [CYP26B1](CYP26B1.md): cytochrome P450 family 26 subfamily B member 1 · retinoid signaling
+- [CYP2C19](CYP2C19.md): cytochrome P450 family 2 subfamily C member 19 · drug-metabolizing enzyme
+- [CYP2C8](CYP2C8.md): cytochrome P450 family 2 subfamily C member 8 · retinoid signaling
+- [CYP2D6](CYP2D6.md): cytochrome P450 family 2 subfamily D member 6 (gene/pseudogene) · drug-metabolizing enzyme
+- [CYP2E1](CYP2E1.md): cytochrome P450 family 2 subfamily E member 1 · drug-metabolizing enzyme
+- [CYP2J2](CYP2J2.md): cytochrome P450 family 2 subfamily J member 2 · drug-metabolizing enzyme
+- [CYP3A4](CYP3A4.md): cytochrome P450 family 3 subfamily A member 4 · drug-metabolizing enzyme
+- [CYP3A43](CYP3A43.md): cytochrome P450 family 3 subfamily A member 43 · drug-metabolizing enzyme
+- [CYP3A5](CYP3A5.md): cytochrome P450 family 3 subfamily A member 5 · drug-metabolizing enzyme
+- [CYP3A7](CYP3A7.md): cytochrome P450 family 3 subfamily A member 7 · drug-metabolizing enzyme
+- [CYP4F11](CYP4F11.md): cytochrome P450 family 4 subfamily F member 11 · drug-metabolizing enzyme
+- [CYP4F8](CYP4F8.md): cytochrome P450 family 4 subfamily F member 8 · drug-metabolizing enzyme
+- [DBH](DBH.md): dopamine beta-hydroxylase · neurotransmission
+- [DDC](DDC.md): dopa decarboxylase · neurotransmission
+- [DGAT1](DGAT1.md): diacylglycerol O-acyltransferase 1 · lipid/cholesterol homeostasis
+- [DGAT2](DGAT2.md): diacylglycerol O-acyltransferase 2 · lipid/cholesterol homeostasis
+- [DGCR8](DGCR8.md): DGCR8 microprocessor complex subunit · RNA processing/miRNA biogenesis
+- [DHRS3](DHRS3.md): dehydrogenase/reductase 3 · retinoid signaling
+- [DICER1](DICER1.md): dicer 1, ribonuclease III · RNA processing/miRNA biogenesis
+- [DNA2](DNA2.md): DNA replication helicase/nuclease 2 · mitochondrial/energy metabolism
+- [DNM1L](DNM1L.md): dynamin 1L · mitochondrial/energy metabolism
+- [DNMT1](DNMT1.md): DNA methyltransferase 1 · epigenetic regulator
+- [DNMT3A](DNMT3A.md): DNA methyltransferase 3 alpha · epigenetic regulator
+- [DNMT3B](DNMT3B.md): DNA methyltransferase 3 beta · epigenetic regulator
+- [DNMT3L](DNMT3L.md): DNA methyltransferase 3 like · epigenetic regulator
+- [DPF1](DPF1.md): double PHD fingers 1 · epigenetic regulator
+- [DPF2](DPF2.md): double PHD fingers 2 · epigenetic regulator
+- [DPF3](DPF3.md): double PHD fingers 3 · epigenetic regulator
+- [DRD1](DRD1.md): dopamine receptor D1 · neurotransmission
+- [DRD2](DRD2.md): dopamine receptor D2 · neurotransmission
+- [DRD3](DRD3.md): dopamine receptor D3 · neurotransmission
+- [DRD4](DRD4.md): dopamine receptor D4 · neurotransmission
+- [DRD5](DRD5.md): dopamine receptor D5 · neurotransmission
+- [DROSHA](DROSHA.md): drosha ribonuclease III · RNA processing/miRNA biogenesis
+- [EED](EED.md): embryonic ectoderm development · epigenetic regulator
+- [EHMT1](EHMT1.md): euchromatic histone lysine methyltransferase 1 · epigenetic regulator
+- [EHMT2](EHMT2.md): euchromatic histone lysine methyltransferase 2 · epigenetic regulator
+- [EP300](EP300.md): EP300 lysine acetyltransferase · epigenetic regulator
+- [EP400](EP400.md): E1A binding protein p400 · epigenetic regulator
+- [ESR1](ESR1.md): estrogen receptor 1 · nuclear hormone receptor
+- [ESR2](ESR2.md): estrogen receptor 2 · nuclear hormone receptor
+- [EZH1](EZH1.md): enhancer of zeste 1 polycomb repressive complex 2 subunit · epigenetic regulator
+- [EZH2](EZH2.md): enhancer of zeste 2 polycomb repressive complex 2 subunit · epigenetic regulator
+- [FABP4](FABP4.md): fatty acid binding protein 4 · lipid/cholesterol homeostasis
+- [FABP5](FABP5.md): fatty acid binding protein 5 · lipid/cholesterol homeostasis
+- [FABP7](FABP7.md): fatty acid binding protein 7 · lipid/cholesterol homeostasis
+- [FKBP4](FKBP4.md): FKBP prolyl isomerase 4 · steroid receptor chaperone
+- [FKBP5](FKBP5.md): FKBP prolyl isomerase 5 · steroid receptor chaperone
+- [FKBP6](FKBP6.md): FKBP prolyl isomerase family member 6 (inactive) · steroid receptor chaperone
+- [FOXA1](FOXA1.md): forkhead box A1 · nuclear hormone receptor, signaling/transcription factor
+- [FOXA2](FOXA2.md): forkhead box A2 · signaling/transcription factor
+- [FOXO1](FOXO1.md): forkhead box O1 · signaling/transcription factor
+- [FOXO3](FOXO3.md): forkhead box O3 · signaling/transcription factor
+- [FOXO4](FOXO4.md): forkhead box O4 · signaling/transcription factor
+- [FUS](FUS.md): FUS RNA binding protein · RNA processing/miRNA biogenesis
+- [GABBR1](GABBR1.md): gamma-aminobutyric acid type B receptor subunit 1 · neurotransmission
+- [GABBR2](GABBR2.md): gamma-aminobutyric acid type B receptor subunit 2 · neurotransmission
+- [GABRA1](GABRA1.md): gamma-aminobutyric acid type A receptor subunit alpha1 · neurotransmission
+- [GABRA2](GABRA2.md): gamma-aminobutyric acid type A receptor subunit alpha2 · neurotransmission
+- [GABRA3](GABRA3.md): gamma-aminobutyric acid type A receptor subunit alpha3 · neurotransmission
+- [GABRB2](GABRB2.md): gamma-aminobutyric acid type A receptor subunit beta2 · neurotransmission
+- [GABRB3](GABRB3.md): gamma-aminobutyric acid type A receptor subunit beta3 · neurotransmission
+- [GABRG2](GABRG2.md): gamma-aminobutyric acid type A receptor subunit gamma2 · neurotransmission
+- [GATA2](GATA2.md): GATA binding protein 2 · signaling/transcription factor
+- [GATA3](GATA3.md): GATA binding protein 3 · signaling/transcription factor
+- [GJB2](GJB2.md): gap junction protein beta 2 · sensory/ion channel
+- [GJB6](GJB6.md): gap junction protein beta 6 · sensory/ion channel
+- [GNB3](GNB3.md): G protein subunit beta 3 · neuroendocrine signaling
+- [GNRH1](GNRH1.md): gonadotropin releasing hormone 1 · HPG/gonadal axis
+- [GNRHR](GNRHR.md): gonadotropin releasing hormone receptor · HPG/gonadal axis
+- [GPX1](GPX1.md): glutathione peroxidase 1 · mitochondrial/energy metabolism
+- [GPX4](GPX4.md): glutathione peroxidase 4 · mitochondrial/energy metabolism
+- [GRIN1](GRIN1.md): glutamate ionotropic receptor NMDA type subunit 1 · neurotransmission
+- [GRIN2A](GRIN2A.md): glutamate ionotropic receptor NMDA type subunit 2A · neurotransmission
+- [GRIN2B](GRIN2B.md): glutamate ionotropic receptor NMDA type subunit 2B · neurotransmission
+- [GRIN2C](GRIN2C.md): glutamate ionotropic receptor NMDA type subunit 2C · neurotransmission
+- [GRIN2D](GRIN2D.md): glutamate ionotropic receptor NMDA type subunit 2D · neurotransmission
+- [GTF2A1](GTF2A1.md): general transcription factor IIA subunit 1 · basal transcription machinery
+- [GTF2B](GTF2B.md): general transcription factor IIB · basal transcription machinery
+- [GTF2E1](GTF2E1.md): general transcription factor IIE subunit 1 · basal transcription machinery
+- [GTF2F1](GTF2F1.md): general transcription factor IIF subunit 1 · basal transcription machinery
+- [GTF2H1](GTF2H1.md): general transcription factor IIH subunit 1 · basal transcription machinery
+- [GUSB](GUSB.md): glucuronidase beta · steroid conjugation/clearance
+- [H6PD](H6PD.md): hexose-6-phosphate dehydrogenase/glucose 1-dehydrogenase · steroid hormone synthesis
+- [HDAC1](HDAC1.md): histone deacetylase 1 · epigenetic regulator
+- [HDAC10](HDAC10.md) ★: histone deacetylase 10 · epigenetic regulator
+- [HDAC11](HDAC11.md): histone deacetylase 11 · epigenetic regulator
+- [HDAC2](HDAC2.md): histone deacetylase 2 · epigenetic regulator
+- [HDAC3](HDAC3.md): histone deacetylase 3 · epigenetic regulator
+- [HDAC4](HDAC4.md): histone deacetylase 4 · epigenetic regulator
+- [HDAC5](HDAC5.md): histone deacetylase 5 · epigenetic regulator
+- [HDAC6](HDAC6.md): histone deacetylase 6 · epigenetic regulator
+- [HDAC7](HDAC7.md): histone deacetylase 7 · epigenetic regulator
+- [HDAC8](HDAC8.md): histone deacetylase 8 · epigenetic regulator
+- [HDAC9](HDAC9.md): histone deacetylase 9 · epigenetic regulator
+- [HNF4A](HNF4A.md): hepatocyte nuclear factor 4 alpha · nuclear hormone receptor, signaling/transcription factor
+- [HNF4G](HNF4G.md): hepatocyte nuclear factor 4 gamma · nuclear hormone receptor, signaling/transcription factor
+- [HNRNPA1](HNRNPA1.md): heterogeneous nuclear ribonucleoprotein A1 · RNA processing/miRNA biogenesis
+- [HNRNPK](HNRNPK.md): heterogeneous nuclear ribonucleoprotein K · RNA processing/miRNA biogenesis
+- [HNRNPU](HNRNPU.md): heterogeneous nuclear ribonucleoprotein U · RNA processing/miRNA biogenesis
+- [HSD11B1](HSD11B1.md): hydroxysteroid 11-beta dehydrogenase 1 · steroid hormone synthesis
+- [HSD11B2](HSD11B2.md): hydroxysteroid 11-beta dehydrogenase 2 · steroid hormone synthesis
+- [HSD17B1](HSD17B1.md): hydroxysteroid 17-beta dehydrogenase 1 · steroid hormone synthesis
+- [HSD17B10](HSD17B10.md): hydroxysteroid 17-beta dehydrogenase 10 · steroid hormone synthesis
+- [HSD17B12](HSD17B12.md): hydroxysteroid 17-beta dehydrogenase 12 · steroid hormone synthesis
+- [HSD17B13](HSD17B13.md): hydroxysteroid 17-beta dehydrogenase 13 · steroid hormone synthesis
+- [HSD17B14](HSD17B14.md): hydroxysteroid 17-beta dehydrogenase 14 · steroid hormone synthesis
+- [HSD17B2](HSD17B2.md) ★: hydroxysteroid 17-beta dehydrogenase 2 · steroid hormone synthesis
+- [HSD17B3](HSD17B3.md): hydroxysteroid 17-beta dehydrogenase 3 · steroid hormone synthesis
+- [HSD17B4](HSD17B4.md): hydroxysteroid 17-beta dehydrogenase 4 · steroid hormone synthesis
+- [HSD17B6](HSD17B6.md): hydroxysteroid 17-beta dehydrogenase 6 · steroid hormone synthesis
+- [HSD17B7](HSD17B7.md): hydroxysteroid 17-beta dehydrogenase 7 · steroid hormone synthesis
+- [HSD3B1](HSD3B1.md): hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 1 · steroid hormone synthesis
+- [HSD3B2](HSD3B2.md): hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 2 · steroid hormone synthesis
+- [HSP90AA1](HSP90AA1.md): heat shock protein 90 alpha family class A member 1 · steroid receptor chaperone
+- [HSP90AB1](HSP90AB1.md): heat shock protein 90 alpha family class B member 1 · steroid receptor chaperone
+- [HSPD1](HSPD1.md): heat shock protein family D (Hsp60) member 1 · steroid receptor chaperone
+- [HSPE1](HSPE1.md): heat shock protein family E (Hsp10) member 1 · steroid receptor chaperone
+- [HTR1A](HTR1A.md): 5-hydroxytryptamine receptor 1A · neurotransmission
+- [HTR1B](HTR1B.md): 5-hydroxytryptamine receptor 1B · neurotransmission
+- [HTR1D](HTR1D.md): 5-hydroxytryptamine receptor 1D · neurotransmission
+- [HTR1E](HTR1E.md): 5-hydroxytryptamine receptor 1E · neurotransmission
+- [HTR1F](HTR1F.md): 5-hydroxytryptamine receptor 1F · neurotransmission
+- [HTR2A](HTR2A.md): 5-hydroxytryptamine receptor 2A · neurotransmission
+- [HTR2B](HTR2B.md): 5-hydroxytryptamine receptor 2B · neurotransmission
+- [HTR2C](HTR2C.md): 5-hydroxytryptamine receptor 2C · neurotransmission
+- [HTR3A](HTR3A.md): 5-hydroxytryptamine receptor 3A · neurotransmission
+- [HTR3B](HTR3B.md): 5-hydroxytryptamine receptor 3B · neurotransmission
+- [HTR3C](HTR3C.md): 5-hydroxytryptamine receptor 3C · neurotransmission
+- [HTR3D](HTR3D.md): 5-hydroxytryptamine receptor 3D · neurotransmission
+- [HTR3E](HTR3E.md): 5-hydroxytryptamine receptor 3E · neurotransmission
+- [HTR4](HTR4.md): 5-hydroxytryptamine receptor 4 · neurotransmission
+- [HTR5A](HTR5A.md): 5-hydroxytryptamine receptor 5A · neurotransmission
+- [HTR5BP](HTR5BP.md): 5-hydroxytryptamine receptor 5B, pseudogene · neurotransmission
+- [HTR6](HTR6.md): 5-hydroxytryptamine receptor 6 · neurotransmission
+- [HTR7](HTR7.md): 5-hydroxytryptamine receptor 7 · neurotransmission
+- [INO80](INO80.md): INO80 complex ATPase subunit · epigenetic regulator
+- [INO80B](INO80B.md): INO80 complex subunit B · epigenetic regulator
+- [INO80C](INO80C.md): INO80 complex subunit C · epigenetic regulator
+- [KAT2A](KAT2A.md): lysine acetyltransferase 2A · epigenetic regulator
+- [KAT2B](KAT2B.md): lysine acetyltransferase 2B · epigenetic regulator
+- [KAT5](KAT5.md): lysine acetyltransferase 5 · epigenetic regulator
+- [KAT6A](KAT6A.md): lysine acetyltransferase 6A · epigenetic regulator
+- [KAT6B](KAT6B.md): lysine acetyltransferase 6B · epigenetic regulator
+- [KAT7](KAT7.md): lysine acetyltransferase 7 · epigenetic regulator
+- [KAT8](KAT8.md): lysine acetyltransferase 8 · epigenetic regulator
+- [KCNQ4](KCNQ4.md): potassium voltage-gated channel subfamily Q member 4 · sensory/ion channel
+- [KDM1A](KDM1A.md): lysine demethylase 1A · epigenetic regulator
+- [KDM1B](KDM1B.md): lysine demethylase 1B · epigenetic regulator
+- [KDM2A](KDM2A.md): lysine demethylase 2A · epigenetic regulator
+- [KDM2B](KDM2B.md): lysine demethylase 2B · epigenetic regulator
+- [KDM3A](KDM3A.md): lysine demethylase 3A · epigenetic regulator
+- [KDM3B](KDM3B.md): lysine demethylase 3B · epigenetic regulator
+- [KDM4A](KDM4A.md): lysine demethylase 4A · epigenetic regulator
+- [KDM4B](KDM4B.md): lysine demethylase 4B · epigenetic regulator
+- [KDM4C](KDM4C.md): lysine demethylase 4C · epigenetic regulator
+- [KDM4D](KDM4D.md): lysine demethylase 4D · epigenetic regulator
+- [KDM5A](KDM5A.md): lysine demethylase 5A · epigenetic regulator
+- [KDM5B](KDM5B.md): lysine demethylase 5B · epigenetic regulator
+- [KDM5C](KDM5C.md): lysine demethylase 5C · epigenetic regulator
+- [KDM5D](KDM5D.md): lysine demethylase 5D · epigenetic regulator
+- [KDM6A](KDM6A.md): lysine demethylase 6A · epigenetic regulator
+- [KDM6B](KDM6B.md): lysine demethylase 6B · epigenetic regulator
+- [KDM7A](KDM7A.md): lysine demethylase 7A · epigenetic regulator
+- [KISS1](KISS1.md): KiSS-1 metastasis suppressor · HPG/gonadal axis
+- [KISS1R](KISS1R.md): KISS1 receptor · HPG/gonadal axis
+- [KMT2A](KMT2A.md): lysine methyltransferase 2A · epigenetic regulator
+- [KMT2B](KMT2B.md): lysine methyltransferase 2B · epigenetic regulator
+- [KMT2C](KMT2C.md): lysine methyltransferase 2C · epigenetic regulator
+- [KMT2D](KMT2D.md): lysine methyltransferase 2D · epigenetic regulator
+- [KPNB1](KPNB1.md): karyopherin subunit beta 1 · nuclear transport
+- [LDLR](LDLR.md): low density lipoprotein receptor · lipid/cholesterol homeostasis
+- [LIN28A](LIN28A.md): lin-28 RNA binding posttranscriptional regulator A · RNA processing/miRNA biogenesis
+- [LIN28B](LIN28B.md): lin-28 RNA binding posttranscriptional regulator B · RNA processing/miRNA biogenesis
+- [LIPE](LIPE.md): lipase E, hormone sensitive type · lipid/cholesterol homeostasis
+- [LRAT](LRAT.md): lecithin retinol acyltransferase · retinoid signaling
+- [LRP2](LRP2.md) ★: LDL receptor related protein 2 · lipid/cholesterol homeostasis
+- [MAOA](MAOA.md): monoamine oxidase A · drug-metabolizing enzyme, neurotransmission
+- [MAOB](MAOB.md): monoamine oxidase B · drug-metabolizing enzyme, neurotransmission
+- [MAX](MAX.md): MYC associated transcriptional regulator X · signaling/transcription factor
+- [MBD1](MBD1.md): methyl-CpG binding domain protein 1 · epigenetic regulator
+- [MBD2](MBD2.md): methyl-CpG binding domain protein 2 · epigenetic regulator
+- [MBD3](MBD3.md): methyl-CpG binding domain protein 3 · epigenetic regulator
+- [MBD4](MBD4.md): methyl-CpG binding domain 4, DNA glycosylase · epigenetic regulator
+- [MC4R](MC4R.md): melanocortin 4 receptor · neuroendocrine signaling
+- [MECP2](MECP2.md): methyl-CpG binding protein 2 · epigenetic regulator
+- [MED1](MED1.md): mediator complex subunit 1 · signaling/transcription factor
+- [MED12](MED12.md): mediator complex subunit 12 · signaling/transcription factor
+- [MED13](MED13.md): mediator complex subunit 13 · signaling/transcription factor
+- [MED14](MED14.md): mediator complex subunit 14 · signaling/transcription factor
+- [MED15](MED15.md): mediator complex subunit 15 · signaling/transcription factor
+- [MED16](MED16.md): mediator complex subunit 16 · signaling/transcription factor
+- [MED23](MED23.md): mediator complex subunit 23 · signaling/transcription factor
+- [MED24](MED24.md): mediator complex subunit 24 · signaling/transcription factor
+- [MED25](MED25.md): mediator complex subunit 25 · signaling/transcription factor
+- [MFN1](MFN1.md): mitofusin 1 · mitochondrial/energy metabolism
+- [MFN2](MFN2.md): mitofusin 2 · mitochondrial/energy metabolism
+- [MGME1](MGME1.md): mitochondrial genome maintenance exonuclease 1 · mitochondrial/energy metabolism
+- [MPV17](MPV17.md): mitochondrial inner membrane protein MPV17 · mitochondrial/energy metabolism
+- [MT-ATP6](MT-ATP6.md): ATP synthase F0 subunit 6 · mitochondrial/energy metabolism
+- [MT-ATP8](MT-ATP8.md): ATP synthase F0 subunit 8 · mitochondrial/energy metabolism
+- [MT-CO1](MT-CO1.md): cytochrome c oxidase subunit I · mitochondrial/energy metabolism
+- [MT-CO2](MT-CO2.md): cytochrome c oxidase subunit II · mitochondrial/energy metabolism
+- [MT-CO3](MT-CO3.md): cytochrome c oxidase subunit III · mitochondrial/energy metabolism
+- [MT-CYB](MT-CYB.md): cytochrome b · mitochondrial/energy metabolism
+- [MT-ND1](MT-ND1.md): NADH dehydrogenase subunit 1 · mitochondrial/energy metabolism
+- [MT-ND4](MT-ND4.md): NADH dehydrogenase subunit 4 · mitochondrial/energy metabolism
+- [MT-ND6](MT-ND6.md): NADH dehydrogenase subunit 6 · mitochondrial/energy metabolism
+- [MTHFR](MTHFR.md) ★: methylenetetrahydrofolate reductase · methylation/one-carbon metabolism
+- [MTR](MTR.md): 5-methyltetrahydrofolate-homocysteine methyltransferase · methylation/one-carbon metabolism
+- [MTRR](MTRR.md): 5-methyltetrahydrofolate-homocysteine methyltransferase reductase · methylation/one-carbon metabolism
+- [MXI1](MXI1.md): MAX interactor 1, dimerization protein · signaling/transcription factor
+- [MYC](MYC.md): MYC proto-oncogene, bHLH transcription factor · signaling/transcription factor
+- [MYCN](MYCN.md): MYCN proto-oncogene, bHLH transcription factor · signaling/transcription factor
+- [MYO7A](MYO7A.md): myosin VIIA · sensory/ion channel
+- [NAT2](NAT2.md): N-acetyltransferase 2 · drug-metabolizing enzyme
+- [NCOA1](NCOA1.md): nuclear receptor coactivator 1 · nuclear hormone receptor
+- [NCOA2](NCOA2.md): nuclear receptor coactivator 2 · nuclear hormone receptor
+- [NCOA3](NCOA3.md): nuclear receptor coactivator 3 · nuclear hormone receptor
+- [NCOA4](NCOA4.md): nuclear receptor coactivator 4 · nuclear hormone receptor
+- [NCOA6](NCOA6.md): nuclear receptor coactivator 6 · nuclear hormone receptor
+- [NCOR1](NCOR1.md): nuclear receptor corepressor 1 · nuclear hormone receptor
+- [NCOR2](NCOR2.md): nuclear receptor corepressor 2 · nuclear hormone receptor
+- [NDUFS1](NDUFS1.md): NADH:ubiquinone oxidoreductase core subunit S1 · mitochondrial/energy metabolism
+- [NDUFS2](NDUFS2.md): NADH:ubiquinone oxidoreductase core subunit S2 · mitochondrial/energy metabolism
+- [NDUFS4](NDUFS4.md): NADH:ubiquinone oxidoreductase subunit S4 · mitochondrial/energy metabolism
+- [NFKB1](NFKB1.md): nuclear factor kappa B subunit 1 · signaling/transcription factor
+- [NFKB2](NFKB2.md): nuclear factor kappa B subunit 2 · signaling/transcription factor
+- [NFYA](NFYA.md): nuclear transcription factor Y subunit alpha · signaling/transcription factor
+- [NFYB](NFYB.md): nuclear transcription factor Y subunit beta · signaling/transcription factor
+- [NFYC](NFYC.md): nuclear transcription factor Y subunit gamma · signaling/transcription factor
+- [NOS1](NOS1.md): nitric oxide synthase 1 · neuroendocrine signaling
+- [NOS3](NOS3.md): nitric oxide synthase 3 · neuroendocrine signaling
+- [NPC1](NPC1.md): NPC intracellular cholesterol transporter 1 · lipid/cholesterol homeostasis
+- [NPC1L1](NPC1L1.md): NPC1 like intracellular cholesterol transporter 1 · lipid/cholesterol homeostasis
+- [NPC2](NPC2.md): NPC intracellular cholesterol transporter 2 · lipid/cholesterol homeostasis
+- [NPY](NPY.md): neuropeptide Y · neuroendocrine signaling
+- [NPY1R](NPY1R.md): neuropeptide Y receptor Y1 · neuroendocrine signaling
+- [NPY2R](NPY2R.md): neuropeptide Y receptor Y2 · neuroendocrine signaling
+- [NR0B1](NR0B1.md): nuclear receptor subfamily 0 group B member 1 · nuclear hormone receptor
+- [NR0B2](NR0B2.md): nuclear receptor subfamily 0 group B member 2 · nuclear hormone receptor
+- [NR1D1](NR1D1.md): nuclear receptor subfamily 1 group D member 1 · nuclear hormone receptor
+- [NR1D2](NR1D2.md): nuclear receptor subfamily 1 group D member 2 · nuclear hormone receptor
+- [NR1H2](NR1H2.md): nuclear receptor subfamily 1 group H member 2 · nuclear hormone receptor
+- [NR1H3](NR1H3.md): nuclear receptor subfamily 1 group H member 3 · nuclear hormone receptor
+- [NR1H4](NR1H4.md): nuclear receptor subfamily 1 group H member 4 · nuclear hormone receptor
+- [NR1I3](NR1I3.md): nuclear receptor subfamily 1 group I member 3 · nuclear hormone receptor
+- [NR3C1](NR3C1.md): nuclear receptor subfamily 3 group C member 1 · nuclear hormone receptor
+- [NR3C2](NR3C2.md): nuclear receptor subfamily 3 group C member 2 · nuclear hormone receptor
+- [NR5A1](NR5A1.md): nuclear receptor subfamily 5 group A member 1 · nuclear hormone receptor
+- [NR5A2](NR5A2.md): nuclear receptor subfamily 5 group A member 2 · nuclear hormone receptor
+- [NTRK2](NTRK2.md): neurotrophic receptor tyrosine kinase 2 · neurotransmission
+- [OPA1](OPA1.md): OPA1 mitochondrial dynamin like GTPase · mitochondrial/energy metabolism
+- [OXTR](OXTR.md): oxytocin receptor · neuroendocrine signaling
+- [PAPSS1](PAPSS1.md): 3'-phosphoadenosine 5'-phosphosulfate synthase 1 · steroid conjugation/clearance
+- [PAPSS2](PAPSS2.md): 3'-phosphoadenosine 5'-phosphosulfate synthase 2 · steroid conjugation/clearance
+- [PAX5](PAX5.md): paired box 5 · signaling/transcription factor
+- [PAX7](PAX7.md): paired box 7 · signaling/transcription factor
+- [PBRM1](PBRM1.md): polybromo 1 · epigenetic regulator
+- [PDE5A](PDE5A.md): phosphodiesterase 5A · neuroendocrine signaling
+- [PGR](PGR.md): progesterone receptor · nuclear hormone receptor
+- [PHF2](PHF2.md): PHD finger protein 2 · epigenetic regulator
+- [PHF8](PHF8.md): PHD finger protein 8 · epigenetic regulator
+- [PIAS1](PIAS1.md): protein inhibitor of activated STAT 1 · signaling/transcription factor
+- [PIAS2](PIAS2.md): protein inhibitor of activated STAT 2 · signaling/transcription factor
+- [PIEZO1](PIEZO1.md): piezo type mechanosensitive ion channel component 1 (Er blood group) · sensory/ion channel
+- [PIEZO2](PIEZO2.md): piezo type mechanosensitive ion channel component 2 · sensory/ion channel
+- [PLIN1](PLIN1.md): perilipin 1 · lipid/cholesterol homeostasis
+- [PLIN2](PLIN2.md): perilipin 2 · lipid/cholesterol homeostasis
+- [POLG](POLG.md): DNA polymerase gamma, catalytic subunit · mitochondrial/energy metabolism
+- [POLG2](POLG2.md): DNA polymerase gamma 2, accessory subunit · mitochondrial/energy metabolism
+- [POLR2A](POLR2A.md): RNA polymerase II subunit A · basal transcription machinery
+- [POLR2B](POLR2B.md): RNA polymerase II subunit B · basal transcription machinery
+- [POLR2C](POLR2C.md): RNA polymerase II subunit C · basal transcription machinery
+- [POLR2D](POLR2D.md): RNA polymerase II subunit D · basal transcription machinery
+- [POLR2E](POLR2E.md): RNA polymerase II, I and III subunit E · basal transcription machinery
+- [POLR2F](POLR2F.md): RNA polymerase II, I and III subunit F · basal transcription machinery
+- [POLR2G](POLR2G.md): RNA polymerase II subunit G · basal transcription machinery
+- [POLR2H](POLR2H.md): RNA polymerase II, I and III subunit H · basal transcription machinery
+- [POLR2I](POLR2I.md): RNA polymerase II subunit I · basal transcription machinery
+- [POLR2J](POLR2J.md): RNA polymerase II subunit J · basal transcription machinery
+- [POLR2K](POLR2K.md): RNA polymerase II, I and III subunit K · basal transcription machinery
+- [POLRMT](POLRMT.md): RNA polymerase mitochondrial · basal transcription machinery
+- [POR](POR.md): cytochrome p450 oxidoreductase · steroid hormone synthesis
+- [POU1F1](POU1F1.md): POU class 1 homeobox 1 · signaling/transcription factor
+- [POU4F3](POU4F3.md): POU class 4 homeobox 3 · sensory/ion channel
+- [PPARA](PPARA.md): peroxisome proliferator activated receptor alpha · nuclear hormone receptor
+- [PPARD](PPARD.md): peroxisome proliferator activated receptor delta · nuclear hormone receptor
+- [PPARG](PPARG.md): peroxisome proliferator activated receptor gamma · nuclear hormone receptor
+- [PPID](PPID.md): peptidylprolyl isomerase D · steroid receptor chaperone
+- [PPP5C](PPP5C.md): protein phosphatase 5 catalytic subunit · steroid receptor chaperone
+- [PRDX3](PRDX3.md): peroxiredoxin 3 · mitochondrial/energy metabolism
+- [PRL](PRL.md): prolactin · HPG/gonadal axis
+- [PRLR](PRLR.md): prolactin receptor · HPG/gonadal axis
+- [PTGES3](PTGES3.md): prostaglandin E synthase 3 · steroid receptor chaperone
+- [RAD21](RAD21.md): RAD21 cohesin complex component · chromosome cohesion
+- [RARA](RARA.md): retinoic acid receptor alpha · nuclear hormone receptor
+- [RARB](RARB.md): retinoic acid receptor beta · nuclear hormone receptor
+- [RARG](RARG.md): retinoic acid receptor gamma · nuclear hormone receptor
+- [RBP1](RBP1.md): retinol binding protein 1 · retinoid signaling
+- [RBP4](RBP4.md): retinol binding protein 4 · retinoid signaling
+- [RDH10](RDH10.md): retinol dehydrogenase 10 · retinoid signaling
+- [RDH16](RDH16.md): retinol dehydrogenase 16 · steroid hormone synthesis
+- [RDH5](RDH5.md): retinol dehydrogenase 5 · steroid hormone synthesis
+- [RELA](RELA.md): RELA proto-oncogene, NF-kB subunit · signaling/transcription factor
+- [RELB](RELB.md): RELB proto-oncogene, NF-kB subunit · signaling/transcription factor
+- [RNF4](RNF4.md): ring finger protein 4 · signaling/transcription factor
+- [RORA](RORA.md): RAR related orphan receptor A · nuclear hormone receptor
+- [RORB](RORB.md): RAR related orphan receptor B · nuclear hormone receptor
+- [RORC](RORC.md): RAR related orphan receptor C · nuclear hormone receptor
+- [RSF1](RSF1.md): remodeling and spacing factor 1 · epigenetic regulator
+- [RXRA](RXRA.md): retinoid X receptor alpha · nuclear hormone receptor
+- [RXRB](RXRB.md): retinoid X receptor beta · nuclear hormone receptor
+- [RXRG](RXRG.md): retinoid X receptor gamma · nuclear hormone receptor
+- [SCARB1](SCARB1.md): scavenger receptor class B member 1 · lipid/cholesterol homeostasis
+- [SERPINA6](SERPINA6.md): serpin family A member 6 · HPG/gonadal axis
+- [SETD1A](SETD1A.md): SET domain containing 1A, histone lysine methyltransferase · epigenetic regulator
+- [SETD1B](SETD1B.md): SET domain containing 1B, histone lysine methyltransferase · epigenetic regulator
+- [SETD2](SETD2.md): SET domain containing 2, histone lysine methyltransferase · epigenetic regulator
+- [SETDB1](SETDB1.md): SET domain bifurcated histone lysine methyltransferase 1 · epigenetic regulator
+- [SETDB2](SETDB2.md): SET domain bifurcated histone lysine methyltransferase 2 · epigenetic regulator
+- [SHBG](SHBG.md): sex hormone binding globulin · HPG/gonadal axis
+- [SIGMAR1](SIGMAR1.md): sigma receptor chaperone 1 · neurotransmission
+- [SIRT1](SIRT1.md): sirtuin 1 · epigenetic regulator
+- [SIRT2](SIRT2.md): sirtuin 2 · epigenetic regulator
+- [SIRT3](SIRT3.md): sirtuin 3 · epigenetic regulator
+- [SIRT4](SIRT4.md): sirtuin 4 · epigenetic regulator
+- [SIRT5](SIRT5.md): sirtuin 5 · epigenetic regulator
+- [SIRT6](SIRT6.md): sirtuin 6 · epigenetic regulator
+- [SIRT7](SIRT7.md): sirtuin 7 · epigenetic regulator
+- [SLC10A1](SLC10A1.md): solute carrier family 10 member 1 · drug/xenobiotic transporter
+- [SLC10A2](SLC10A2.md): solute carrier family 10 member 2 · drug/xenobiotic transporter
+- [SLC10A6](SLC10A6.md): solute carrier family 10 member 6 · drug/xenobiotic transporter
+- [SLC13A1](SLC13A1.md): solute carrier family 13 member 1 · drug/xenobiotic transporter
+- [SLC16A1](SLC16A1.md): solute carrier family 16 member 1 · drug/xenobiotic transporter
+- [SLC16A10](SLC16A10.md): solute carrier family 16 member 10 · drug/xenobiotic transporter
+- [SLC16A3](SLC16A3.md): solute carrier family 16 member 3 · drug/xenobiotic transporter
+- [SLC16A9](SLC16A9.md): solute carrier family 16 member 9 · drug/xenobiotic transporter
+- [SLC18A2](SLC18A2.md): solute carrier family 18 member A2 · drug/xenobiotic transporter, neurotransmission
+- [SLC22A1](SLC22A1.md): solute carrier family 22 member 1 · drug/xenobiotic transporter
+- [SLC22A11](SLC22A11.md): solute carrier family 22 member 11 · drug/xenobiotic transporter
+- [SLC22A12](SLC22A12.md): solute carrier family 22 member 12 · drug/xenobiotic transporter
+- [SLC22A13](SLC22A13.md): solute carrier family 22 member 13 · drug/xenobiotic transporter
+- [SLC22A14](SLC22A14.md): solute carrier family 22 member 14 · drug/xenobiotic transporter
+- [SLC22A2](SLC22A2.md): solute carrier family 22 member 2 · drug/xenobiotic transporter
+- [SLC22A24](SLC22A24.md): solute carrier family 22 member 24 · drug/xenobiotic transporter
+- [SLC22A3](SLC22A3.md): solute carrier family 22 member 3 · drug/xenobiotic transporter
+- [SLC22A4](SLC22A4.md): solute carrier family 22 member 4 · drug/xenobiotic transporter
+- [SLC22A5](SLC22A5.md): solute carrier family 22 member 5 · drug/xenobiotic transporter
+- [SLC22A6](SLC22A6.md): solute carrier family 22 member 6 · drug/xenobiotic transporter
+- [SLC22A7](SLC22A7.md): solute carrier family 22 member 7 · drug/xenobiotic transporter
+- [SLC22A8](SLC22A8.md): solute carrier family 22 member 8 · drug/xenobiotic transporter
+- [SLC25A4](SLC25A4.md): solute carrier family 25 member 4 · drug/xenobiotic transporter
+- [SLC26A4](SLC26A4.md): solute carrier family 26 member 4 · drug/xenobiotic transporter
+- [SLC51A](SLC51A.md): solute carrier family 51 member A · drug/xenobiotic transporter
+- [SLC51B](SLC51B.md): SLC51 subunit beta · drug/xenobiotic transporter
+- [SLC6A3](SLC6A3.md): solute carrier family 6 member 3 · drug/xenobiotic transporter, neurotransmission
+- [SLC6A4](SLC6A4.md): solute carrier family 6 member 4 · drug/xenobiotic transporter, neurotransmission
+- [SLC7A5](SLC7A5.md): solute carrier family 7 member 5 · drug/xenobiotic transporter
+- [SLCO1A2](SLCO1A2.md): solute carrier organic anion transporter family member 1A2 · drug/xenobiotic transporter
+- [SLCO1B1](SLCO1B1.md) ★: solute carrier organic anion transporter family member 1B1 · drug/xenobiotic transporter
+- [SLCO1B3](SLCO1B3.md): solute carrier organic anion transporter family member 1B3 · drug/xenobiotic transporter
+- [SLCO1B7](SLCO1B7.md): solute carrier organic anion transporter family member 1B7 (putative) · drug/xenobiotic transporter
+- [SLCO1C1](SLCO1C1.md): solute carrier organic anion transporter family member 1C1 · drug/xenobiotic transporter
+- [SLCO2A1](SLCO2A1.md): solute carrier organic anion transporter family member 2A1 · drug/xenobiotic transporter
+- [SLCO2B1](SLCO2B1.md): solute carrier organic anion transporter family member 2B1 · drug/xenobiotic transporter
+- [SLCO3A1](SLCO3A1.md): solute carrier organic anion transporter family member 3A1 · drug/xenobiotic transporter
+- [SLCO4A1](SLCO4A1.md): solute carrier organic anion transporter family member 4A1 · drug/xenobiotic transporter
+- [SLCO4C1](SLCO4C1.md): solute carrier organic anion transporter family member 4C1 · drug/xenobiotic transporter
+- [SLCO5A1](SLCO5A1.md): solute carrier organic anion transporter family member 5A1 · drug/xenobiotic transporter
+- [SLCO6A1](SLCO6A1.md): solute carrier organic anion transporter family member 6A1 · drug/xenobiotic transporter
+- [SMAD2](SMAD2.md): SMAD family member 2 · signaling/transcription factor
+- [SMAD3](SMAD3.md): SMAD family member 3 · signaling/transcription factor
+- [SMAD4](SMAD4.md): SMAD family member 4 · signaling/transcription factor
+- [SMAD7](SMAD7.md): SMAD family member 7 · signaling/transcription factor
+- [SMARCA2](SMARCA2.md): SWI/SNF related BAF chromatin remodeling complex subunit ATPase 2 · epigenetic regulator
+- [SMARCA4](SMARCA4.md): SWI/SNF related BAF chromatin remodeling complex subunit ATPase 4 · epigenetic regulator
+- [SMARCA5](SMARCA5.md): SNF2 related chromatin remodeling ATPase 5 · epigenetic regulator
+- [SMARCB1](SMARCB1.md): SWI/SNF related BAF chromatin remodeling complex subunit B1 · epigenetic regulator
+- [SMARCC1](SMARCC1.md): SWI/SNF related BAF chromatin remodeling complex subunit C1 · epigenetic regulator
+- [SMARCC2](SMARCC2.md): SWI/SNF related BAF chromatin remodeling complex subunit C2 · epigenetic regulator
+- [SMARCD1](SMARCD1.md): SWI/SNF related BAF chromatin remodeling complex subunit D1 · epigenetic regulator
+- [SMARCD2](SMARCD2.md): SWI/SNF related BAF chromatin remodeling complex subunit D2 · epigenetic regulator
+- [SMARCE1](SMARCE1.md): SWI/SNF related BAF chromatin remodeling complex subunit E1 · epigenetic regulator
+- [SMC1A](SMC1A.md): structural maintenance of chromosomes 1A · chromosome cohesion
+- [SMC3](SMC3.md): structural maintenance of chromosomes 3 · chromosome cohesion
+- [SOAT1](SOAT1.md): sterol O-acyltransferase 1 · lipid/cholesterol homeostasis
+- [SOAT2](SOAT2.md): sterol O-acyltransferase 2 · lipid/cholesterol homeostasis
+- [SOD2](SOD2.md): superoxide dismutase 2 · mitochondrial/energy metabolism
+- [SOX2](SOX2.md): SRY-box transcription factor 2 · signaling/transcription factor
+- [SOX9](SOX9.md): SRY-box transcription factor 9 · signaling/transcription factor
+- [SP1](SP1.md): Sp1 transcription factor · signaling/transcription factor
+- [SP3](SP3.md): Sp3 transcription factor · signaling/transcription factor
+- [SRCAP](SRCAP.md): Snf2 related CREBBP activator protein · epigenetic regulator
+- [SRD5A1](SRD5A1.md) ★: steroid 5 alpha-reductase 1 · steroid hormone synthesis
+- [SRD5A2](SRD5A2.md): steroid 5 alpha-reductase 2 · steroid hormone synthesis
+- [SRD5A3](SRD5A3.md): steroid 5 alpha-reductase 3 · steroid hormone synthesis
+- [SS18](SS18.md): SS18 subunit of BAF chromatin remodeling complex · epigenetic regulator
+- [SS18L1](SS18L1.md): SS18L1 subunit of BAF chromatin remodeling complex · epigenetic regulator
+- [STAG1](STAG1.md): STAG1 cohesin complex component · chromosome cohesion
+- [STAG2](STAG2.md): STAG2 cohesin complex component · chromosome cohesion
+- [STAR](STAR.md): steroidogenic acute regulatory protein · steroid hormone synthesis
+- [STARD10](STARD10.md): StAR related lipid transfer domain containing 10 · steroid hormone synthesis
+- [STARD3](STARD3.md): StAR related lipid transfer domain containing 3 · steroid hormone synthesis
+- [STARD4](STARD4.md): StAR related lipid transfer domain containing 4 · steroid hormone synthesis
+- [STARD5](STARD5.md): StAR related lipid transfer domain containing 5 · steroid hormone synthesis
+- [STARD6](STARD6.md): StAR related lipid transfer domain containing 6 · steroid hormone synthesis
+- [STAT1](STAT1.md): signal transducer and activator of transcription 1 · signaling/transcription factor
+- [STAT3](STAT3.md): signal transducer and activator of transcription 3 · signaling/transcription factor
+- [STAT5A](STAT5A.md): signal transducer and activator of transcription 5A · signaling/transcription factor
+- [STAT5B](STAT5B.md): signal transducer and activator of transcription 5B · signaling/transcription factor
+- [STIP1](STIP1.md): stress induced phosphoprotein 1 · steroid receptor chaperone
+- [STRA6](STRA6.md): signaling receptor and transporter of retinol STRA6 · retinoid signaling
+- [STS](STS.md): steroid sulfatase · steroid conjugation/clearance
+- [SULT1A1](SULT1A1.md): sulfotransferase family 1A member 1 · steroid conjugation/clearance
+- [SULT1A2](SULT1A2.md): sulfotransferase family 1A member 2 · steroid conjugation/clearance
+- [SULT1E1](SULT1E1.md): sulfotransferase family 1E member 1 · steroid conjugation/clearance
+- [SULT2A1](SULT2A1.md) ★: sulfotransferase family 2A member 1 · steroid conjugation/clearance
+- [SULT2B1](SULT2B1.md): sulfotransferase family 2B member 1 · steroid conjugation/clearance
+- [SUMF1](SUMF1.md): sulfatase modifying factor 1 · steroid conjugation/clearance
+- [SUMF2](SUMF2.md): sulfatase modifying factor 2 · steroid conjugation/clearance
+- [SUV39H1](SUV39H1.md): SUV39H1 histone lysine methyltransferase · epigenetic regulator
+- [SUV39H2](SUV39H2.md): SUV39H2 histone lysine methyltransferase · epigenetic regulator
+- [SUZ12](SUZ12.md): SUZ12 polycomb repressive complex 2 subunit · epigenetic regulator
+- [TAC3](TAC3.md): tachykinin precursor 3 · HPG/gonadal axis
+- [TACR3](TACR3.md): tachykinin receptor 3 · HPG/gonadal axis
+- [TAF1](TAF1.md): TATA-box binding protein associated factor 1 · basal transcription machinery
+- [TAF10](TAF10.md): TATA-box binding protein associated factor 10 · basal transcription machinery
+- [TAF2](TAF2.md): TATA-box binding protein associated factor 2 · basal transcription machinery
+- [TAF3](TAF3.md): TATA-box binding protein associated factor 3 · basal transcription machinery
+- [TAF4](TAF4.md): TATA-box binding protein associated factor 4 · basal transcription machinery
+- [TAF5](TAF5.md): TATA-box binding protein associated factor 5 · basal transcription machinery
+- [TAF6](TAF6.md): TATA-box binding protein associated factor 6 · basal transcription machinery
+- [TAF7](TAF7.md): TATA-box binding protein associated factor 7 · basal transcription machinery
+- [TAF9](TAF9.md): TATA-box binding protein associated factor 9 · basal transcription machinery
+- [TARBP2](TARBP2.md): TARBP2 subunit of RISC loading complex · RNA processing/miRNA biogenesis
+- [TBP](TBP.md): TATA-box binding protein · basal transcription machinery
+- [TDG](TDG.md): thymine DNA glycosylase · epigenetic regulator
+- [TET1](TET1.md): tet methylcytosine dioxygenase 1 · epigenetic regulator
+- [TET2](TET2.md): tet methylcytosine dioxygenase 2 · epigenetic regulator
+- [TET3](TET3.md): tet methylcytosine dioxygenase 3 · epigenetic regulator
+- [TFAM](TFAM.md): transcription factor A, mitochondrial · mitochondrial/energy metabolism
+- [TH](TH.md): tyrosine hydroxylase · neurotransmission
+- [THRA](THRA.md): thyroid hormone receptor alpha · nuclear hormone receptor
+- [THRB](THRB.md): thyroid hormone receptor beta · nuclear hormone receptor
+- [TPH1](TPH1.md): tryptophan hydroxylase 1 · neurotransmission
+- [TPH2](TPH2.md): tryptophan hydroxylase 2 · neurotransmission
+- [TRIM24](TRIM24.md): tripartite motif containing 24 · epigenetic regulator
+- [TRIM28](TRIM28.md): tripartite motif containing 28 · epigenetic regulator
+- [TRIM33](TRIM33.md): tripartite motif containing 33 · epigenetic regulator
+- [TSC22D3](TSC22D3.md): TSC22 domain family member 3 · steroid receptor chaperone
+- [TSPO](TSPO.md): translocator protein · steroid hormone synthesis, neurotransmission
+- [UBE2E3](UBE2E3.md): ubiquitin conjugating enzyme E2 E3 · signaling/transcription factor, general physiology
+- [UGDH](UGDH.md): UDP-glucose 6-dehydrogenase · steroid conjugation/clearance
+- [UGP2](UGP2.md): UDP-glucose pyrophosphorylase 2 · steroid conjugation/clearance
+- [UGT1A1](UGT1A1.md) ★: UDP glucuronosyltransferase family 1 member A1 · steroid conjugation/clearance
+- [UGT1A10](UGT1A10.md) ★: UDP glucuronosyltransferase family 1 member A10 · steroid conjugation/clearance
+- [UGT1A3](UGT1A3.md) ★: UDP glucuronosyltransferase family 1 member A3 · steroid conjugation/clearance
+- [UGT1A4](UGT1A4.md) ★: UDP glucuronosyltransferase family 1 member A4 · steroid conjugation/clearance
+- [UGT1A6](UGT1A6.md) ★: UDP glucuronosyltransferase family 1 member A6 · steroid conjugation/clearance
+- [UGT1A8](UGT1A8.md) ★: UDP glucuronosyltransferase family 1 member A8 · steroid conjugation/clearance
+- [UGT1A9](UGT1A9.md) ★: UDP glucuronosyltransferase family 1 member A9 · steroid conjugation/clearance
+- [UGT2B10](UGT2B10.md) ★: UDP glucuronosyltransferase family 2 member B10 · steroid conjugation/clearance
+- [UGT2B15](UGT2B15.md) ★: UDP glucuronosyltransferase family 2 member B15 · steroid conjugation/clearance
+- [UGT2B17](UGT2B17.md) ★: UDP glucuronosyltransferase family 2 member B17 · steroid conjugation/clearance
+- [UGT2B28](UGT2B28.md) ★: UDP glucuronosyltransferase family 2 member B28 · steroid conjugation/clearance
+- [UGT2B7](UGT2B7.md) ★: UDP glucuronosyltransferase family 2 member B7 · steroid conjugation/clearance
+- [UHRF1](UHRF1.md): ubiquitin like with PHD and ring finger domains 1 · epigenetic regulator
+- [UHRF2](UHRF2.md): ubiquitin like with PHD and ring finger domains 2 · epigenetic regulator
+- [UQCRC1](UQCRC1.md): ubiquinol-cytochrome c reductase core protein 1 · mitochondrial/energy metabolism
+- [UQCRC2](UQCRC2.md): ubiquinol-cytochrome c reductase core protein 2 · mitochondrial/energy metabolism
+- [VDR](VDR.md): vitamin D receptor · nuclear hormone receptor
+- [WAPL](WAPL.md): WAPL cohesin release factor · chromosome cohesion
+- [WWTR1](WWTR1.md): WW domain containing transcription regulator 1 · signaling/transcription factor
+- [XPO5](XPO5.md): exportin 5 · RNA processing/miRNA biogenesis, nuclear transport
+- [YAP1](YAP1.md): Yes1 associated transcriptional regulator · signaling/transcription factor
+- [ZBTB33](ZBTB33.md): zinc finger and BTB domain containing 33 · epigenetic regulator
+- [ZBTB38](ZBTB38.md): zinc finger and BTB domain containing 38 · epigenetic regulator
+- [ZBTB4](ZBTB4.md): zinc finger and BTB domain containing 4 · epigenetic regulator

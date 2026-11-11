@@ -1,0 +1,75 @@
+{
+  "slug": "hormonal-axes",
+  "title": "Hormonal axes",
+  "description": "What the library's studies found about testosterone, DHT, estradiol, gonadotropins, androgen receptors and the stress axis after these drugs.",
+  "system": "hormonal axes",
+  "written_for": "1.54",
+  "written": "2026-11-11",
+  "status": "unreviewed",
+  "in_short": [
+    "In 25 men with persistent symptoms after finasteride, testosterone and DHT were similar to those of symptom-free former users and never-users (SIDE-010), and a conference abstract on 43 men with PSSD found hormone values pointing to no hormonal cause (CUR-068); Milan plasma steroids in seven men differed in part from controls (PFS-005).",
+    "Three cerebrospinal-fluid studies from one Milan group, in 3, 7 and 14 men after finasteride, which may share patients, found DHT lower with testosterone higher and 3α-androstanediol raised in spinal fluid or plasma, while pregnenolone and estradiol were inconsistent (PFS-004, PFS-005, DISC-013).",
+    "Androgen-receptor staining in eight men and gene expression in 26 were higher in affected men's genital skin than in circumcision controls, though the larger study compared different skin sites and its serum markers of receptor activity did not differ. In male rats, cortical receptor upregulation persisted a month after finasteride (LIT-005, SIDE-009, RES-003).",
+    "Androgen-deprivation studies in prostate cancer are background, not evidence about the syndromes (MECH-026); one found normal testosterone in 92.6% of men a year after stopping (MECH-029). In male rats, two days of finasteride exaggerated the stress-hormone response to restraint (MECH-025)."
+  ],
+  "shows": [
+    {
+      "lead": "Hormone levels in men",
+      "text": "Testosterone and DHT were normal in 25 men with persistent sexual symptoms after finasteride and similar to those of 13 symptom-free former users and 18 never-users, despite worse sexual function; the authors judged simple androgen deficiency unlikely (SIDE-010). Luteinizing hormone and FSH were measured in the same three groups and did not differ either, within the normal range for young men (SIDE-010). In 24 men with persistent sexual effects after finasteride for hair loss, average testosterone and DHT were normal, though 13% had confirmed low levels of both (SIDE-008). A conference abstract on 43 men with PSSD found hormone values pointing to no hormonal cause (CUR-068). A preprint found lower FSH, which drives sperm production, and higher estradiol in 322 Danish men who had used isotretinoin than in non-users, within reference ranges and still after stopping (LIT-041)."
+    },
+    {
+      "lead": "In patients' spinal fluid",
+      "text": "In the library, all patient cerebrospinal-fluid steroid data come from one Milan group, studying men who had stopped finasteride; its three studies may share patients. In three men against five controls with normal diagnostic lumbar punctures, cerebrospinal-fluid DHT, tetrahydroprogesterone and isopregnanolone were lower, testosterone and estradiol higher (PFS-004). In seven men against twelve surgical controls, DHT, progesterone and its 5α-reduced metabolites were lower, testosterone, pregnenolone and 3α-androstanediol higher, with plasma DHT unchanged; results appear only as bar charts, and a 2023 correction has not yet been checked (PFS-005). In 14 of 16 men against 25 surgical controls, pregnenolone, progesterone, DHT and estradiol were lower, DHEA, testosterone and 3α-androstanediol higher (DISC-013)."
+    },
+    {
+      "lead": "Androgen receptors in tissue",
+      "text": "Foreskin from eight men with persistent effects more than six months after stopping finasteride had more androgen-receptor-stained nuclei than foreskin from 11 never-exposed men having circumcision; receptor function was not measured (LIT-005). Penile skin from 26 men with PFS, a median six years after stopping, showed higher androgen-receptor gene expression, fold change 1.38, than foreskin from 26 circumcision controls, a different site, while two serum markers of receptor activity did not differ (SIDE-009). In male rats, cortical androgen-receptor upregulation was present after 20 days of finasteride and a month later (RES-003)."
+    },
+    {
+      "lead": "Where androgens were lowered for prostate cancer",
+      "text": "Studies of androgen deprivation for prostate cancer are background, not evidence about the syndromes (MECH-026): the men are in a different hormonal state from men with persistent symptoms after finasteride, whose testosterone and DHT were normal (MECH-028, SIDE-010). An exploratory imaging study found smaller frontal gray-matter volumes in treated men than in matched controls (MECH-028). In a claims cohort of about 210,000 men, testosterone-lowering GnRH-agonist monotherapy went with higher neurodegenerative-disease risk, relative risk about 1.47; the authors propose that disrupted GnRH signaling in the brain, as well as low testosterone, helps drive the risk (MECH-026). Of 95 men finishing nine months of adjuvant deprivation, 36.9% had normal testosterone three months after stopping and 92.6% at 12 months (MECH-029)."
+    },
+    {
+      "lead": "Androgens and the stress axis",
+      "text": "In adult male rats, two days of finasteride exaggerated the pituitary-adrenal stress response to restraint, measured as ACTH and corticosterone, as gonad removal did; finasteride in the brain's third ventricle abolished testosterone's calming effect, while DHT still suppressed the response, which the authors read as testosterone needing conversion to DHT inside the brain (MECH-025). A review of human data describes allopregnanolone and THDOC, two stress-responsive steroids, as a brake on this axis (MECH-010), and in rats finasteride blocks THDOC formation from deoxycorticosterone, acutely and on the drug (DISC-020)."
+    },
+    {
+      "lead": "Another route to DHT",
+      "text": "A review shows that human enzymes can carry out every step of a backdoor route to DHT that never passes through testosterone (CUR-005), and prostate cells make much of their DHT from 3α-androstanediol (CUR-004), the metabolite raised in patients' spinal fluid while DHT was lower (DISC-013), though no record examines the route in the syndromes (CUR-004)."
+    }
+  ],
+  "disagrees": [
+    {
+      "lead": "What blood cannot show",
+      "text": "Compartments disagree: DHT was lower in patients' cerebrospinal fluid but unchanged in their plasma (PFS-005), while in male rats a day after 20 days of finasteride it was lower in plasma but not in cerebrospinal fluid or brain, and plasma DHT was still lower a month later (RES-003). In healthy women, androgen glucuronides, the end-products of androgen elimination, did not correlate with serum testosterone, which the authors read as serum missing androgen made in tissues (MECH-050)."
+    },
+    {
+      "lead": "Few patients, one group, no baselines",
+      "text": "The patient steroid data rest on three small case-control studies by one group, in 3, 7 and 14 men, which may share patients and had no measurements from before exposure (PFS-004, PFS-005, DISC-013). Several differences compare detectable with undetectable levels (PFS-004, PFS-005). Directions differ: cerebrospinal-fluid pregnenolone was higher in 2015 and lower in 2017, estradiol higher in 2013 and lower in 2017. The 2017 authors asked for symptom-free former users as comparators; the study including them found normal serum testosterone and DHT, a different compartment from spinal fluid (DISC-013, SIDE-010)."
+    },
+    {
+      "lead": "Receptor change, read several ways",
+      "text": "What raised receptor levels mean is unsettled: the foreskin study could not measure receptor function, and its authors read the rise as possible compensation for prior androgen deprivation (LIT-005). In prostate-cancer cells, prolonged bicalutamide, a receptor blocker, brought overexpression with hypersensitivity to low androgens, and nothing was measured after withdrawal (DISC-004). In rat prostate, recovery after dutasteride depended on treatment length and how it was stopped: after eight weeks, abrupt discontinuation brought higher receptor expression and a marked rebound, tapering preserved the atrophy; this comparison is a rat study design, not advice for people (CUR-029)."
+    },
+    {
+      "lead": "Counter-evidence from a trial",
+      "text": "In the Prostate Cancer Prevention Trial, over a median 20 years, none of 22 proposed post-finasteride conditions was significantly more common in men randomized to finasteride; the men were 55 or older on the prostate dose, and outcomes were billing-coded diagnoses (CUR-010)."
+    }
+  ],
+  "powers": {
+    "lead": "Dr Powers on androgen signaling",
+    "text": "Citing a published report of raised androgen-receptor expression in PFS tissue, Dr Powers proposes that weak metabolites accumulating inside cells crowd potent androgens off the receptor and that, in extreme cases, the body epigenetically silences receptor expression, leaving androgen signaling near zero despite normal blood levels (PGL-AR). In a later post he concedes that the crowd-out idea is weak and hard to test: androsterone and 3α-androstanediol are not known androgen-receptor antagonists; his revised model does not mention silencing (DWP-010). No record tests crowding or silencing, and long-term bicalutamide in prostate-cancer cells brought receptor overexpression with hypersensitivity, not silenced signaling (DISC-004)."
+  },
+  "untested": [
+    "No published study in the library reports cortisol, ACTH or a stress challenge in people with PFS, PSSD or post-retinoid syndrome; that evidence is from rats and reviews (MECH-025).",
+    "No study in the library reports luteinizing hormone or FSH in men with persistent symptoms after an SSRI; after finasteride they have been measured (SIDE-010, LIT-006).",
+    "No record measures androsterone, a testosterone metabolite, in the brain or spinal fluid of anyone with these syndromes, or androgens inside cells (MECH-048).",
+    "No record examines the backdoor route to DHT in these syndromes (CUR-005)."
+  ],
+  "tests": [
+    "Men starting finasteride for hair loss, with testosterone, DHT, estradiol, luteinizing hormone and FSH measured before, during and after, comparing those who do and do not report persisting symptoms (SIDE-010).",
+    "A stress-hormone challenge in men with persistent symptoms after finasteride, symptom-free former users and never-users, measuring cortisol, ACTH and neuroactive steroids in the same samples (MECH-025).",
+    "Replication of the spinal-fluid steroid panel by an independent laboratory, with better-matched controls and values reported against the detection limit (DISC-013).",
+    "Androgen-receptor protein and function, not expression alone, in genital skin from matched sites in symptomatic men, symptom-free former users and never-users (SIDE-009)."
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "slug": "pharmacogenomics",
+  "title": "Pharmacogenomics and genetic markers",
+  "description": "Whether inherited differences in drug handling, hormone receptors or steroid clearance explain why only some people develop lasting symptoms.",
+  "system": "pharmacogenomics / genetic markers",
+  "written_for": "1.37",
+  "written": "2026-10-18",
+  "status": "reviewed",
+  "in_short": [
+    "Extreme androgen-receptor repeat lengths were more common in men with persistent symptoms after finasteride than in controls, but also in untreated men with hair loss, and a three-group study found no explanatory androgen-receptor or SRD5A variants (SIDE-011, SIDE-010).",
+    "No published study in the library has genotyped people with PSSD, and studies of sexual side effects during SSRI treatment disagree with one another (MECH-037, MECH-036, MECH-035).",
+    "Variants that shift finasteride levels (CYP3A4/5) or androgen excretion (UGT2B17, SULT2A1) are reported, but no published study in the library has tested them in people with these syndromes (MECH-043, MECH-038, MECH-019).",
+    "Dr Powers reports recurring variants in his patients' genomes, unpublished, and proposes that slow CYP2D6 metabolism amplifies SSRI exposure; one study found no CYP2D6 association with sexual side effects during escitalopram treatment (YT-iWFDBRTgT3g, PRH-1508, MECH-035)."
+  ],
+  "shows": [
+    {
+      "lead": "In men after finasteride",
+      "text": "The androgen-receptor gene has two variable-length repeats, CAG and GGN. Extreme-length alleles of both were markedly more common in 69 men with persistent side effects after finasteride for hair loss, and in 91 untreated men with hair loss, than in 76 untreated men without it, with an odds ratio of about 5.9 for the finasteride group (SIDE-011). In 66 men with PFS, a later study by overlapping authors linked short or long repeats to how often particular symptoms occurred (PFS-007). A three-group study of 25 symptomatic and 13 symptom-free former users and 18 never-users found no explanatory androgen-receptor or SRD5A (5α-reductase) variants (SIDE-010)."
+    },
+    {
+      "lead": "Repeat length outside these syndromes",
+      "text": "Outside post-drug syndromes, one group linked longer CAG tracts to worse erectile and orgasmic function among 85 male outpatients, only in those with normal testicular function (MECH-042), and to smaller sexual-function gains on testosterone therapy in 73 men with late-onset hypogonadism (LIT-060). A companion review says longer tracts blunt receptor action across many tissues (LIT-061)."
+    },
+    {
+      "lead": "SSRI side effects during treatment",
+      "text": "A 2022 review lists genetic predisposition among presumed PSSD risk factors, though the library's SSRI genetic studies concern side effects during treatment, not after stopping (PSSD-002, MECH-036). In 424 Dutch patients with major depression, two variants of ABCB1, the gene for a pump controlling how much SSRI reaches the brain, predicted the number of side effects, especially serotonergic ones such as sexual effects (MECH-036). In 81 depressed outpatients on SSRIs, the HTR2A -1438 G/G genotype (serotonin 2A receptor) was associated with sexual dysfunction, significantly so in women but not in men (MECH-037). In 178 depressed adults on escitalopram, some also given aripiprazole, intermediate and poor (slower) CYP2C19 metabolizers improved in sexual arousal in weeks 8 to 16, while normal metabolizers declined; the authors call for replication (MECH-035)."
+    },
+    {
+      "lead": "Genes that process the drugs",
+      "text": "The Prostate Cancer Prevention Trial gave men aged 55 or over either placebo or finasteride at the prostate dose, not the 1 mg hair-loss dose (CUR-010). In a study nested in it, five variants in CYP3A4 and CYP3A5, drug-processing liver enzymes, were associated with serum finasteride levels: variant alleles at three raised mean levels more than 1.5-fold, and two copies of either of the other two halved them; no SRD5A2 or SRD5A3 variant was associated (MECH-043). CYP2D6, which breaks down many antidepressants, acts on progesterone and allopregnanolone in brain, a review reports (DISC-023), and human CYP2D6 altered serotonin and anxiety-related behavior in transgenic mice (DISC-005)."
+    },
+    {
+      "lead": "Steroid-clearance genes outside these syndromes",
+      "text": "UGT2B15 and UGT2B17 turn DHT (a stronger form of testosterone) and its metabolites into inactive, easily excreted glucuronides, and knocking both down in an androgen-dependent cell line markedly altered androgen inactivation, in a study and a review by overlapping authors (MECH-049, DISC-003). UGT2B17 is deleted in some people: the deletion had been linked to low or undetectable urinary testosterone, and men with two copies had about 30 times more of its messenger RNA in prostate tissue than men with one (MECH-038). In healthy volunteers given testosterone, carriers of fewer copies of the sulfation gene SULT2A1 excreted less sulfated androgen (MECH-019), and a genome-wide meta-analysis tied SULT2A1 to serum DHEA sulfate (MECH-040)."
+    }
+  ],
+  "disagrees": [
+    {
+      "lead": "Androgen-receptor findings point different ways",
+      "text": "The extreme androgen-receptor alleles were also more common in untreated men with hair loss, and the authors concluded that the repeats predict hair loss and may flag susceptibility to persistent side effects (SIDE-011). The three-group study's groups differed in race and education and were recruited by different routes (SIDE-010). The two studies finding links share authors (SIDE-011, PFS-007). Outside these syndromes, longer CAG tracts went with worse sexual function while a GGC repeat did not (MECH-042); this is context for the CAG findings, not the GGN ones (PFS-007)."
+    },
+    {
+      "lead": "SSRI results conflict and stop at treatment",
+      "text": "ABCB1 variants predicted serotonergic side effects, sexual ones included, in the Dutch cohort (MECH-036) but showed no association with sexual function in the Canadian escitalopram study, whose CYP2C19 result ran opposite to its authors' initial hypothesis (MECH-035). For HTR2A, a follow-up suggested oral contraceptive use may mediate the association, and the library's summary reports no result for the G-protein β3 (GNB3) variant also named in the title (MECH-037)."
+    },
+    {
+      "lead": "The UGT2B17 idea meets mixed evidence",
+      "text": "Dr Powers proposed defective UGT2B17 as the core defect of one PFS phenotype with normal serum testosterone (DWP-003), and has since recast such deletions as a risk modifier (PRH-0117). The published findings cut both ways: the deletion has been linked to low or undetectable urinary testosterone (MECH-038), which fits his urine pattern, but young Chinese men lacking the gene had higher serum testosterone and estradiol, whereas his phenotype has normal serum testosterone (DISC-026), and a conference abstract reports compensatory routes in deletion carriers' livers (MECH-014)."
+    },
+    {
+      "lead": "Mixed evidence that exposure matters",
+      "text": "Whether more drug means more risk, which bears on the finasteride-level variants and Dr Powers' exposure amplification (MECH-043, PRH-1508), is unsettled. Persistent erectile dysfunction was more common after longer 5α-reductase-inhibitor use in records of 11,909 men (LIT-002), and more cumulative finasteride exposure went with worse scores in 129 men with symptoms after stopping, though exposure tracked age and no estimates were reported (LIT-006). But duration of use did not predict recovery in 54 men re-examined about 14 months later (PFS-010), and in a survey that identified 183 possible PSSD cases, dose did not predict current severity (PSSD-006). At population level, Medicare claims from the Prostate Cancer Prevention Trial, over a median 20 years from enrollment and partly while men were still on the drug, showed no significant excess of 22 proposed post-finasteride conditions, erectile dysfunction included, in men aged 55 or over on the prostate dose (CUR-010)."
+    }
+  ],
+  "powers": {
+    "lead": "Dr Powers' genome observations",
+    "text": "From his PFS patients' genomes, Dr Powers proposes that their androgen-metabolism genes were impaired before finasteride, most often for glucuronidation, and reports recurring variants in epigenetic regulators ARID1A, CHD8 and HDAC10; he calls the theory unpublished (YT-iWFDBRTgT3g). His current model treats many gene variants as risk modifiers, not guarantees (DWP-010). In his PSSD patients he reports slow COMT (dopamine breakdown) seems common, and rare variants in dopamine beta-hydroxylase (DBH) predicted to be damaging recur often enough that he suspects DBH is one of several susceptibility factors (PRH-0745). He also proposes that in slow CYP2D6 metabolizers a standard SSRI dose can feel like three to four times the dose, a risk variable, not the answer (PRH-1508); an escitalopram study found no CYP2D6 association with sexual side effects during treatment (MECH-035). Published genetic studies of men with PFS examined only androgen-receptor and SRD5A genes, so none tests his genome findings (SIDE-011, SIDE-010)."
+  },
+  "untested": [
+    "No published study in the library has genotyped people with PSSD or post-retinoid syndrome (MECH-037).",
+    "No published study in the library has searched affected people's genomes for variants; those that genotyped them examined candidate genes (MECH-040).",
+    "No published study in the library tests UGT2B17, SULT2A1, CYP3A4/5, CYP2D6, DBH, COMT or MTHFR in people with these syndromes, or relates finasteride levels to persistent symptoms (MECH-043, MECH-041, PRH-0745).",
+    "No record in the library is a prospective test of the androgen-receptor alleles in men before they start finasteride (SIDE-011), or a family or heritability study of PFS (PRH-0915)."
+  ],
+  "tests": [
+    "A prospective observational cohort of men starting finasteride for hair loss, genotyped at baseline for androgen-receptor repeats, CYP3A4/5, UGT2B17 and SULT2A1 and followed with serum and urinary steroid metabolites, comparing those who do and do not develop persisting symptoms (SIDE-011, MECH-043, MECH-038, MECH-019).",
+    "Whole-genome sequencing of men with persistent symptoms, symptom-free former users and never-users, with genes fixed in advance, and counting disrupted androgen-metabolism genes per person, the comparison Dr Powers proposes between PFS patients and healthy finasteride users (SIDE-010, PRH-0124).",
+    "People with PSSD genotyped for CYP2C19, CYP2D6, ABCB1 and HTR2A, against people who took the same SSRIs without lasting effects (MECH-035, MECH-036, MECH-037)."
+  ]
+}

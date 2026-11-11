@@ -1,0 +1,68 @@
+{
+  "slug": "genital-anesthesia",
+  "title": "Genital anesthesia and sensory symptoms",
+  "description": "Genital numbness and other sensory symptoms after SSRIs, finasteride and isotretinoin: what is reported, how it was measured, and what remains open.",
+  "written_for": "1.37",
+  "written": "2026-10-18",
+  "status": "reviewed",
+  "in_short": [
+    "In selected samples, persistent reduced genital sensation is among the commonest complaints: 87% of 79 men after finasteride and, in a conference abstract, 81.6% of 380 people after antidepressants. A 300-case series, mostly antidepressant cases, includes it after all three drug classes (LIT-004, CUR-031, CROSS-001).",
+    "How often it occurs is unknown: 13.2% of past antidepressant users in a youth survey reported persistent genital numbness, while a records study of persisting, treated erectile dysfunction found 4 of 866 antidepressant users, whether or not they stopped (CUR-007, LIT-023, LIT-025).",
+    "Studies disagree on the site: sensory testing, corneal microscopy and pudendal potentials (which the authors linked to erectile dysfunction) were reported as consistent with, or suggesting, peripheral involvement; a uro-neurology unit found large-fiber tests normal in eight of nine PSSD patients and proposed a central cause, without testing small fibers (LIT-033, LIT-040, DISC-013, CUR-003).",
+    "Consensus criteria count reduced genital sensation as a core feature, and the UK will name PSSD in the leaflets of ten antidepressants. Proposed mechanisms remain hypotheses (CROSS-002, CUR-006, LIT-026, CUR-076)."
+  ],
+  "shows": [
+    {
+      "lead": "What people describe",
+      "text": "Case reports in 2006 and 2008 describe genital anesthesia persisting for years after SSRIs or SNRIs were stopped (PSSD-004) and for six years after sertraline (CUR-069). In a 2015 case report, a man's skin went largely numb within a week of starting paroxetine; his genitals were still numb about two years after he stopped (LIT-026). In 300 cases reported to a drug-safety website, 221 after antidepressants, 54 after isotretinoin and 25 after finasteride-type drugs, genital anesthesia appeared in all three groups (CROSS-001). Among 79 men with persistent effects, a mean 44 months after stopping finasteride, 87% reported lost penile sensitivity and 79% a colder penis (LIT-004); in an online survey abstract of 380 people with persistent effects, 81.6% reported reduced genital sensation after stopping an antidepressant (CUR-031)."
+    },
+    {
+      "lead": "How often it is reported",
+      "text": "In a survey of sexual and gender minority youth aged 15 to 29, persistent genital hypoesthesia (reduced sensation) was self-reported by 13.2% of 707 past antidepressant users and 1 of 102 past users of other medicines, an adjusted odds ratio of 14.2 (CUR-007). A records study counting only erectile dysfunction treated from within a year of a serotonergic antidepressant until at least a month after stopping it found 4 of 866 healthy Israeli men aged 21 to 49 who had used one, whether or not they stopped (LIT-023)."
+    },
+    {
+      "lead": "On examination and nerve testing",
+      "text": "At Queen Square's uro-neurology unit, 9 of 55 patients referred with genital sensory loss met the PSSD criteria; all nine had an abnormal sensory examination, yet pelvic evoked potentials, recordings of nerve signals reaching the brain, were normal in eight (CUR-003, a conference abstract). A San Diego practice's chart review of 43 men with PSSD reported vibration, warmth and cold testing consistent with a peripheral component; its later abstract, on 43 men who may overlap, reports it abnormal in 89% (LIT-033, CUR-068). Pudendal evoked potentials, a test of the nerve that carries feeling from the penis, were abnormal in 4 of 16 men with persistent symptoms after finasteride; the authors linked this to severe erectile dysfunction and took it to suggest peripheral neuropathy (DISC-013). Corneal confocal microscopy, an eye scan of small nerve fibers, was attempted in three men with post-drug sexual dysfunction and readable in two, both of whom showed reduced nerve fiber density with inflammation, against no stated normal range (LIT-040)."
+    },
+    {
+      "lead": "Criteria and how regulators named it",
+      "text": "The 2022 consensus criteria, drafted from two case collections, list reduced genital and orgasmic sensation among core features of PSSD, post-finasteride syndrome and post-retinoid sexual dysfunction (CROSS-002, CROSS-003, CROSS-001). The EU's 2019 review of reports included genital hypoesthesia among its PSSD terms but rated no case above possible (CUR-049). In 2026 the UK regulator announced that the leaflets of ten antidepressants will name PSSD, having weighed the youth survey (CUR-006, CUR-007)."
+    },
+    {
+      "lead": "Proposed mechanisms",
+      "text": "Waldinger and colleagues propose that SSRIs may disturb TRP ion channels, nerve-ending sensors for touch, temperature and chemicals (LIT-026). Healy, LaPalme and Levin propose that SSRIs shift cells' resting membrane voltage, which self-sustaining bioelectric circuits then hold; their only data are flatworms given fluoxetine for three days that stayed depolarized a week after washout, with no measure of sensation (CUR-076). The Queen Square authors propose a central disturbance in how erogenous sensation is processed (CUR-003)."
+    }
+  ],
+  "disagrees": [
+    {
+      "lead": "Peripheral nerves or the brain",
+      "text": "The Queen Square authors read normal evoked potentials as excluding significant large-fiber neuropathy, against sensory testing consistent with a peripheral component, corneal microscopy showing neuropathy, and pudendal potentials, which the finasteride study's authors linked to erectile dysfunction (CUR-003, LIT-033, LIT-040, DISC-013). The library's notes add that the two may fit, as those potentials assess large fibers and central pathways and small fibers went untested (CUR-003). The San Diego practice that reported sensory testing consistent with a peripheral component hypothesizes, in a 2025 abstract, that altered central neurotransmitter activity underlies changes in sensation (LIT-033, CUR-068). Foreskin nerve density, a different measure from corneal microscopy, did not differ between eight men with persistent symptoms after finasteride and 11 unexposed controls (LIT-005)."
+    },
+    {
+      "lead": "Drug effect or other causes",
+      "text": "In a 2006 newsletter commentary, not a study, Bahrick disputed a psychodynamic reading of a sertraline case (CUR-069), proposing genital anesthesia as a marker of a drug effect because it is not a known feature of any psychiatric condition (CUR-072). A 532-person survey found it independent of depression and anxiety (PSSD-006), but a 2023 systematic review found cause unestablished, noting that persisting dysfunction may be linked to relapse of depression or anxiety (LIT-025). At Queen Square, rates of abnormal examination did not differ significantly between PSSD and other causes; the authors suggest ejaculatory dysfunction, reported by 75% of PSSD patients and 20% of the others, as a distinguishing marker (CUR-003). A 2026 framework holds that no single symptom is diagnostic (CUR-012)."
+    },
+    {
+      "lead": "Counter-evidence on finasteride and retinoids",
+      "text": "Twenty years of randomized-trial follow-up in men aged 55 and over on the prostate dose found no significant difference in any of 22 proposed post-finasteride conditions, as coded in Medicare claims; the library's record does not say whether numbness was included (CUR-010). For retinoids, one review calls the evidence for a link with sexual dysfunction conflicting, noting that most studies described effects during treatment and persistence after stopping was not assessed separately (LIT-037); another calls it very weak (LIT-038)."
+    },
+    {
+      "lead": "Small samples and questionnaire gaps",
+      "text": "Most measured series are small and mostly male: three men with corneal microscopy, nine patients in an abstract, and 16 men whose nerve tests had no comparison group (LIT-040, CUR-003, DISC-013). The youth survey counted one self-reported symptom, not the full criteria, and its comparison group held a single case, giving a confidence interval of 2.9 to 257 (CUR-007, CROSS-002). A 2019 review calls for validated instruments covering genital anesthesia (CUR-059). In an unreviewed thesis, 117 former SSRI or SNRI users scored higher than 123 never-users on a three-item score written for the study, including genital numbness, after adjusting for gender and depression, while a standard questionnaire's frequency, desire, arousal and orgasm scores did not differ (CUR-065)."
+    }
+  ],
+  "powers": {
+    "lead": "Dr Powers' integration and gradient ideas",
+    "text": "Dr Powers proposes that the sensory problem may be a failure of erogenous integration rather than lost feeling: sensation is felt but not registered as sexually pleasurable. As a localizing test he suggests a patient whose unusual pre-existing erogenous zone vanished with the syndrome (PRH-1519). For numbness and anhedonia he points to his cyclic-AMP concentration-gradient theory (PRH-1523), and elsewhere suggests that cAMP/cGMP gradients may matter for some patients, particularly PSSD or genital-numbness and erectile-dysfunction presentations (PRH-1363). The library's notes find his closest published support in the Queen Square central reading, though all nine patients there had abnormal examinations; sensory testing and corneal microscopy point instead to a peripheral component (PRH-1519, CUR-003, LIT-033, LIT-040). No record has tried his test or studied cAMP gradients (PRH-1519, PRH-1523)."
+  },
+  "untested": [
+    "No record in the library pairs a small-fiber measure with pelvic evoked potentials in the same patients (CUR-003, LIT-040).",
+    "No record tests genital sensation objectively before a drug is started and again after it is stopped; the tested series include one woman (CUR-003).",
+    "No record tests the TRP-channel idea of Waldinger and colleagues or the bioelectric idea of Healy, LaPalme and Levin in human or other mammalian tissue (LIT-026, CUR-076)."
+  ],
+  "tests": [
+    "Blinded corneal microscopy, thermal thresholds and pelvic evoked potentials in people with persistent genital numbness after each drug class, people numb from other causes, symptom-free former users and never-users (CUR-003, LIT-040, SIDE-010).",
+    "A prospective cohort measuring genital sensation before an SSRI, finasteride or isotretinoin is started and after it is stopped (CUR-012).",
+    "Brain imaging during genital touch in patients and matched controls who also have peripheral nerve tests (CUR-003)."
+  ]
+}

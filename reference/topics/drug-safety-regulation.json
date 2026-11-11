@@ -1,0 +1,62 @@
+{
+  "slug": "drug-safety-regulation",
+  "title": "Drug safety signals and regulation",
+  "description": "How reports of lasting effects of finasteride, SSRIs and isotretinoin were assessed and acted on: case reports, safety signals, warnings and counter-evidence.",
+  "system": "drug safety history",
+  "written_for": "1.37",
+  "written": "2026-10-18",
+  "status": "reviewed",
+  "support": true,
+  "in_short": [
+    "Case reports and series described sexual problems persisting after SSRI antidepressants from 2006, after finasteride from 2011 and after isotretinoin in a 2018 series (CUR-069, PFS-009, CROSS-001); that self-selected series cannot show frequency or cause (CROSS-001).",
+    "US adverse-event data show sexual and psychiatric reactions to finasteride reported disproportionately often, and WHO data the sexual signal, both concentrated in young hair-loss users; signals cannot show incidence or cause, and one analysis suggests a nocebo effect (LIT-017, LIT-077, CUR-016, CUR-015).",
+    "Regulators warned in stages: US label changes from 2011, though in 2022 causality was judged unestablished; EU wording for SSRIs and SNRIs in 2019; EU confirmation in 2025 of suicidal ideation with finasteride, frequency unknown; and UK advice in 2026 that finasteride's sexual dysfunction may persist after stopping (LIT-072, CUR-048, LIT-066, LIT-067).",
+    "One meta-analysis found no significant association with suicide or neuropsychiatric events (PFS-012). Another, of depression, drew mostly on older men with an enlarged prostate; its authors judged the risk likely minimal (CUR-026). Twenty years of follow-up of older men on the prostate dose found no significant excess of 22 proposed post-finasteride conditions (CUR-010)."
+  ],
+  "shows": [
+    {
+      "lead": "Case reports and case series",
+      "text": "A 2006 case report described genital anesthesia (numbness) that began on the SSRI antidepressant sertraline and persisted six years after the man stopped it; 2008 case reports described sexual dysfunction lasting years after SSRIs or the related serotonin-norepinephrine reuptake inhibitors (SNRIs) were stopped (CUR-069, PSSD-004). A 2011 study interviewed 71 men who developed sexual side effects on finasteride for hair loss; effects persisted an average of 40 months after stopping (PFS-009). A 2018 series of 300 self-selected reports to its authors' drug-safety website found similar lasting symptoms after antidepressants, finasteride-type drugs and isotretinoin; with no comparison group it cannot show frequency or cause (CROSS-001)."
+    },
+    {
+      "lead": "Signals in adverse-event reports",
+      "text": "In US reports on men aged 18 to 45 taking finasteride 1 mg, persistent sexual dysfunction and suicidal ideation were reported unusually often, and nearly 90% of the 39 suicidal-ideation reports also described sexual dysfunction (LIT-017). In WHO data, finasteride's sexual-dysfunction signal was concentrated in young hair-loss patients (LIT-077); updated US data showed depression and suicidality reported more often with finasteride than dutasteride, especially in young men on the hair-loss dose (CUR-016). A French pharmacovigilance series selected 40 reports of depression or suicidality in men on the hair-loss dose with no sexual dysfunction reported; in the ten unresolved cases, symptoms had lasted a median 20.2 months after stopping (CUR-018). Isotretinoin gave US signals for erectile dysfunction, reduced libido and genital anesthesia; such reports do not separate effects during treatment from lasting ones (LIT-039)."
+    },
+    {
+      "lead": "Label changes, 2008 to 2022",
+      "text": "By one opinion article's account, Sweden and the UK first warned of persistent finasteride effects in 2008 and 2009 (LIT-003). The US label added depression in 2011 and erectile dysfunction continuing after discontinuation in 2011–2012 (LIT-072). In 2019 the EU's drug-safety committee recommended that six SSRIs and four SNRIs warn of long-lasting sexual dysfunction reported after stopping (CUR-048); Health Canada followed in 2021, committing to label advice on long-lasting symptoms though it could neither confirm nor rule out a causal link (LIT-071). In 2022 France required a red warning on every finasteride 1 mg pack that sexual or psychiatric effects may occur during and after treatment (LIT-069). That year the US added suicidal ideation and behavior to the 1 mg label but judged causation of persistent sexual problems, depression or suicide unestablished (LIT-072)."
+    },
+    {
+      "lead": "The 2025 EU review and 2026 measures",
+      "text": "France's regulator then triggered an EU-wide safety review of finasteride and dutasteride, which weighed 325 reports of suicidal ideation against roughly 270 million and 82 million patient-years of use and found sexual and psychiatric effects persisting together despite withdrawal in 187 of those reports (LIT-069, LIT-065). In 2025 the EU confirmed suicidal ideation as a finasteride side effect of unknown frequency, noting that sexual problems may contribute to mood changes (LIT-066). In 2026 the UK regulator said finasteride is associated with depression and suicidal ideation, and with sexual dysfunction that may persist after stopping (LIT-067), and moved to name post-SSRI sexual dysfunction (PSSD) in ten antidepressants' leaflets (CUR-006). By one 2026 news count, seven regulators have warned since 2019 that antidepressants' sexual effects can persist, while the US has no equivalent label language (LIT-076)."
+    }
+  ],
+  "disagrees": [
+    {
+      "lead": "Limits of reports and routine surveillance",
+      "text": "Spontaneous reports suffer under-reporting and reporting bias, so they cannot give incidence or show cause (CUR-016, LIT-039). An opinion article argues routine surveillance failed: after a 2009 risk plan identified 278 unrecovered cases of erectile dysfunction, the manufacturer planned routine pharmacovigilance rather than further prospective studies (LIT-003). A US analysis found finasteride 1 mg drew more sexual reports than dutasteride, a more potent inhibitor of the same enzyme, with reports for both increasing from 2012, when a patient foundation began raising awareness; its authors suggest a nocebo effect, symptoms arising from expectation (CUR-015). The WHO study's authors judged a similar pattern unlikely to be fully explained by bias (LIT-077). The EU's reviewers of antidepressant reports behind the 2019 wording rated none above possibly related, finding drug and illness hard to separate, yet judged the share of reports from patients to warrant some mitigation (CUR-049)."
+    },
+    {
+      "lead": "Depression and suicidality on both sides",
+      "text": "Brezis's narrative review argues that finasteride can cause depression and suicidality even after stopping, citing four report analyses and four health-record studies finding a raised risk (CUR-002). Two 2026 meta-analyses point the other way: one found no significant association with suicide or neuropsychiatric events (PFS-012); the other, drawing mostly on older men with an enlarged prostate and measuring depression diagnoses rather than persistence after stopping, found risk raised against non-users of any drug but slightly lower against alpha-blocker users, and its authors judged the risk likely minimal (CUR-026). A French cohort of men aged 50 or over found no significant overall excess of suicide or self-harm hospitalization on finasteride against dutasteride, though self-harm with intensive care admission was more frequent, as were several outcomes in men with past mood disorders, each on few events; follow-up ended at stopping (LIT-010)."
+    },
+    {
+      "lead": "Trials, reviews and a long follow-up",
+      "text": "The Prostate Cancer Prevention Trial randomized 18,880 men aged 55 or over to finasteride or placebo for seven years. Over a median 20 years from enrollment, Medicare claims for 14,239 of them showed no significant difference between the arms in any of 22 proposed post-finasteride conditions, depression included, which the authors read as no support for the syndrome. But outcomes were billing codes, the men took the prostate dose, and 68% of the finasteride arm were still on it when claims began (CUR-010). A systematic review found sexual effects in placebo-controlled finasteride 1 mg trials uncommon and mostly reversible, though the trials were not built to measure persistence (CUR-014)."
+    },
+    {
+      "lead": "Isotretinoin: thin evidence, retained monitoring",
+      "text": "For isotretinoin, a systematic review judged the evidence conflicting and of low quality (LIT-037), but in its 2026 revision the UK regulator kept sexual-function monitoring, which dermatologists had asked to drop, because such effects have been reported to persist (CUR-033)."
+    }
+  ],
+  "untested": [
+    "No prospective study in the library follows young users from the start of treatment to measure how often sexual symptoms persist after stopping. Frequency figures come from records studies of treated erectile dysfunction (1.4% of 11,909 men exposed to finasteride or dutasteride, LIT-002; 4 of 866 antidepressant users, LIT-023) and a self-reported youth survey of genital numbness (13.2% of past antidepressant users, CUR-007).",
+    "The library holds no follow-up that compares mood or suicidality in young men with controls from the start of hair-loss-dose finasteride to years after stopping. Two small comparisons of men with persistent symptoms found higher depression scores than comparison groups but cannot show cause (LIT-009, SIDE-010); the large risk studies are in older men (LIT-010, CUR-010).",
+    "No study in the library compares people who have stopped isotretinoin with non-users for lasting sexual problems. The nearest, a Danish preprint, compared reproductive hormones and semen, not sexual function (LIT-041); the systematic review, which did not assess persistence separately, reported a health-records comparison with no difference (LIT-037)."
+  ],
+  "tests": [
+    "Prospective cohorts of young people starting finasteride, an SSRI or isotretinoin, with validated sexual-function and mood questionnaires before, during and for years after stopping, against people with the same condition not taking the drug (CUR-014, CUR-026).",
+    "A study of the kind the UK regulator has proposed, of how often PSSD occurs and lasts in primary-care records, using a case definition broader than treated erectile dysfunction (CUR-006, LIT-023).",
+    "Follow-up of young participants in past placebo-controlled hair-loss trials, comparing the two arms years later, as the prostate trial's claims follow-up did for older men, though that was not purely after stopping (CUR-010, CUR-014)."
+  ]
+}

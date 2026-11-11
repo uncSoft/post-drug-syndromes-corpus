@@ -1,0 +1,73 @@
+{
+  "slug": "steroid-clearance",
+  "title": "Steroid clearance and glucuronidation",
+  "description": "How androgens and neurosteroids are conjugated, exported into bile, undone by gut bacteria, and how those steps vary between people.",
+  "system": "steroid clearance / glucuronidation",
+  "written_for": "1.37",
+  "written": "2026-10-18",
+  "status": "reviewed",
+  "in_short": [
+    "UGT2B15 and UGT2B17 turn dihydrotestosterone, 3α-androstanediol and androsterone into inactive glucuronides (MECH-049, DISC-003). MRP2 and MRP3 are the dominant efflux transporters for four major testosterone glucuronides in human liver, intestine and kidney, and bile carries them to the gut (MECH-013).",
+    "Gut bacteria can undo that step: purified bacterial β-glucuronidases and human fecal extracts returned testosterone glucuronide to active testosterone, variably, in a conference abstract (MECH-014); the same reaction on estrogen conjugates is characterized at enzyme level (MECH-016).",
+    "The genetics points two ways: the UGT2B17 deletion has been linked to low or undetectable urinary testosterone (MECH-038), yet men lacking the gene had higher serum testosterone and estradiol (DISC-026); SULT2A1 copy number tracked sulfated androgen excretion (MECH-019).",
+    "No published study in the library has measured these enzymes, transporters or bacterial glucuronidases in affected people; the nearest blood data, in 26 men with persistent symptoms, found serum 3α-androstanediol glucuronide and 5α-androstanediol did not differ from controls (SIDE-009). The clearance account built on these steps is Dr Powers' own (DWP-003, PRH-1500)."
+  ],
+  "shows": [
+    {
+      "lead": "In men treated with finasteride",
+      "text": "In men treated with finasteride for a year for hair loss, urinary steroids shifted beyond the expected fall in DHT, with altered androgens and estrogens; they were not men with persisting symptoms (LIT-016). In men with persistent symptoms after finasteride, cerebrospinal fluid held less DHT and more 3α-androstanediol, a substrate of the glucuronidating enzymes, in two Milan studies of 7 and 14 men that may share patients (PFS-005, DISC-013, MECH-049). Neither had pre-treatment samples (PFS-005, DISC-013), and in the 7-man study some steroids were too low to measure in one group (PFS-005)."
+    },
+    {
+      "lead": "Where androgens are conjugated",
+      "text": "UGT2B15 and UGT2B17 attach glucuronic acid to dihydrotestosterone, 3α-androstanediol and androsterone, giving inactive, readily excreted conjugates. Knocking both down by RNA interference in an androgen-dependent prostate cell line markedly altered androgen inactivation (MECH-049); a review describes the pair as controlling local androgen availability in prostate tissue (DISC-003). Androsterone, one of those substrates, is itself a positive modulator of GABA-A receptors and circulates with glucuronide and sulfate conjugates (MECH-048). In 377 postmenopausal and 47 premenopausal healthy women, androsterone and 3α-androstanediol glucuronides, the obligatory end-products of androgen elimination, did not track serum testosterone (MECH-050)."
+    },
+    {
+      "lead": "Export from liver, intestine and kidney",
+      "text": "Recombinant transporter vesicles and quantitative proteomics identified MRP2 and MRP3 as the dominant efflux transporters for the four major testosterone glucuronides in human liver, intestine and kidney, MRP2 preferring the glucuronides of active androgens. Excreted into bile, the conjugates reach the gut lumen, which the authors read as making efflux a control point for androgen recirculation (MECH-013); a review argues that only liver and intestine contribute meaningfully to reabsorption (MECH-015)."
+    },
+    {
+      "lead": "Deconjugation in the gut",
+      "text": "Purified bacterial β-glucuronidases and human fecal extracts turned testosterone glucuronide back into active testosterone, readily but variably, in a conference abstract (MECH-014). The equivalent estrogen reaction is characterized at enzyme level: glucuronidases from human gut bacteria cleaved estrone and estradiol glucuronides to free estrogens able to re-enter circulation (MECH-016). Across populations, industrialization was associated with more bacterial β-glucuronidase genes in gut metagenomes, and the authors note that up to 65% of estradiol is excreted in bile against 10 to 15% of estrogens recovered in feces (MECH-017)."
+    },
+    {
+      "lead": "Human variation in these steps",
+      "text": "The UGT2B17 deletion has been linked to low or undetectable urinary testosterone. In a Swedish case-control study, insertion-allele homozygotes expressed roughly 30 times more UGT2B17 messenger RNA in prostate tissue than heterozygotes, and deletion carriers had raised prostate cancer risk (MECH-038). In healthy volunteers given testosterone, SULT2A1 copy number tracked urinary excretion of sulfated androgens (MECH-019)."
+    },
+    {
+      "lead": "A route to DHT without testosterone",
+      "text": "The backdoor pathway reaches DHT without passing through testosterone: a review shows that human enzymes can carry out every step of such a route and proposes that it explains how potent androgens are made in some normal and disease states where conventional pathways cannot account for them (CUR-005). Its last step, 17β-hydroxysteroid dehydrogenase 6 oxidizing 3α-androstanediol to DHT, is described in prostate cells (CUR-004). A human brain 3α-HSD isoform, as purified enzyme, instead made androsterone from 3α-androstanediol and barely oxidized it back to DHT (CUR-032)."
+    }
+  ],
+  "disagrees": [
+    {
+      "lead": "Which way the deletion points",
+      "text": "The deletion's reported consequences have opposite signs, one in urine and one in serum, and all of this genetics comes from people without these syndromes. A Swedish study cites an earlier link to low or undetectable urinary testosterone (MECH-038), while in 236 young Chinese men within a copy-number study those lacking UGT2B17 copies had significantly higher serum testosterone and estradiol (DISC-026). Liver proteomics in deletion carriers, in a conference abstract, found alternative routes upregulated toward inactive 5β metabolites whose glucuronidation depends on UGT2B7 (MECH-014)."
+    },
+    {
+      "lead": "No published study in affected people",
+      "text": "No published study in the library measures these enzymes, transporters or bacterial glucuronidases in people with PFS, PSSD or post-retinoid syndrome. The nearest blood measurements show no group difference: in 26 men with persistent symptoms, serum 3α-androstanediol glucuronide and 5α-androstanediol did not differ from those of circumcision controls who had never taken a 5α-reductase inhibitor, though androgen-receptor expression in the patients' penile skin was higher (SIDE-009); in a three-group study, 25 symptomatic and 13 asymptomatic former users against 18 never-users, testosterone and DHT were normal (SIDE-010)."
+    },
+    {
+      "lead": "Mostly estrogens, little in patients",
+      "text": "Much of the recirculation evidence is about estrogens: the enzyme work regenerated free estrone and estradiol (MECH-016), and speeding transit with senna lowered serum estrone in a randomized study of 40 healthy premenopausal volunteers (MECH-021). A 1990 review reports that D-glucaric acid's active metabolite inhibits β-glucuronidase, and that dietary glucarate lowered serum estradiol and androgen metabolites in animals (MECH-018). The only published patient-level gut data in the library is a pilot of 21 men with PFS against 10 healthy men from an earlier study, about 12 years older, with no link to clinical features, a comparison a review warns transit time can confound (DISC-008, SIDE-005)."
+    }
+  ],
+  "powers": {
+    "lead": "Dr Powers' clearance model",
+    "text": "In a December 2025 Reddit post, Dr Powers proposed that one PFS phenotype begins with a defective glucuronidation exit, UGT2B17 above all, marked by near-zero urinary testosterone with normal serum testosterone; finasteride then closes the remaining DHT exit, so androgens build up inside cells (DWP-003, PGL-UGT2B17). In 2026 comments he said a glucuronidation defect alone is insufficient, needing further defects in sulfation, hydroxylation, ABCC, LRP2 or SLCO (PRH-1500), and recast UGT deletions as risk modifiers, accepting that testosterone has other exits (PRH-0117). A September 2026 post lists UGT2B, SULT, ABCC and SLCO among many risk-modifying variants, argues that a measured level reflects clearance as well as synthesis, concedes that his idea of metabolites crowding androgens off their receptor is weak, and calls 3α-androstanediol glucuronide a marker of flux, not intracellular content (DWP-010). No published study here genotypes patients for these genes; deletion carriers' compensatory routes qualify a single blocked exit (MECH-014)."
+  },
+  "untested": [
+    "No published study in the library measures UGT2B17, UGT2B15, UGT2B7 or SULT2A1 genotype or activity in people with PFS, PSSD or post-retinoid syndrome (MECH-038, DISC-026).",
+    "No published study in the library measures the MRP or ABCC export transporters, the SLCO uptake transporters or biliary steroid excretion in affected people (MECH-013).",
+    "No record measures β-glucuronidase activity or bacterial glucuronidase genes in these patients' stool; the PFS gut pilot sequenced bacteria only (DISC-008, MECH-014).",
+    "No record examines the backdoor pathway, or the enzyme that turns 3α-androstanediol back into DHT, in any of these syndromes (CUR-004, CUR-005).",
+    "No study in the library tests Dr Powers' ideas that SULT2A1, UGT2B15 and UGT2B7 defects compound a glucuronidation defect (PGL-SULT2A1, PGL-UGT2B15-UGT2B7); that sulfation takes over when glucuronidation fails, an early theory he raised in March 2026 (PRH-1405); or, as he states without sources, that SSRIs inhibit some UGT enzymes, MRP exporters and SULT2A1 (PRH-1493)."
+  ],
+  "tests": [
+    "Men starting finasteride for hair loss, with serum and urinary androgen conjugates measured by mass spectrometry before, during and after, comparing those who do and do not report persisting symptoms (MECH-050).",
+    "Copy-number and sequence genotyping of the conjugation, export and uptake genes in symptomatic former users, symptom-free former users and never-users, sized for variants common in the general population (MECH-038, DISC-026).",
+    "Paired stool and blood from patients and matched controls: bacterial β-glucuronidase genes, measured activity against testosterone glucuronide, and gut transit time recorded (MECH-014, SIDE-005).",
+    "Human liver and intestinal preparations exposed to finasteride or an SSRI at concentrations reached in people, measuring androgen glucuronidation, sulfation and MRP-mediated export (MECH-013, MECH-019).",
+    "Repeated androgen-metabolite panels in the same patients against symptom measures over time, to test Dr Powers' case-note suggestion that extreme values may normalize with recovery in some patients (PRH-1521)."
+  ]
+}

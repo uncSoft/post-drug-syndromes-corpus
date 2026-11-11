@@ -1,0 +1,51 @@
+# How to cite the Post-Drug Syndromes Research Library.
+# GitHub reads this file for its "Cite this repository" box, and Zenodo reads it
+# when a release is deposited. Update `version`, `date-released` and the version
+# DOI under `identifiers` with every corpus release.
+cff-version: 1.2.0
+message: "If you use this library, please cite the release you used."
+title: "Post-Drug Syndromes Research Library: a curated corpus on PFS, PSSD and post-retinoid syndrome"
+abstract: >-
+  A curated, cross-linked research library on post-finasteride syndrome (PFS),
+  post-SSRI sexual dysfunction (PSSD) and post-retinoid syndrome. It holds
+  peer-reviewed papers, regulatory documents, attributed clinician commentary,
+  videos, community accounts, a glossary, a timeline, gene reference cards, a
+  mechanism matrix rated separately for each syndrome, and a list of open
+  questions. Every record carries a paraphrased summary, a verification status,
+  links to its source and notes on how other records in the library bear on it.
+  Releases are immutable and versioned. For research use only, not medical advice.
+type: dataset
+version: "1.55"
+date-released: "2026-11-11"
+license: CC-BY-4.0
+url: "https://postdrugsyndrome.com/research/"
+repository-code: "https://github.com/uncSoft/post-drug-syndromes-corpus"
+authors:
+  - family-names: Taverna
+    given-names: John
+    affiliation: "Independent researcher"
+    website: "https://jtaverna.org/"
+    orcid: "https://orcid.org/0009-0003-9893-6893"
+keywords:
+  - post-finasteride syndrome
+  - PFS
+  - post-SSRI sexual dysfunction
+  - PSSD
+  - post-retinoid sexual dysfunction
+  - PRSD
+  - finasteride
+  - isotretinoin
+  - selective serotonin reuptake inhibitors
+  - neurosteroids
+  - allopregnanolone
+  - androgen receptor
+  - pharmacogenomics
+  - pharmacovigilance
+  - iatrogenic illness
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24142337"
+    description: "Concept DOI: always resolves to the newest release"
+  - type: doi
+    value: "10.5281/zenodo.24144288"
+    description: "This release (v1.55)"
