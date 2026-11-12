@@ -12,22 +12,22 @@ releases those pages are built from.
 
 ## What a release contains
 
-`releases/v1.55/` is the current release. Each one holds five files:
+`releases/v1.56/` is the current release. Each one holds five files:
 
 | File | What it is |
 |---|---|
-| `PFS-PSSD-Corpus-v1.55.json` | every record, with full structure |
-| `PFS-PSSD-Corpus-v1.55.csv` | the same records, flattened, one row each |
-| `PFS-PSSD-Post-Drug-Syndromes-Corpus-v1.55.md` | a readable edition |
-| `PFS-PSSD-Corpus-v1.55-changes.json` | what changed since the previous release |
-| `PFS-PSSD-Methodology-and-Schema-v1.55.md` | **read this first** |
+| `PFS-PSSD-Corpus-v1.56.json` | every record, with full structure |
+| `PFS-PSSD-Corpus-v1.56.csv` | the same records, flattened, one row each |
+| `PFS-PSSD-Post-Drug-Syndromes-Corpus-v1.56.md` | a readable edition |
+| `PFS-PSSD-Corpus-v1.56-changes.json` | what changed since the previous release |
+| `PFS-PSSD-Methodology-and-Schema-v1.56.md` | **read this first** |
 
 **Start with the methodology and schema document.** It is generated from the release itself, so it cannot
 drift from what the files hold. It covers the nine routes records entered the library by, what each
 verification status means, the claim graph and its four stances, all 188 fields with how many records carry
 each, and how to cite a single record.
 
-v1.55 holds **940 records**: peer-reviewed papers, preprints and conference abstracts, regulatory documents,
+v1.56 holds **940 records**: peer-reviewed papers, preprints and conference abstracts, regulatory documents,
 attributed clinician commentary, videos and transcripts, patient-authored accounts, a 299-term glossary, a
 49-event timeline, a mechanism matrix rated separately for each syndrome, a body-systems review, medication
 and ICD-code tables, dataset and registry listings, and a list of open questions.
@@ -60,7 +60,7 @@ Zenodo deposit. The gene pages quote UniProt (CC BY 4.0) and NCBI Gene, attribut
 Releases are immutable and versioned. Cite the one you used:
 
 > Taverna, J. (2026). *Post-Drug Syndromes Research Library: a curated corpus on PFS, PSSD and post-retinoid
-> syndrome (v1.55)* (Version 1.55) [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.24144288
+> syndrome (v1.56)* (Version 1.56) [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.24171923
 
 `10.5281/zenodo.24142337` is the concept DOI and always resolves to the newest release, so cite it when the
 version does not matter. Records keep their identifier across releases, so a single record can be cited as

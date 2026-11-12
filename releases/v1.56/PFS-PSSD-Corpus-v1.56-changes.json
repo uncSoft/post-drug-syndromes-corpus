@@ -1,0 +1,14 @@
+{
+ "version": "1.56",
+ "previous_version": "1.55",
+ "created": "2026-11-12",
+ "summary": {
+  "added": 0,
+  "updated": 0,
+  "removed": 0
+ },
+ "note": "No record changes. Three repairs to the release files. The CSV header carried `duration` twice since v1.12, giving 187 columns under 186 distinct names; the duplicate is dropped, leaving 186 columns, and the two copies were identical in every release so no data moves. The Markdown edition's changelog, which ran v1.4 to v1.9 before v1.55 down to v1.10, now runs newest to oldest throughout. A dedup note that named whichever release was current, because the filename rename at the end of each build script is a blanket replace, is pinned to v1.4, the 320-record release it actually describes.",
+ "added": [],
+ "updated": [],
+ "removed": []
+}
